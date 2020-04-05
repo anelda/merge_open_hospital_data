@@ -1,0 +1,109 @@
+"0","dhb_2018_tb %>%  head(.) %>% kableExtra::kable() %>% "
+"0","  kableExtra::kable_styling(bootstrap_options = c(""striped"", ""hover"", ""bordered""), full_width = F) %>% "
+"0","  kableExtra::scroll_box(width = ""100%"", height = ""200px"")"
+"1","<div style=""border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; ""><table class=""table table-striped table-hover table-bordered"" style=""width: auto !important; margin-left: auto; margin-right: auto;"">
+ <thead>
+  <tr>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> fac_name </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> type </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> org_level </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> prov_abb </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> province </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> ou3_short </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> date_close </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> date_open </th>
+   <th style=""text-align:right;position: sticky; top:0; background-color: #FFFFFF;""> lat </th>
+   <th style=""text-align:right;position: sticky; top:0; background-color: #FFFFFF;""> long </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> comment </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> ou4short </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style=""text-align:left;""> Aberdeen Hospital </td>
+   <td style=""text-align:left;""> District Hospital </td>
+   <td style=""text-align:left;""> DH </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> DC10 </td>
+   <td style=""text-align:left;""> 9999-12-31 </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:right;""> -32.48621 </td>
+   <td style=""text-align:right;""> 24.06093 </td>
+   <td style=""text-align:left;"">  </td>
+   <td style=""text-align:left;""> EC101 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Adelaide Hospital </td>
+   <td style=""text-align:left;""> District Hospital </td>
+   <td style=""text-align:left;""> DH </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> DC12 </td>
+   <td style=""text-align:left;""> 9999-12-31 </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:right;""> -32.70092 </td>
+   <td style=""text-align:right;""> 26.29427 </td>
+   <td style=""text-align:left;"">  </td>
+   <td style=""text-align:left;""> EC129 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Aliwal North Hospital </td>
+   <td style=""text-align:left;""> District Hospital </td>
+   <td style=""text-align:left;""> DH </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> DC14 </td>
+   <td style=""text-align:left;""> 9999-12-31 </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:right;""> -30.69698 </td>
+   <td style=""text-align:right;""> 26.70719 </td>
+   <td style=""text-align:left;"">  </td>
+   <td style=""text-align:left;""> EC145 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> All Saints Hospital </td>
+   <td style=""text-align:left;""> District Hospital </td>
+   <td style=""text-align:left;""> DH </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> DC13 </td>
+   <td style=""text-align:left;""> 9999-12-31 </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:right;""> -31.66197 </td>
+   <td style=""text-align:right;""> 28.05041 </td>
+   <td style=""text-align:left;"">  </td>
+   <td style=""text-align:left;""> EC137 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Andries Vosloo Hospital </td>
+   <td style=""text-align:left;""> District Hospital </td>
+   <td style=""text-align:left;""> DH </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> DC10 </td>
+   <td style=""text-align:left;""> 9999-12-31 </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:right;""> -32.72181 </td>
+   <td style=""text-align:right;""> 25.59525 </td>
+   <td style=""text-align:left;"">  </td>
+   <td style=""text-align:left;""> EC102 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Bambisana Hospital </td>
+   <td style=""text-align:left;""> District Hospital </td>
+   <td style=""text-align:left;""> DH </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> DC15 </td>
+   <td style=""text-align:left;""> 9999-12-31 </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:right;""> -31.45019 </td>
+   <td style=""text-align:right;""> 29.45397 </td>
+   <td style=""text-align:left;"">  </td>
+   <td style=""text-align:left;""> EC154 </td>
+  </tr>
+</tbody>
+</table></div>"
+"1","
+"

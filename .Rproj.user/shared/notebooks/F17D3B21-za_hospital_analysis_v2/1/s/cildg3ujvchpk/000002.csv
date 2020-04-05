@@ -1,0 +1,90 @@
+"0","colmns = dim(sources_tbl)[2]"
+"0","sources_tbl %>%  kableExtra::kable() %>% "
+"0","  kableExtra::kable_styling(bootstrap_options = c(""striped"", ""hover""), full_width = F) %>% "
+"0","  kableExtra::column_spec(1:colmns, border_right = T, border_left = T) %>% "
+"0","  kableExtra::scroll_box(width = ""100%"", height = ""700px"") "
+"1","<div style=""border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:700px; overflow-x: scroll; width:100%; ""><table class=""table table-striped table-hover"" style=""width: auto !important; margin-left: auto; margin-right: auto;"">
+ <thead>
+  <tr>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Name </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Short Name </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Information </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Admin Level </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Web </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Raw Data </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Data License </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Origin/Owner </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> Last Updated </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Geographical maldistribution of surgical resources in South Africa: A review of the number of hospitals, hospital beds and surgical beds </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Hospital Bed </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Facility names, Number of beds and surgeons </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> District Municipality (3) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Article](http://www.samj.org.za/index.php/samj/article/view/12143) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Figshare](https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> CC-BY-4.0 </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Dr. Angela Dell </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Mar 2016 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> District Health Barometer info 2016 2017 06 Feb 2018 </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> DoH Health Barometer 2016/2017 </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Facility names, type </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> District Municipality (3) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Report](http://www.health.gov.za/index.php/2014-03-17-09-09-38/reports/category/424-reports-2017#) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Spreadsheet](http://www.health.gov.za/index.php/2014-03-17-09-09-38/reports/category/424-reports-2017?download=2652:district-health-barometer-info-2016-2017-06-feb-2018 ) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> No explicit license </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> South African National Department tof Health </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Feb 2018 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> District Health Barometer 2018/2019 </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> HST Health Barometer 2018/2019 </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Facility names, type, date opened, coords, date closed </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> District Municipality (3) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Report](https://www.hst.org.za/publications/Pages/DISTRICT-HEALTH-BAROMETER-201819.aspx) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Spreadsheet](https://www.hst.org.za/publications/District%20Health%20Barometers/DHB2019_19Feb2020.xlsb) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> No explicit license </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Health Systems Trust </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Feb 2020 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> National Department of Health Data Dictionary </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> DoH Data Dictionary </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Facility names, addresses, coordinate, type, rural/urban, ownership(e.g. national/provincial/private) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Local Municipality (4) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Data Repository](https://dd.dhmis.org/orgunits.html?file=NIDS%20Integrated&amp;source=nids&amp;ver=91b9) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [No direct link available - select Download on page and select 'Level 5' data](https://dd.dhmis.org/orgunits.html?file=NIDS%20Integrated&amp;source=nids&amp;ver=91b9) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> No explicit license </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> South African National Department of Health </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Aug 2019 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Healthsites.io </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Healthsites.io </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Various](https://github.com/healthsites/healthsites/wiki/Healthsite-attributes) - information collected through crowdsourcing </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Depends on crowdsourced contribution </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Homepage](https://healthsites.io/) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [API access](https://github.com/healthsites/healthsites/wiki/API) or [shapefile](https://healthsites.io/map?country=South Africa) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> CC-BY-4.0 </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Crowdsourcing </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Mar 2020 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> KEMRI/WHO: A spatial database of health facilities managed by the public health sector in sub-Saharan Africa </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> KEMRI/WHO </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Facility names, type, ownership, coordinates, source </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Province (2) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Article](https://dx.doi.org/10.1038%2Fs41597-019-0142-2) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> [Spreadsheet](https://www.who.int/malaria/areas/surveillance/public-sector-health-facilities-ss-africa/en/) </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> No explicit license - assumed CC-BY-4.0 based on article </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Hosted by WHO Global Malaria Program/Collected by KEMRI </td>
+   <td style=""text-align:left;border-left:1px solid;border-right:1px solid;""> Feb 2019 </td>
+  </tr>
+</tbody>
+</table></div>"
+"1","
+"

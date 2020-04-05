@@ -1,0 +1,144 @@
+"0","doh_dd_tb %>%  head(.) %>% kableExtra::kable() %>% "
+"0","  kableExtra::kable_styling(bootstrap_options = c(""striped"", ""hover"", ""bordered""), full_width = F) %>% "
+"0","  kableExtra::scroll_box(width = ""100%"", height = ""200px"")"
+"1","<div style=""border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; ""><table class=""table table-striped table-hover table-bordered"" style=""width: auto !important; margin-left: auto; margin-right: auto;"">
+ <thead>
+  <tr>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> province </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> prov_abb </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> ou3short </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> ou4name </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> ou4short </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> fac_name </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> date_open </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> date_close </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> coordinates </th>
+   <th style=""text-align:right;position: sticky; top:0; background-color: #FFFFFF;""> long </th>
+   <th style=""text-align:right;position: sticky; top:0; background-color: #FFFFFF;""> lat </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> contactperson </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> address </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> org_owner </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> org_rural_urban </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> type </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> last_update </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> A Nzo DM </td>
+   <td style=""text-align:left;""> ec Matatiele Local Municipality </td>
+   <td style=""text-align:left;""> Matatiele LM </td>
+   <td style=""text-align:left;""> Afsondering Clinic </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> [28.94812,-30.17988] </td>
+   <td style=""text-align:right;""> 28.94812 </td>
+   <td style=""text-align:right;""> -30.1798 </td>
+   <td style=""text-align:left;""> The Manager </td>
+   <td style=""text-align:left;""> Kwa Makhoba Location, Lusikisiki, 4820 </td>
+   <td style=""text-align:left;""> Gov Province </td>
+   <td style=""text-align:left;""> Rural </td>
+   <td style=""text-align:left;""> Clinic </td>
+   <td style=""text-align:left;""> 2019-08-11 13:15:41 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> A Nzo DM </td>
+   <td style=""text-align:left;""> ec Matatiele Local Municipality </td>
+   <td style=""text-align:left;""> Matatiele LM </td>
+   <td style=""text-align:left;""> Bergview Pharmacy </td>
+   <td style=""text-align:left;""> 2018-07-01 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> [28.80539,-30.342847] </td>
+   <td style=""text-align:right;""> 28.80539 </td>
+   <td style=""text-align:right;""> -30.3428 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> Pick'n Pay Centre, Main Road, Matatiele </td>
+   <td style=""text-align:left;""> Private </td>
+   <td style=""text-align:left;""> Urban </td>
+   <td style=""text-align:left;""> Pharmacy </td>
+   <td style=""text-align:left;""> 2019-08-11 13:15:41 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> A Nzo DM </td>
+   <td style=""text-align:left;""> ec Matatiele Local Municipality </td>
+   <td style=""text-align:left;""> Matatiele LM </td>
+   <td style=""text-align:left;""> Dr Mpho Desmond Liphapang General Practitioner </td>
+   <td style=""text-align:left;""> 2014-03-01 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:right;""> NA </td>
+   <td style=""text-align:right;""> NA </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> Private </td>
+   <td style=""text-align:left;""> Urban </td>
+   <td style=""text-align:left;""> General Practitioner </td>
+   <td style=""text-align:left;""> 2019-08-11 13:15:41 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> A Nzo DM </td>
+   <td style=""text-align:left;""> ec Matatiele Local Municipality </td>
+   <td style=""text-align:left;""> Matatiele LM </td>
+   <td style=""text-align:left;""> Elukholweni Clinic </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> [28.84811,-30.6329] </td>
+   <td style=""text-align:right;""> 28.84811 </td>
+   <td style=""text-align:right;""> -30.6329 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> Gov Province </td>
+   <td style=""text-align:left;""> Rural </td>
+   <td style=""text-align:left;""> Clinic </td>
+   <td style=""text-align:left;""> 2019-08-11 13:15:41 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> A Nzo DM </td>
+   <td style=""text-align:left;""> ec Matatiele Local Municipality </td>
+   <td style=""text-align:left;""> Matatiele LM </td>
+   <td style=""text-align:left;""> Isilindini Clinic </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> [28.59078,-30.62002] </td>
+   <td style=""text-align:right;""> 28.59078 </td>
+   <td style=""text-align:right;""> -30.6200 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> Zingcuka </td>
+   <td style=""text-align:left;""> Gov Province </td>
+   <td style=""text-align:left;""> Rural </td>
+   <td style=""text-align:left;""> Clinic </td>
+   <td style=""text-align:left;""> 2019-08-11 13:15:41 </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> EC </td>
+   <td style=""text-align:left;""> A Nzo DM </td>
+   <td style=""text-align:left;""> ec Matatiele Local Municipality </td>
+   <td style=""text-align:left;""> Matatiele LM </td>
+   <td style=""text-align:left;""> Khotsong TB Hospital </td>
+   <td style=""text-align:left;""> 1994-01-01 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> [28.82118,-30.34818] </td>
+   <td style=""text-align:right;""> 28.82118 </td>
+   <td style=""text-align:right;""> -30.3481 </td>
+   <td style=""text-align:left;""> NA </td>
+   <td style=""text-align:left;""> Jagger Street </td>
+   <td style=""text-align:left;""> Gov Province </td>
+   <td style=""text-align:left;""> Urban </td>
+   <td style=""text-align:left;""> Specialised TB Hospital </td>
+   <td style=""text-align:left;""> 2019-08-11 13:15:41 </td>
+  </tr>
+</tbody>
+</table></div>"
+"1","
+"

@@ -1,0 +1,13 @@
+{
+    "path" : "~/Desktop/hospital_data_covid19",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 2
+        }
+    ]
+}

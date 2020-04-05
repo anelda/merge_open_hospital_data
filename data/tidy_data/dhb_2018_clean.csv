@@ -1,0 +1,655 @@
+fac_name,type,org_level,prov_abb,province,ou3_short,date_close,date_open,lat,long,comment,ou4short
+Aberdeen Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-32.48621,24.06093,,EC101
+Adelaide Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.700920000000004,26.29427,,EC129
+Aliwal North Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-30.69698,26.70719,,EC145
+All Saints Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.66197,28.05041,,EC137
+Andries Vosloo Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-32.72181,25.59525,,EC102
+Bambisana Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.45019,29.45397,,EC154
+Bedford Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.67534,26.09012,,EC129
+Bhisho Hospital,District Hospital,DH,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.82774,27.45516,,BUF_SD
+BJ Vorster (Kareedouw) Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-33.95157,24.29786,,EC109
+Burgersdorp Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-30.99357,26.31398,,EC145
+Butterworth Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.33232,28.13877,,EC122
+Cala Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.52236,27.68274,,EC138
+Canzibe Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.80885,29.06588,,EC155
+Cathcart Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.29026,27.13691,,EC124
+Cloete Joubert (Barkly East) Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-30.96762,27.58507,,EC142
+Cofimvaba Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-32.01197,27.58348,,EC135
+Cradock Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-32.16734,25.62243,,EC131
+Dordrecht Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.39132,27.04435,,EC136
+Dr Malizo Mpehle Memorial Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,2009-01-01,-31.31661,28.77775,,EC156
+Elliot Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.33719,27.83797,,EC138
+Empilisweni Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-30.53324,27.35337,,EC142
+Fort Beaufort Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.7817,26.63483,,EC129
+Glen Grey Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.71991,27.19939,,EC136
+Greenville Hospital,District Hospital,DH,EC,Eastern Cape,DC44,9999-12-31,1994-01-01,-30.93056,30.10899,,EC443
+Grey Hospital,District Hospital,DH,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.87932,27.39579,,BUF_SD
+Hewu Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-32.17271,26.80522,,EC139
+Holy Cross Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.08128,29.49531,,EC153
+Humansdorp Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-34.03025,24.78144,,EC108
+Indwe Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.46834,27.34042,,EC136
+Isilimela Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.73422,29.35888,,EC154
+Jamestown Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-31.12366,26.8074,,EC145
+Komga Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.57606,27.89576,,EC123
+Lady Grey Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-30.7128,27.21188,,EC142
+Maclear Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-31.07593,28.34775,,EC141
+Madwaleni Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.09584,28.87875,,EC121
+Madzikane kaZulu Memorial Hospital,District Hospital,DH,EC,Eastern Cape,DC44,9999-12-31,1994-01-01,-30.90092,28.99562,Alias Mary Theresa Hospital or Mary Terese Hospital,EC442
+Zitulele Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-32.05055,29.09162,,EC157
+Willowmore Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-33.30042,23.46757,,EC101
+Wilhelm Stahl (Middelburg) Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.49173,24.99351,,EC131
+Victoria Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.77527,26.84678,,EC129
+Umlamli Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-30.56046,27.47457,,EC142
+Uitenhage Hospital,District Hospital,DH,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.74158,25.40679,,NMA_B
+Martje Venter (Tarkastad) Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-32.00894,26.25884,,EC139
+Tayler Bequest Hospital (Matatiele),District Hospital,DH,EC,Eastern Cape,DC44,9999-12-31,1994-01-01,-30.33275,28.80195,,EC441
+Tafalofefe Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.41022,28.51829,,EC122
+Sundays Valley (Kirkwood) Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-33.395,25.44001,,EC106
+Stutterheim Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1999-09-01,-32.56883,27.42256,,EC124
+Steynsburg Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-31.29615,25.81188,,EC145
+Sterkstroom Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.55316,26.55338,,EC139
+St Patricks Hospital,District Hospital,DH,EC,Eastern Cape,DC44,9999-12-31,1994-01-01,-30.8654,29.8516,,EC443
+St Lucys Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.3007,28.6298,,EC156
+St Francis Hospital,District Hospital,DH,EC,Eastern Cape,DC14,9999-12-31,1994-01-01,-30.68879,26.69921,,EC145
+St Barnabas Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.56429,29.11617,,EC155
+SS Gida Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.67458,27.1435,,EC124
+Sipetu Hospital,District Hospital,DH,EC,Eastern Cape,DC44,9999-12-31,1994-01-01,-31.09178,29.18731,,EC444
+Settlers Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-33.30246,26.51464,,EC104
+SAWAS Memorial (Jansenville) Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-32.94228,24.66203,Gateway? SAWAS = South African Women's Auxillary Services,EC101
+Port Alfred Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-33.59473,26.88336,,EC105
+Nompumelelo (Peddie) Hospital,District Hospital,DH,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-33.20921,27.13244,,EC126
+Nessie Knight Hospital,District Hospital,DH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.00913,28.68223,,EC156
+Mount Ayliff Hospital,District Hospital,DH,EC,Eastern Cape,DC44,9999-12-31,1994-01-01,-30.80522,29.3596,,EC442
+Molteno Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.3916,26.3555,,EC139
+Mjanyana Hospital,District Hospital,DH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.83602,28.1038,,EC137
+Midland Hospital,District Hospital,DH,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-32.26081,24.53619,,EC101
+Nelson Mandela Academic Hospital,National Central Hospital,CH,EC,Eastern Cape,DC15,9999-12-31,2003-03-01,-31.59068,28.76544,,EC157
+Life Beacon Bay Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,BUF,9999-12-31,2014-10-01,NA,NA,,BUF_SD
+Life East London Private Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-33.01281,27.90029,,BUF_SD
+Life Hunterscraig Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.9684,25.60949,,NMA_C
+Life Isivivana Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,DC10,9999-12-31,2014-10-01,NA,NA,,EC108
+Life Mercantile Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.9309,25.57532,,NMA_C
+Life St Dominic's Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.99689,27.90728,,BUF_SD
+Life St George's Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.96615,25.60951,,NMA_C
+Life St James Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.99933,27.90321,,BUF_SD
+Life St Mark's Clinic Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.99544,27.90659,Run by a group of private doctors.,BUF_SD
+Life St Mary's Private Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,DC15,9999-12-31,2013-04-01,-31.58651,28.7815,,EC157
+NHN Mthatha Sub-Acute Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,DC15,9999-12-31,2014-10-01,NA,NA,,EC157
+NHN Matatiele Private Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,DC44,9999-12-31,2014-10-01,NA,NA,,EC441
+NHN East London Eye Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,BUF,9999-12-31,2014-10-01,NA,NA,,BUF_SD
+NHN Crossmed Mthatha Private Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,DC15,9999-12-31,2014-10-01,NA,NA,,EC157
+NHN Care Cure Queenstown Sub-Acute Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,DC13,9999-12-31,2014-10-01,NA,NA,,EC139
+NHN Aurora Rehabilitation Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.96667,25.5602,,NMA_C
+Netcare Greenacres Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.94827,25.58397,,NMA_C
+Netcare Cuyler Hospital,Private Hospital,OtherHosp,EC,Eastern Cape,NMA,9999-12-31,1998-01-01,-33.96624,25.61705,,NMA_B
+Frere Hospital,Provincial Tertiary Hospital,TH,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.99599,27.89156,,BUF_SD
+Livingstone Hospital,Provincial Tertiary Hospital,TH,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.92519,25.57074,,NMA_C
+Port Elizabeth Provincial Hospital,Provincial Tertiary Hospital,TH,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.95843,25.59982,,NMA_C
+Cecilia Makiwane Hospital,Regional Hospital,RH,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.92785,27.74422,,BUF_SD
+Dora Nginza Hospital,Regional Hospital,RH,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.8756,25.55919,,NMA_A
+Frontier Hospital,Regional Hospital,RH,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.88968,26.87283,,EC139
+St Elizabeths Hospital,Regional Hospital,RH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.3598,29.5653,,EC153
+Mthatha General Hospital,Regional Hospital,RH,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.5903,28.76593,,EC157
+Newhaven Hospital,Specialised Chronic Hospital,OtherHosp,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.98286,27.90592,,BUF_SD
+Bedford Orthopaedic Hospital (Mthatha),Specialised Orthopaedic Hospital,OtherHosp,EC,Eastern Cape,DC15,9999-12-31,1994-01-01,-31.57604,28.70717,,EC157
+Elizabeth Donkin Hospital,Specialised Psychiatric Hospital,Psych,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.97977,25.62671,,NMA_C
+Fort England Hospital,Specialised Psychiatric Hospital,Psych,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-33.31561,26.54361,,EC104
+Komani Hospital,Specialised Psychiatric Hospital,Psych,EC,Eastern Cape,DC13,9999-12-31,1994-01-01,-31.92184,26.90888,,EC139
+Tower Hospital,Specialised Psychiatric Hospital,Psych,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.77024,26.63678,,EC129
+Empilweni TB Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.90868,25.58545,,NMA_C
+Jose Pearson TB Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.89215,25.46938,Previously a SANTA centre,NMA_B
+Khotsong TB Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,DC44,9999-12-31,1994-01-01,-30.34818,28.82118,,EC441
+Winterberg TB Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,DC12,9999-12-31,1994-01-01,-32.77916,26.65807,Previously a SANTA centre,EC129
+Margery Parkes TB Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-32.267,24.55619,Previously Margery Parkes SANTA Hospital,EC101
+Marjorie Parrish TB Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-33.56243,26.88126,Previously a SANTA centre,EC105
+Temba TB Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-33.30693,26.54657,Previously a SANTA centre,EC104
+PZ Meyer Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,DC10,9999-12-31,1994-01-01,-34.02253,24.75869,,EC108
+Orsmond TB Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,NMA,9999-12-31,1994-01-01,-33.74748,25.38002,Previously a SANTA centre,NMA_B
+Nkqubela Hospital,Specialised TB Hospital,TB,EC,Eastern Cape,BUF,9999-12-31,1994-01-01,-32.93284,27.74088,"600 TB beds, 100 psychiatric beds. Fort Grey TB Hospital was merged with Nkqubela TB hospital in March 2016 and beds increased to 270 until the Paediatric ward opens at which time beds will be 320.",BUF_SD
+Winburg Hospital,District Hospital,DH,FS,Free State,DC18,9999-12-31,1994-01-01,-28.5098,27.00802,,FS181
+Tokollo Hospital,District Hospital,DH,FS,Free State,DC20,9999-12-31,1994-01-01,-27.289180000000002,27.96168,,FS203
+Thusanong Hospital,District Hospital,DH,FS,Free State,DC18,9999-12-31,1994-01-01,-27.87735,26.65922,,FS184
+Thebe Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-28.27227,29.13805,,FS194
+Stoffel Coetzee Hospital,District Hospital,DH,FS,Free State,DC16,9999-12-31,1994-01-01,-30.21773,26.52442,Previously Smithfield Hosp,FS163
+Senorita Ntlabathi Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-29.20298,27.44807,Previously Mantsopa Hospital,FS196
+Phuthuloha Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-28.88137,27.87202,,FS191
+Phumelela Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-27.43353,29.15583,,FS195
+Phekolong Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-28.21768,28.32645,,FS192
+Parys Hospital,District Hospital,DH,FS,Free State,DC20,9999-12-31,1994-01-01,-26.89593,27.47207,,FS203
+Nketoana Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-27.80288,28.41893,,FS193
+National District Hospital,District Hospital,DH,FS,Free State,MAN,9999-12-31,1994-01-01,-29.12708,26.2064,,MAN_Bloem
+Nala Hospital,District Hospital,DH,FS,Free State,DC18,9999-12-31,1994-01-01,-27.39465,26.61783,,FS185
+Mohau Hospital,District Hospital,DH,FS,Free State,DC18,9999-12-31,1994-01-01,-27.83235,25.91538,,FS183
+Matlakeng Hospital,District Hospital,DH,FS,Free State,DC16,9999-12-31,1994-01-01,-30.2941,27.09824,Closed?,FS163
+Mafube Hospital,District Hospital,DH,FS,Free State,DC20,9999-12-31,1994-01-01,-27.27887,28.50023,,FS205
+Katleho Hospital,District Hospital,DH,FS,Free State,DC18,9999-12-31,1994-01-01,-28.11057,26.85798,,FS184
+John Daniel Newberry Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-28.91009,27.57423,,FS191
+Itemoheng Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-28.3272,27.60552,,FS191
+Fezi Ngumbentombi Hospital,District Hospital,DH,FS,Free State,DC20,9999-12-31,1994-01-01,-26.80143,27.82757,,FS204
+Embekweni Hospital,District Hospital,DH,FS,Free State,DC16,9999-12-31,1994-01-01,-30.29215,27.07542,Previously Zastron Hospital,FS163
+Elizabeth Ross Hospital,District Hospital,DH,FS,Free State,DC19,9999-12-31,1994-01-01,-28.58908,28.81755,,FS194
+Dr JS Moroka Hospital,District Hospital,DH,FS,Free State,MAN,9999-12-31,1994-01-01,-29.20458,26.83468,,MAN_Thaba
+Diamond (Diamant) Hospital,District Hospital,DH,FS,Free State,DC16,9999-12-31,1994-01-01,-29.76032,25.42315,Previously Jagersfontein Hospital,FS162
+Botshabelo Hospital,District Hospital,DH,FS,Free State,MAN,9999-12-31,1994-01-01,-29.23252,26.71572,,MAN_Bot
+Universitas (C) Hospital,National Central Hospital,CH,FS,Free State,MAN,9999-12-31,1994-01-01,-29.11808,26.18432,,MAN_Bloem
+Sasol Infrachem Hospital,Private Hospital,OtherHosp,FS,Free State,DC20,9999-12-31,2015-04-01,NA,NA,,FS204
+NHN Welkom Sub-Acute Hospital,Private Hospital,OtherHosp,FS,Free State,DC18,9999-12-31,2014-10-01,NA,NA,,FS184
+NHN St Helena Hospital,Private Hospital,OtherHosp,FS,Free State,DC18,9999-12-31,1994-01-01,-28.01157,26.7101,Mine hospital,FS184
+NHN M-Care Pentagon Park Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,2014-10-01,NA,NA,,MAN_Bloem
+NHN M-Care Optima Psychiatric Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,2014-10-01,NA,NA,,MAN_Bloem
+NHN M-Care Optima (Bloempsych),Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,2015-04-01,NA,NA,,MAN_Bloem
+NHN Hillandale Health Care Centre Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,2015-04-01,NA,NA,,MAN_Bloem
+NHN Ernest Oppenheimer Hospital,Private Hospital,OtherHosp,FS,Free State,DC18,9999-12-31,2016-01-01,-27.96686,26.77408,"Mine hospital closed in 2013-14, but Harmony Gold is negotiating with DoH to take it over. Opening data is tentative.",FS184
+NHN Corona Hospital,Private Hospital,OtherHosp,FS,Free State,DC19,9999-12-31,2015-04-01,NA,NA,,FS192
+NHN CareCure Victoria Gardens Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,2015-04-01,NA,NA,,MAN_Bloem
+Netcare Vaalpark Hospital,Private Hospital,OtherHosp,FS,Free State,DC20,9999-12-31,1994-01-01,-26.77323,27.83981,,FS204
+Netcare Pelonomi Private Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,2015-04-01,NA,NA,,MAN_Bloem
+Netcare Kroon Hospital,Private Hospital,OtherHosp,FS,Free State,DC20,9999-12-31,1994-01-01,-27.6537,27.2303,,FS201
+Mediclinic Hoogland Hospital,Private Hospital,OtherHosp,FS,Free State,DC19,9999-12-31,1994-01-01,-28.2232,28.33596,,FS192
+Mediclinic Bloemfontein Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,2004-07-01,-29.10588,26.20971,Previously Hydromed Hospital (Bloemfontein),MAN_Bloem
+Life Rosepark Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,1994-01-01,-29.14808,26.17921,,MAN_Bloem
+Life Hospital Park Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,1994-01-01,-29.0961,26.19797,,MAN_Bloem
+Cairnhall Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,1994-01-01,-29.11673,26.18748,,MAN_Bloem
+Busamed Harrismith Private Hospital,Private Hospital,OtherHosp,FS,Free State,DC19,9999-12-31,2017-03-01,NA,NA,,FS194
+Bloemcare Psychiatric Hospital,Private Hospital,OtherHosp,FS,Free State,MAN,9999-12-31,2014-10-01,-29.0864,26.15653,,MAN_Bloem
+Pelonomi Hospital,Provincial Tertiary Hospital,TH,FS,Free State,MAN,9999-12-31,1994-01-01,-29.14138,26.24572,,MAN_Bloem
+Mofumahadi Manapo Mopeli Hospital,Regional Hospital,RH,FS,Free State,DC19,9999-12-31,1994-01-01,-28.53707,28.80507,Alias Manapo Hospital,FS194
+Dihlabeng Hospital,Regional Hospital,RH,FS,Free State,DC19,9999-12-31,1994-01-01,-28.23317,28.3197,,FS192
+Bongani Hospital,Regional Hospital,RH,FS,Free State,DC18,9999-12-31,1994-01-01,-27.95315,26.7862,,FS184
+Boitumelo Hospital,Regional Hospital,RH,FS,Free State,DC20,9999-12-31,2000-04-01,-27.64253,27.21355,,FS201
+Free State Psychiatric Complex Hospital,Specialised Psychiatric Hospital,Psych,FS,Free State,MAN,9999-12-31,1994-01-01,-29.13386,26.20927,Merger of Oranje ( C ) and Oranje (P),MAN_Bloem
+Santoord TB Hospital,Specialised TB Hospital,TB,FS,Free State,MAN,9999-12-31,1994-01-01,-29.22,26.85,,MAN_Bloem
+Kopano MDR Hospital,Specialised TB Hospital,TB,FS,Free State,DC18,9999-12-31,2015-01-01,NA,NA,,FS184
+Tshwane District Hospital,District Hospital,DH,GP,Gauteng,TSH,9999-12-31,2006-04-01,-25.73271,28.20256,,TSH_3
+South Rand Hospital,District Hospital,DH,GP,Gauteng,JHB,9999-12-31,2001-04-01,-26.25297,28.06211,,JHB_F
+Pretoria West Hospital,District Hospital,DH,GP,Gauteng,TSH,9999-12-31,2001-04-01,-25.73654,28.13962,,TSH_3
+Odi Hospital,District Hospital,DH,GP,Gauteng,TSH,9999-12-31,2000-04-01,-25.5184,28.02248,,TSH_1
+Kopanong Hospital,District Hospital,DH,GP,Gauteng,DC42,9999-12-31,2001-04-01,-26.63793,27.93328,,GT421
+Jubilee Hospital,District Hospital,DH,GP,Gauteng,TSH,9999-12-31,2000-01-01,-25.40306,28.26582,,TSH_2
+Jabulani Hospital,District Hospital,DH,GP,Gauteng,JHB,9999-12-31,2013-04-01,-26.25087,27.85695,,JHB_D
+Heidelberg Hospital,District Hospital,DH,GP,Gauteng,DC42,9999-12-31,2001-04-01,-26.50364,28.35131,,GT423
+Dr Yusuf Dadoo Hospital,District Hospital,DH,GP,Gauteng,DC48,9999-12-31,2000-01-01,-26.09965,27.78386,,GT481
+Carletonville Hospital,District Hospital,DH,GP,Gauteng,DC48,9999-12-31,2001-04-01,-26.34704,27.39446,,GT484
+Bronkhorstspruit Hospital,District Hospital,DH,GP,Gauteng,TSH,9999-12-31,2003-09-01,-25.80339,28.71689,,TSH_7
+Bheki Mlangeni District Hospital,District Hospital,DH,GP,Gauteng,JHB,9999-12-31,2014-04-01,-26.24852,27.85452,Renamed from gp Zola Jabulani Hospital,JHB_D
+Bertha Gxowa Hospital,District Hospital,DH,GP,Gauteng,EKU,9999-12-31,2000-07-01,-26.21979,28.16305,,EKU_S1
+Steve Biko Academic Hospital,National Central Hospital,CH,GP,Gauteng,TSH,9999-12-31,2001-04-01,-25.72951,28.20256,,TSH_3
+Dr George Mukhari Hospital,National Central Hospital,CH,GP,Gauteng,TSH,9999-12-31,2001-04-01,-25.61904,28.01216,,TSH_1
+Chris Hani Baragwanath Hospital,National Central Hospital,CH,GP,Gauteng,JHB,9999-12-31,2001-04-01,-26.26009,27.93799,,JHB_D
+Charlotte Maxeke Hospital,National Central Hospital,CH,GP,Gauteng,JHB,9999-12-31,2001-04-01,-26.17409,28.04691,,JHB_F
+Zuid Afrikaans Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2000-04-01,-25.76201,28.20571,,TSH_3
+Witpoort Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2000-01-01,-26.26552,28.3814,,EKU_E2
+Waverly Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2000-01-01,-26.19395,28.19517,,EKU_S1
+Pretoria Urology Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2000-04-01,-25.74409,28.23775,,TSH_3
+Pretoria Eye Institute Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2000-04-01,-25.74742,28.21113,,TSH_3
+Phelang Private Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-01-01,NA,NA,,TSH_6
+Optiklin Eye Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2000-04-01,-26.1785,28.28709,,EKU_E1
+NHN Vista Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,1994-01-01,-25.84395,28.19321,,TSH_4
+NHN Urolocare Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-10-01,NA,NA,,TSH_3
+NHN Northcliff Medwedge Sub-Acute Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-10-01,NA,NA,,JHB_B
+NHN Lenmed Health Daxina Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-01-01,NA,NA,,JHB_G
+NHN Lenmed Health Ahmed Katrada Private Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2000-04-01,-26.328,27.86333,,JHB_G
+NHN Lenmed Daxina Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-10-01,NA,NA,,
+NHN Lakeview Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2015-04-01,NA,NA,,EKU_N2
+NHN Johannesburg Eye Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-10-01,NA,NA,,JHB_B
+NHN Intercare Sandton Day Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-10-01,NA,NA,,JHB_E
+NHN Intercare Irene Sub-Acute Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-10-01,NA,NA,,TSH_4
+NHN Intercare Irene Day Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-10-01,NA,NA,,TSH_4
+NHN Intercare Hazeldean Sub-Acute Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-10-01,NA,NA,,TSH_6
+NHN Intercare Hazeldean Day Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-10-01,NA,NA,,TSH_6
+NHN Centurion Eye Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-10-01,NA,NA,,TSH_4
+NHN Care Cure Vereeniging Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC42,9999-12-31,1994-01-01,NA,NA,,GT421
+NHN Care Cure Rynmed Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2014-10-01,NA,NA,,EKU_N2
+NHN Akeso Parktown Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-10-01,NA,NA,,JHB_F
+NHN Akeso Crescent Randburg Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-01-01,NA,NA,,JHB_B
+NHN Akeso Alberton Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2014-10-01,NA,NA,,EKU_S1
+Netcare Waterfall City Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-10-01,NA,NA,,JHB_A
+Netcare Union Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2000-04-01,-26.26529,28.12019,,EKU_S1
+Netcare Rosebank Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2000-04-01,-26.14624,28.03924,,JHB_B
+Netcare Rehabilitation Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2000-04-01,-26.18858,28.01224,,JHB_B
+Netcare Pretoria East Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2003-09-01,-25.82096,28.30496,,TSH_6
+Netcare Optiklin Eye Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2014-10-01,NA,NA,,EKU_N2
+Netcare Linmed Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2002-10-01,-26.14548,28.33078,,EKU_N2
+Netcare Linkwood Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-10-01,NA,NA,,JHB_E
+Netcare Ferncrest Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,1994-01-01,-25.67655,28.17387,,TSH_3
+Netcare Femina Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2003-09-01,-25.74012,28.20037,,TSH_3
+Netcare Bougainville Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2000-04-01,-25.71528,28.1535,,TSH_3
+Netcare Bell Street Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC48,9999-12-31,2014-10-01,NA,NA,,GT481
+Midvaal Private Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC42,9999-12-31,2001-10-01,-26.6617,27.96935,,GT421
+Mediclinic Vereeniging Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC42,9999-12-31,2000-05-01,-26.6678,27.9283,,GT421
+Mediclinic Morningside Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2000-04-01,-26.09566,28.05595,,JHB_E
+Mediclinic Medforum Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2003-01-01,-25.74687,28.19966,,TSH_3
+Mediclinic Legae Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2010-04-01,-25.52514,28.03835,,TSH_1
+Mediclinic Kloof Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2005-03-01,-25.81297,28.2631,,TSH_6
+Mediclinic Emfuleni Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC42,9999-12-31,2004-06-01,-26.70316,27.84252,,GT421
+Mayo Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,1994-01-01,-26.15047,27.92086,,JHB_C
+Louis Pasteur Private Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2003-09-01,-25.74855,28.19666,,TSH_3
+Lifemed Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2000-04-01,-26.20111,27.93667,,JHB_C
+Life Suikerbosrand Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC42,9999-12-31,2006-10-01,-26.49993,28.35781,Babies sent to Heidelberg Hospital for Immunisation Receiving no data from Suikerbosrand,GT423
+Life Springs Parkland Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2000-04-01,-26.26576,28.43466,,EKU_E2
+Life Roseacres Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2005-12-01,-26.19663,28.165,,EKU_S1
+Life Riverfield Lodge Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-01-01,NA,NA,,JHB_B
+Life Poortview Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-01-01,NA,NA,,JHB_D
+Life Glynnview Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2014-01-01,NA,NA,,EKU_N2
+Life Fourways Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2014-10-01,NA,NA,,JHB_A
+Life Carstenhof Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2000-04-01,-26.03111,28.13964,,JHB_E
+Life Brooklyn Day Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-10-01,NA,NA,,TSH_3
+Life Brenthurst Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2000-04-01,-26.18429,28.0466,,JHB_F
+Lesedi Private Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2009-01-01,-26.25816,27.93585,,JHB_D
+Kloof Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2003-11-01,-25.81118,28.26286,,TSH_6
+Harmelia Private Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2000-04-01,-26.13655,28.2021,,EKU_N1
+Fordsburg Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,1994-01-01,-26.20999,28.02157,,JHB_F
+Fochville Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC48,9999-12-31,1994-01-01,-26.48125,27.49689,,GT484
+Denmar Specialist Psychiatric Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2006-01-01,-25.80253,28.29974,,TSH_6
+Curamed Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2003-12-01,-25.75513,28.20343,,TSH_3
+Cormed Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC42,9999-12-31,2000-01-01,NA,NA,,GT421
+Botshilu Private Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-10-01,NA,NA,,TSH_1
+Baneng Psychiatric Hospital,Private Hospital,OtherHosp,GP,Gauteng,DC48,9999-12-31,2000-01-01,-26.20111,27.43667,,GT484
+Astrid Hospital,Private Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2004-03-01,-25.74756,28.20969,,TSH_3
+Argyle Hospital,Private Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2000-04-01,-26.1929,28.0434,,JHB_F
+Actonville Hospital,Private Hospital,OtherHosp,GP,Gauteng,EKU,9999-12-31,2000-04-01,-26.21268,28.30142,,EKU_E1
+Tembisa Hospital,Provincial Tertiary Hospital,TH,GP,Gauteng,EKU,9999-12-31,2001-04-01,-25.9828,28.23756,,EKU_N1
+Kalafong Hospital,Provincial Tertiary Hospital,TH,GP,Gauteng,TSH,9999-12-31,2001-04-01,-25.76277,28.08948,,TSH_3
+Helen Joseph Hospital,Provincial Tertiary Hospital,TH,GP,Gauteng,JHB,9999-12-31,2003-01-01,-26.1839,27.9901,,JHB_B
+Thelle Mogoerane Regional Hospital,Regional Hospital,RH,GP,Gauteng,EKU,9999-12-31,2001-04-01,-26.32501,28.14433,The “new” Natalspruit Hospital in Vosloorus has been renamed for ANC activist Thelle Mogoerane.,EKU_S1
+Tambo Memorial Hospital,Regional Hospital,RH,GP,Gauteng,EKU,9999-12-31,2001-04-01,-26.21849,28.24449,,EKU_N2
+Sebokeng Hospital,Regional Hospital,RH,GP,Gauteng,DC42,9999-12-31,2001-04-01,-26.60611,27.84622,,GT421
+Rahima Moosa Hospital,Regional Hospital,RH,GP,Gauteng,JHB,9999-12-31,2001-04-01,-26.18824,27.97329,,JHB_B
+Pholosong Hospital,Regional Hospital,RH,GP,Gauteng,EKU,9999-12-31,2001-04-01,-26.3398,28.37705,,EKU_E1
+New Natalspruit Hospital,Regional Hospital,RH,GP,Gauteng,EKU,9999-12-31,2015-01-01,-26.35733,28.22489,The “new” Natalspruit Hospital in Vosloorus has been renamed for ANC activist Thelle Mogoerane.,EKU_S1
+Mamelodi Hospital,Regional Hospital,RH,GP,Gauteng,TSH,9999-12-31,2001-04-01,-25.71864,28.36788,,TSH_6
+Leratong Hospital,Regional Hospital,RH,GP,Gauteng,DC48,9999-12-31,2001-04-01,-26.17133,27.80774,,GT481
+Far East Rand Hospital,Regional Hospital,RH,GP,Gauteng,EKU,9999-12-31,2001-04-01,-26.23545,28.40367,,EKU_E2
+Edenvale Hospital,Regional Hospital,RH,GP,Gauteng,JHB,9999-12-31,2001-04-01,-26.12831,28.12942,It seems Edenvale Hospital is in Joburg according to it's Physical address on the Gauteng Health website and also the co-ords I found on Google Maps,JHB_E
+Tshwane Rehabilitation Hospital,Specialised Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2014-02-01,-25.73406,28.20087,,TSH_3
+Sizwe Tropical Diseases Hospital,Specialised Hospital,OtherHosp,GP,Gauteng,JHB,9999-12-31,2002-02-01,-26.13745,28.12496,,JHB_E
+Cullinan Rehabilitation Hospital,Specialised Hospital,OtherHosp,GP,Gauteng,TSH,9999-12-31,2003-01-01,-25.69105,28.53852,,TSH_5
+Weskoppies Hospital,Specialised Psychiatric Hospital,Psych,GP,Gauteng,TSH,9999-12-31,2003-01-01,-25.76389,28.16057,,TSH_3
+Tara H Moross Centre Hospital,Specialised Psychiatric Hospital,Psych,GP,Gauteng,JHB,9999-12-31,2003-01-01,-26.10872,28.03646,,JHB_B
+Sterkfontein Hospital,Specialised Psychiatric Hospital,Psych,GP,Gauteng,DC48,9999-12-31,2003-01-01,-26.05818,27.7474,,GT481
+Wentworth Hospital,District Hospital,DH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.93291,30.98916,,ETH_MM
+Vryheid Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-27.75835,30.79709,,KZN263
+Untunjambili Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC29,9999-12-31,1994-01-01,-28.94202,30.94846,,KZN294
+Umphumulo Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC29,9999-12-31,1994-01-01,-29.14255,31.04259,,KZN294
+St Marys Hospital (Mariannhill),District Hospital,DH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.849,30.8249,,ETH_MM
+St Apollinaris Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC43,9999-12-31,1994-01-01,-30.01653,29.72575,,KZN436
+St Andrews Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC21,9999-12-31,1994-01-01,-30.5756,29.8893,,KZN214
+Rietvlei Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC43,9999-12-31,1994-01-01,-30.48783,29.82481,,KZN435
+Osindisweni Hospital,District Hospital,DH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.60822,30.9832,,ETH_MM
+Northdale Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.57562,30.40265,,KZN225
+Nkonjeni Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-28.22663,31.41477,,KZN266
+Nkandla Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC28,9999-12-31,1994-01-01,-28.6245,31.08683,,KZN286
+Niemeyer Memorial Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC25,9999-12-31,1994-01-01,-27.66179,30.31595,,KZN253
+Murchison Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC21,9999-12-31,1994-01-01,-30.72804,30.34402,,KZN216
+Mseleni Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC27,9999-12-31,1994-01-01,-27.32566,32.55664,,KZN271
+Mosvold Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC27,9999-12-31,1994-01-01,-27.13837,32.00475,Mosvold Sub-district,KZN272
+Montebello Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC29,9999-12-31,1994-01-01,-29.43948,30.80716,,KZN293
+McCords Hospital,District Hospital,DH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.83829,30.99694,changed ownership from Prov Aided to gov Province on Feb14,ETH_MM
+Mbongolwane Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC28,9999-12-31,1994-01-01,-28.93543,31.19541,,KZN284
+Manguzi Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC27,9999-12-31,1994-01-01,-26.98403,32.75637,,KZN271
+KwaMagwaza Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC28,9999-12-31,1994-01-01,-28.62933,31.34105,Previously St Mary's Hospital (Melmoth),KZN285
+Itshelejuba Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-27.27742,31.34797,,KZN262
+Hlabisa Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC27,9999-12-31,1994-01-01,-28.14555,31.8807,,KZN276
+Greytown Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC24,9999-12-31,1994-01-01,-29.06578,30.60005,,KZN245
+GJ Crookes Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC21,9999-12-31,1994-01-01,-30.2882,30.7449,,KZN212
+Estcourt Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC23,9999-12-31,1994-01-01,-29.02058,29.89393,,KZN237
+Eshowe Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC28,9999-12-31,1994-01-01,-28.891,31.46646,,KZN284
+Emmaus Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC23,9999-12-31,1994-01-01,-28.85249,29.38133,,KZN235
+Ekhombe Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC28,9999-12-31,1994-01-01,-28.64135,30.89321,,KZN286
+East Griqualand and Usher Memorial Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC43,9999-12-31,1994-01-01,-30.54583,29.41544,,KZN433
+Dundee Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC24,9999-12-31,1994-01-01,-28.1729,30.22974,,KZN241
+Church of Scotland Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC24,9999-12-31,1994-01-01,-28.7476,30.45092,,KZN244
+Christ the King Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC43,9999-12-31,1994-01-01,-30.16275,30.07793,,KZN434
+Charles Johnson Memorial Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC24,9999-12-31,1994-01-01,-28.21196,30.67292,,KZN242
+Ceza Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-27.99607,31.37719,,KZN266
+Catherine Booth Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC28,9999-12-31,1994-01-01,-28.99767,31.47471,,KZN284
+Bethesda Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC27,9999-12-31,1994-01-01,-27.57411,32.0821,,KZN272
+Benedictine Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-27.891,31.63932,,KZN265
+Appelsbosch Hospital,District Hospital,DH,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.38985,30.8427,,KZN221
+Inkosi Albert Luthuli Central Hospital,National Central Hospital,CH,KZ,KwaZulu Natal,ETH,9999-12-31,2004-01-01,-29.87391,30.95876,,ETH_MM
+Saiccor Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-30.2011,30.79335,,ETH_MM
+NHN Shelly Beach Day Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC21,9999-12-31,2014-01-01,NA,NA,,KZN216
+NHN Nongoma Private Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC26,9999-12-31,2014-10-01,NA,NA,,KZN265
+NHN M-Care Umhlanga Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,2014-10-01,NA,NA,,ETH_MM
+NHN Lenmed Health eThekwini Heart Centre Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,2014-10-01,NA,NA,,ETH_MM
+NHN Hillcrest Private Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,2014-10-01,NA,NA,,ETH_MM
+NHN Hibiscus Private Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC21,9999-12-31,1994-01-01,-30.74152,30.4517,,KZN216
+NHN Healing Hills Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,2014-10-01,NA,NA,,ETH_MM
+NHN Daymed Private Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.56266,30.40753,,KZN225
+NHN Capital Haematology Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,2014-10-01,NA,NA,,ETH_MM
+Netcare Umhlanga Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.7275,31.0687,,ETH_MM
+Netcare The Bay Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC28,9999-12-31,1994-01-01,-28.74956,32.05282,,KZN282
+Netcare St Augustine's Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.85649,30.99045,,ETH_MM
+Netcare Parklands Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.83404,30.99848,,ETH_MM
+Netcare Margate Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC21,9999-12-31,1994-01-01,-30.8617,30.35818,,KZN216
+Netcare Kingsway Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-30.0329,30.90398,,ETH_MM
+Netcare Alberlito Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC29,9999-12-31,2014-10-01,NA,NA,,KZN292
+Mediclinic Victoria Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.57331,31.11821,Check - not listed on Afrox Website,ETH_MM
+Malvern Medical and Dental Centre Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.88143,30.92062,,ETH_MM
+Longridge Colliery Mine Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-27.48725,30.60844,,KZN261
+Life Westville Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.85099,30.93211,,ETH_MM
+Life The Crompton Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.8112,30.86521,,ETH_MM
+Life Mount Edgecombe Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.71572,31.03565,Alias Phoenix Hospital,ETH_MM
+Life Entabeni Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.85554,30.98743,,ETH_MM
+Kynoch Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-30.01846,30.90682,,ETH_MM
+Greytown Private Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,DC24,9999-12-31,1994-01-01,-29.06073,30.60663,,KZN245
+City Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.85128,31.01469,,ETH_MM
+Bluff Medical and Dental Centre Hospital,Private Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.90864,31.02,,ETH_MM
+Ngwelezana Hospital,Provincial Tertiary Hospital,TH,KZ,KwaZulu Natal,DC28,9999-12-31,1994-01-01,-28.77956,31.86412,,KZN282
+King Edward VIII Hospital,Provincial Tertiary Hospital,TH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.88222,30.98951,Changed to Tertiary as instruction from Provinical Data Management October 2015,ETH_MM
+Grey's Hospital,Provincial Tertiary Hospital,TH,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.57961,30.36378,,KZN225
+Stanger Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,DC29,9999-12-31,1994-01-01,-29.33279,31.28516,,KZN292
+St Aidans Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.85072,31.01103,,ETH_MM
+RK Khan Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.91517,30.88624,,ETH_MM
+Prince Mshiyeni Memorial Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.95482,30.93662,,ETH_MM
+Port Shepstone Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,DC21,9999-12-31,1994-01-01,-30.7435,30.45088,,KZN216
+Newcastle Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,DC25,9999-12-31,1994-01-01,-27.76312,29.93597,,KZN252
+Mahatma Gandhi Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.71839,31.02885,,ETH_MM
+Madadeni Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,DC25,9999-12-31,1994-01-01,-27.7636,30.0508,,KZN252
+Ladysmith Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,DC23,9999-12-31,1994-01-01,-28.55673,29.76606,,KZN238
+King Dinuzulu Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.82357,30.98703,,ETH_MM
+Edendale Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.64737,30.33276,,KZN225
+Addington Hospital,Regional Hospital,RH,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.86163,31.04229,,ETH_MM
+Hillcrest Hospital,Specialised Chronic Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.78949,30.76151,Geriatrics,ETH_MM
+Clairwood Hospital,Specialised Chronic Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.93577,30.95678,,ETH_MM
+Amatikulu Chronic Sick Home Hospital,Specialised Chronic Hospital,OtherHosp,KZ,KwaZulu Natal,DC29,9999-12-31,1994-01-01,-29.12507,31.56957,,KZN291
+Oral and Dental Training Institution,Specialised Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,2003-11-01,-29.82619,30.98431,,ETH_MM
+KwaZulu-Natal Childrens Hospital,Specialised Hospital,OtherHosp,KZ,KwaZulu Natal,ETH,9999-12-31,2013-04-01,-29.86696,31.04294,,ETH_MM
+Umzimkhulu Hospital,Specialised Psychiatric Hospital,Psych,KZ,KwaZulu Natal,DC43,9999-12-31,1994-01-01,-30.25535,29.92602,,KZN435
+Umgeni Waterfall Institute Hospital,Specialised Psychiatric Hospital,Psych,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.50088,30.23278,,KZN222
+Townhill Hospital,Specialised Psychiatric Hospital,Psych,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.5875,30.36644,,KZN225
+St Francis Hospital,Specialised Psychiatric Hospital,Psych,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-28.22467,31.47673,,KZN266
+Fort Napier Hospital,Specialised Psychiatric Hospital,Psych,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.61386,30.36894,,KZN225
+Ekuhlengeni Sanatorium Hospital,Specialised Psychiatric Hospital,Psych,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-30.00714,30.90284,,ETH_MM
+Thulasizwe TB Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-27.95269,31.36786,,KZN266
+St Margarets TB MDR Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,DC43,9999-12-31,1994-01-01,-30.2693,29.9327,,KZN435
+Siloah Lutheran Mission Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-27.74022,31.51009,,KZN263
+Richmond Chest Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.86455,30.27582,,KZN227
+Mountain View Salvation Army Mission Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,DC26,9999-12-31,1994-01-01,-27.78138,31.42538,,KZN263
+Greytown TB Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,DC24,9999-12-31,2008-04-01,-29.067,30.583,,KZN245
+Dunstan Farrell TB Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,DC21,9999-12-31,1994-01-01,-30.5357,30.5125,,KZN216
+Doris Goodwin TB Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,DC22,9999-12-31,1994-01-01,-29.64881,30.33654,,KZN225
+Don McKenzie TB Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-29.73826,30.73953,,ETH_MM
+Charles James TB Hospital,Specialised TB Hospital,TB,KZ,KwaZulu Natal,ETH,9999-12-31,1994-01-01,-30.01707,30.88539,,ETH_MM
+Zebediela Hospital,District Hospital,DH,LP,Limpopo,DC35,9999-12-31,1994-01-01,-24.48189,29.40445,Alias Magatle (Zebediela) Hospital,LIM355
+Witpoort Hospital,District Hospital,DH,LP,Limpopo,DC36,9999-12-31,1994-01-01,-23.33447,28.01118,,LIM362
+WF Knobel Hospital,District Hospital,DH,LP,Limpopo,DC35,9999-12-31,1994-01-01,-23.63409,29.12057,,LIM354
+Warmbaths Hospital,District Hospital,DH,LP,Limpopo,DC36,9999-12-31,1994-01-01,-24.88592,28.28873,,LIM366
+Voortrekker Memorial (Potgietersrus) Hospital,District Hospital,DH,LP,Limpopo,DC36,9999-12-31,1994-01-01,-24.19624,29.01405,,LIM367
+Van Velden Memorial (Tzaneen) Hospital,District Hospital,DH,LP,Limpopo,DC33,9999-12-31,1994-01-01,-23.835,30.16427,,LIM333
+Thabazimbi Hospital,District Hospital,DH,LP,Limpopo,DC36,9999-12-31,1994-01-01,-24.59871,27.4069,,LIM361
+Siloam Hospital,District Hospital,DH,LP,Limpopo,DC34,9999-12-31,1994-01-01,-22.89266,30.19429,,LIM344
+Seshego Hospital,District Hospital,DH,LP,Limpopo,DC35,9999-12-31,1994-01-01,-23.85667,29.39583,,LIM354
+Sekororo Hospital,District Hospital,DH,LP,Limpopo,DC33,9999-12-31,1994-01-01,-24.2515,30.44767,,LIM335
+Nkhensani Hospital,District Hospital,DH,LP,Limpopo,DC33,9999-12-31,1994-01-01,-23.3125,30.69215,,LIM331
+Messina Hospital,District Hospital,DH,LP,Limpopo,DC34,9999-12-31,1994-01-01,-22.34169,30.04285,,LIM341
+Mecklenburg Hospital,District Hospital,DH,LP,Limpopo,DC47,9999-12-31,1994-01-01,-24.38612,30.07487,,LIM476
+Matlala Hospital,District Hospital,DH,LP,Limpopo,DC47,9999-12-31,1994-01-01,-24.83216,29.50233,,LIM471
+Maphutha L Malatjie Hospital,District Hospital,DH,LP,Limpopo,DC33,9999-12-31,1994-01-01,-23.92533,31.03717,,LIM334
+Malamulele Hospital,District Hospital,DH,LP,Limpopo,DC34,9999-12-31,1994-01-01,-22.99699,30.69669,,LIM345
+Louis Trichardt Hospital,District Hospital,DH,LP,Limpopo,DC34,9999-12-31,1994-01-01,-23.02913,29.90614,,LIM344
+Lebowakgomo Hospital,District Hospital,DH,LP,Limpopo,DC35,9999-12-31,1994-01-01,-24.2955,29.5285,Previously Lebowakgomo CHC,LIM355
+Kgapane Hospital,District Hospital,DH,LP,Limpopo,DC33,9999-12-31,1994-01-01,-23.64778,30.21861,,LIM332
+Jane Furse Hospital,District Hospital,DH,LP,Limpopo,DC47,9999-12-31,1994-01-01,-24.76383,29.86767,No geocode for new Jane Furse Hospital,LIM473
+Helene Franz Hospital,District Hospital,DH,LP,Limpopo,DC35,9999-12-31,1994-01-01,-23.28381,29.11313,,LIM351
+Groblersdal Hospital,District Hospital,DH,LP,Limpopo,DC47,9999-12-31,1994-01-01,-25.17626,29.40387,,LIM472
+George Masebe Hospital,District Hospital,DH,LP,Limpopo,DC36,9999-12-31,1994-01-01,-23.87583,28.69568,,LIM367
+FH Odendaal (Nylstroom) Hospital,District Hospital,DH,LP,Limpopo,DC36,9999-12-31,1994-01-01,-24.7014,28.42212,,LIM368
+Ellisras Hospital,District Hospital,DH,LP,Limpopo,DC36,9999-12-31,1994-01-01,-23.67809,27.70333,,LIM362
+Elim Hospital,District Hospital,DH,LP,Limpopo,DC34,9999-12-31,1994-01-01,-23.15409,30.05617,,LIM344
+Dr CN Phatudi Hospital,District Hospital,DH,LP,Limpopo,DC33,9999-12-31,1994-01-01,-24.02655,30.28098,,LIM333
+Donald Fraser Hospital,District Hospital,DH,LP,Limpopo,DC34,9999-12-31,1994-01-01,-22.88653,30.47902,,LIM343
+Dilokong Hospital,District Hospital,DH,LP,Limpopo,DC47,9999-12-31,1994-01-01,-24.61418,30.17051,"Hospital built to replace HC Boshoff, but functioned as a CHC for some time in 2004 and 2005.",LIM476
+Botlokwa Hospital,District Hospital,DH,LP,Limpopo,DC35,9999-12-31,1994-01-01,-23.49235,29.74225,,LIM353
+Swartklip Mine Hospital,Private Hospital,OtherHosp,LP,Limpopo,DC36,9999-12-31,2003-01-01,-24.93938,27.15166,,LIM361
+Setaria Mine Hospital,Private Hospital,OtherHosp,LP,Limpopo,DC36,9999-12-31,2003-01-01,NA,NA,,LIM361
+NHN Zoutpansberg Private Hospital,Private Hospital,OtherHosp,LP,Limpopo,DC34,9999-12-31,2014-10-01,NA,NA,,LIM344
+NHN St Vincent Hospital,Private Hospital,OtherHosp,LP,Limpopo,DC36,9999-12-31,1994-01-01,-24.88254,28.28463,Not providing data,LIM366
+NHN Quality Care Private Hospital,Private Hospital,OtherHosp,LP,Limpopo,DC34,9999-12-31,2014-10-01,NA,NA,,LIM344
+Mediclinic Lephalale Hospital,Private Hospital,OtherHosp,LP,Limpopo,DC36,9999-12-31,2014-10-01,NA,NA,,LIM362
+Anglo Platinum Mine Hospital,Private Hospital,OtherHosp,LP,Limpopo,DC36,9999-12-31,1994-01-01,NA,NA,,LIM367
+Amandelbult Mine Hospital,Private Hospital,OtherHosp,LP,Limpopo,DC36,9999-12-31,2003-01-01,-24.81422,27.29487,,LIM361
+Pietersburg Hospital,Provincial Tertiary Hospital,TH,LP,Limpopo,DC35,9999-12-31,1994-01-01,-23.89606,29.45909,,LIM354
+Mankweng Hospital,Provincial Tertiary Hospital,TH,LP,Limpopo,DC35,9999-12-31,1994-01-01,-23.87944,29.725,,LIM354
+Tshilidzini Hospital,Regional Hospital,RH,LP,Limpopo,DC34,9999-12-31,1994-01-01,-22.9947,30.41415,,LIM343
+St Ritas Hospital,Regional Hospital,RH,LP,Limpopo,DC47,9999-12-31,1994-01-01,-24.8446,29.804,,LIM473
+Philadelphia Hospital,Regional Hospital,RH,LP,Limpopo,DC47,9999-12-31,1994-01-01,-25.25923,29.14855,,LIM472
+Mokopane Hospital,Regional Hospital,RH,LP,Limpopo,DC36,9999-12-31,1994-01-01,-24.15208,28.98611,,LIM367
+Letaba Hospital,Regional Hospital,RH,LP,Limpopo,DC33,9999-12-31,1994-01-01,-23.87417,30.26933,,LIM333
+Thabamoopo Hospital,Specialised Psychiatric Hospital,Psych,LP,Limpopo,DC35,9999-12-31,1994-01-01,-24.30325,29.54406,,LIM355
+Hayani Hospital,Specialised Psychiatric Hospital,Psych,LP,Limpopo,DC34,9999-12-31,1994-01-01,-22.94093,30.48536,,LIM343
+Evuxakeni Hospital,Specialised Psychiatric Hospital,Psych,LP,Limpopo,DC33,9999-12-31,1994-01-01,-23.32223,30.72358,,LIM331
+FH Odendaal MDR Hospital,Specialised TB Hospital,TB,LP,Limpopo,DC36,9999-12-31,2006-01-01,-24.70138,28.42206,,LIM368
+Waterval Boven Hospital,District Hospital,DH,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.6479,30.338,,MP314
+Tonga Hospital,District Hospital,DH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.6947,31.7881,,MP324
+Tintswalo Hospital,District Hospital,DH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-24.59183,31.05983,,MP325
+Standerton Hospital,District Hospital,DH,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.93956,29.24544,,MP305
+Shongwe Hospital,District Hospital,DH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.686889999999998,31.49128,,MP324
+Sabie Hospital,District Hospital,DH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.09264,30.782,,MP321
+Piet Retief Hospital,District Hospital,DH,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-27.01889,30.80625,,MP303
+Mmametlhake Hospital,District Hospital,DH,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.10464,28.55872,,MP316
+Middelburg Hospital,District Hospital,DH,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.77417,29.45133,,MP313
+Matikwana Hospital,District Hospital,DH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-24.98763,31.23628,,MP325
+Matibidi Hospital,District Hospital,DH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-24.5884,30.7696,,MP321
+Lydenburg Hospital,District Hospital,DH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.1085,30.4514,,MP321
+KwaMhlanga Hospital,District Hospital,DH,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.41805,28.70415,,MP315
+Impungwe Hospital (Wolwekrans),District Hospital,DH,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.87273,29.25281,,MP312
+HA Grove Hospital,District Hospital,DH,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.69646,30.04431,Previously Belfast Hospital,MP314
+Evander Hospital,District Hospital,DH,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.45806,29.12639,,MP307
+Embhuleni Hospital,District Hospital,DH,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.04502,30.84049,,MP301
+Elsie Ballot Hospital,District Hospital,DH,MP,Mpumulanga,DC30,9999-12-31,2005-04-01,-27.0107,29.86146,,MP304
+Carolina Hospital,District Hospital,DH,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.07581,30.11237,,MP301
+Bethal Hospital,District Hospital,DH,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.46461,29.46735,,MP307
+Bernice Samuels Hospital,District Hospital,DH,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-26.15213,28.66699,Alias Delmas Hospital,MP311
+Barberton Hospital,District Hospital,DH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.78144,31.04189,,MP326
+Amajuba Memorial Hospital,District Hospital,DH,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-27.3525,29.89128,,MP304
+Optimum Mine Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,2000-01-01,NA,NA,,MP313
+NHN M-Care Nelspruit Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC32,9999-12-31,2014-10-01,NA,NA,,MP326
+NHN Kiaat Private Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC32,9999-12-31,2014-10-01,NA,NA,,MP326
+NHN Highveld Eye Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,2014-10-01,NA,NA,,MP312
+NHN eMalahleni Private Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,2014-10-01,NA,NA,,MP312
+NHN eMalahleni Day Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,2014-10-01,NA,NA,,MP312
+Middelburg Mine Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,2000-01-01,NA,NA,,MP313
+Mediclinic Nelspruit Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.4933,30.962,,MP326
+Mediclinic Highveld Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.48932,29.23785,Previously Hydromed Trichardt Hospital and mp Trichardt Medi-Clinic Hospital,MP307
+Life Piet Retief Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,NA,NA,,MP303
+Life Midmed Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.7629,29.45754,,MP313
+Life Cosmos Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.87408,29.21886,,MP312
+Koornfontein Mine Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,2000-01-01,NA,NA,,MP313
+Greenside Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,NA,NA,,MP312
+Ermelo Hospiplan Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.52297,29.97482,,MP302
+Douglas Colliery Mine Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,2000-01-01,-25.94671,29.8034,,MP313
+Arnot Colliery Mine Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,2000-01-01,NA,NA,,MP313
+Amcoal Highveld Hospital,Private Hospital,OtherHosp,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.87265,29.2112,,MP312
+Witbank Hospital,Provincial Tertiary Hospital,TH,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.881710000000002,29.23471,,MP312
+Rob Ferreira Hospital,Provincial Tertiary Hospital,TH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.47556,30.97111,,MP326
+Themba Hospital,Regional Hospital,RH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.3452,31.1228,,MP326
+Mapulaneng Hospital,Regional Hospital,RH,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-24.84972,31.06531,,MP325
+Ermelo Hospital,Regional Hospital,RH,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.52317,29.97522,,MP302
+Witbank Specialised TB Hospital,Specialised TB Hospital,TB,MP,Mpumulanga,DC31,9999-12-31,1994-01-01,-25.86672,29.16725,Previously HJE Schultz SANTA Hospital,MP312
+Standerton Specialised TB Hospital,Specialised TB Hospital,TB,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.93893,29.24255,Previously WF Te Water SANTA Centre,MP305
+Sesifuba TB Hospital,Specialised TB Hospital,TB,MP,Mpumulanga,DC30,9999-12-31,1994-01-01,-26.52028,29.97775,,MP302
+Bongani TB Hospital,Specialised TB Hospital,TB,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.08901,31.12695,,MP326
+Barberton TB Hospital,Specialised TB Hospital,TB,MP,Mpumulanga,DC32,9999-12-31,1994-01-01,-25.78014,31.02869,,MP326
+Tshwaragano Hospital,District Hospital,DH,NC,Northern Cape,DC45,9999-12-31,1994-01-01,-27.3067,23.34494,,NC452
+Springbok (Dr Van Niekerk) Hospital,District Hospital,DH,NC,Northern Cape,DC6,9999-12-31,1994-01-01,-29.66059,17.88323,,NC062
+Prof ZK Matthews Hospital,District Hospital,DH,NC,Northern Cape,DC9,9999-12-31,1994-01-01,-28.54003,24.51488,Barkly West Hospital renamed in Dec 2008,NC092
+Prieska (Bill Pickard) Hospital,District Hospital,DH,NC,Northern Cape,DC7,9999-12-31,1994-01-01,-29.66818,22.73732,,NC077
+Postmasburg Hospital,District Hospital,DH,NC,Northern Cape,DC8,9999-12-31,1994-01-01,-28.32763,23.06008,,NC085
+Manne Dipico (Colesberg) Hospital,District Hospital,DH,NC,Northern Cape,DC7,9999-12-31,1994-01-01,-30.73001,25.08956,Previously Colesberg Hospital,NC072
+Kuruman Hospital,District Hospital,DH,NC,Northern Cape,DC45,9999-12-31,1994-01-01,-27.46592,23.42663,,NC452
+Kakamas Hospital,District Hospital,DH,NC,Northern Cape,DC8,9999-12-31,1994-01-01,-28.78055,20.62249,,NC082
+Hartswater (Connie Vorster) Hospital,District Hospital,DH,NC,Northern Cape,DC9,9999-12-31,1994-01-01,-27.75766,24.81333,,NC094
+De Aar (Central Karoo) Hospital,District Hospital,DH,NC,Northern Cape,DC7,9999-12-31,1994-01-01,-30.65961,24.00825,,NC073
+Calvinia (Abraham Esau) Hospital,District Hospital,DH,NC,Northern Cape,DC6,9999-12-31,2000-04-01,-31.46187,19.77654,Previously Calvinia (Voortrekker) Hospital,NC065
+Mediclinic Kimberley Hospital,Private Hospital,OtherHosp,NC,Northern Cape,DC9,9999-12-31,2014-01-01,NA,NA,,NC091
+Kleinsee Private Hospital,Private Hospital,OtherHosp,NC,Northern Cape,DC6,9999-12-31,2014-01-01,NA,NA,,NC062
+Dr Harry Surtie Hospital,Regional Hospital,RH,NC,Northern Cape,DC8,9999-12-31,1994-01-01,-28.446,21.266,was nc Gordonia Hospital,NC087
+West End Specialised Psychiatric Hospital,Specialised Psychiatric Hospital,Psych,NC,Northern Cape,DC9,9999-12-31,2001-01-01,-28.7376,24.7239,,NC091
+West End Specialised TB Hospital,Specialised TB Hospital,TB,NC,Northern Cape,DC9,9999-12-31,2001-01-01,-28.8068,24.7737,"Name changed during workshop 14 July 2014,consulted management",NC091
+Upington TB Hospital (Paeds),Specialised TB Hospital,TB,NC,Northern Cape,DC8,9999-12-31,1994-01-01,-28.44604,21.26603,,NC087
+Helen Bishop Orthopaedic After-care Home,Step Down Facility,OtherHosp,NC,Northern Cape,DC9,9999-12-31,1994-01-01,NA,NA,,NC091
+Hanover Wellness Centre,Step Down Facility,OtherHosp,NC,Northern Cape,DC7,9999-12-31,2010-04-01,NA,NA,,NC073
+Colesberg Truck Wellness Centre,Step Down Facility,OtherHosp,NC,Northern Cape,DC7,9999-12-31,2010-04-01,NA,NA,,NC072
+Zeerust Hospital,District Hospital,DH,NW,North West,DC38,9999-12-31,1994-01-01,-25.54281,26.06647,?? PDEs but no expenditure - possibly combine with Lehurutshe,NW385
+Thusong Hospital,District Hospital,DH,NW,North West,DC38,9999-12-31,1994-01-01,-26.05176,25.94817,,NW384
+Taung Hospital,District Hospital,DH,NW,North West,DC39,9999-12-31,1994-01-01,-27.53775,24.79175,,NW394
+Schweizer-Reneke Hospital,District Hospital,DH,NW,North West,DC39,9999-12-31,1994-01-01,-27.1818,25.32879,,NW393
+Nic Bodenstein Hospital,District Hospital,DH,NW,North West,DC40,9999-12-31,1994-01-01,-27.18828,25.98291,,NW404
+Moses Kotane Hospital,District Hospital,DH,NW,North West,DC37,9999-12-31,1994-01-01,-25.18063,27.16183,Name changed on 17 May 2010,NW375
+Lehurutshe Hospital,District Hospital,DH,NW,North West,DC38,9999-12-31,1994-01-01,-25.47825,25.98058,,NW385
+Koster Hospital,District Hospital,DH,NW,North West,DC37,9999-12-31,1994-01-01,-25.8633,26.8978,Alias JD Verster District Hospital,NW374
+General de la Rey Hospital,District Hospital,DH,NW,North West,DC38,9999-12-31,1994-01-01,-26.1475,26.15132,Changed from CHC to hospital during 2002,NW384
+Gelukspan Hospital,District Hospital,DH,NW,North West,DC38,9999-12-31,1994-01-01,-26.19825,25.60146,,NW383
+Ganyesa Hospital,District Hospital,DH,NW,North West,DC39,9999-12-31,1994-01-01,-26.5449,24.13858,,NW397
+Christiana Hospital,District Hospital,DH,NW,North West,DC39,9999-12-31,1994-01-01,-27.90812,25.17532,,NW396
+Brits Hospital,District Hospital,DH,NW,North West,DC37,9999-12-31,1994-01-01,-25.6314,27.78452,,NW372
+RPM Mine Hospital,Private Hospital,OtherHosp,NW,North West,DC37,9999-12-31,1994-01-01,NA,NA,Mine hosp - TB data only,NW373
+NHN Wilmed Park Private Hospital,Private Hospital,OtherHosp,NW,North West,DC40,9999-12-31,1994-01-01,-26.83084,26.67859,For future use,NW403
+NHN Sunningdale Hospital,Private Hospital,OtherHosp,NW,North West,DC40,9999-12-31,2013-04-01,-26.84696,26.66934,For future use,NW403
+Life Peglerae Hospital,Private Hospital,OtherHosp,NW,North West,DC37,9999-12-31,1994-01-01,-25.67383,27.24233,,NW373
+Life Anncron Clinic Hospital,Private Hospital,OtherHosp,NW,North West,DC40,9999-12-31,2013-04-01,-26.84126,26.66846,Incorporates Daylene Clinic,NW403
+Impala Mine Hospital,Private Hospital,OtherHosp,NW,North West,DC37,9999-12-31,1994-01-01,-25.53358,27.20101,,NW373
+Andrew Saffey Mine Hospital,Private Hospital,OtherHosp,NW,North West,DC37,9999-12-31,1994-01-01,-25.67742,27.52882,TB data only,NW373
+Tshepong Hospital,Provincial Tertiary Hospital,TH,NW,North West,DC40,9999-12-31,2012-04-01,-26.87605,26.65088,Klerksdorp and Tshepong Hospitals reported combined data as Klerksdorp/Tshepong Hospital from 2000 until end of March 2012. All this historical data remains under Klerksdorp Hospital,NW403
+Klerksdorp-Tshepong Tertiary Hospital,Provincial Tertiary Hospital,TH,NW,North West,DC40,9999-12-31,1994-01-01,NA,NA,Klerksdorp and Tshepong Hospitals reported combined data as Klerksdorp/Tshepong Hospital from 2000 until end of March 2012. All this historical data remains under Klerksdorp Hospital. Merged to Klerksdorp-Tshepong in Oct 2015,NW403
+Job Shimankana Tabane Hospital,Provincial Tertiary Hospital,TH,NW,North West,DC37,9999-12-31,1994-01-01,-25.66278,27.23603,,NW373
+Potchefstroom Hospital,Regional Hospital,RH,NW,North West,DC40,9999-12-31,1994-01-01,-26.7269,27.08381,,NW405
+Mahikeng Provincial Hospital,Regional Hospital,RH,NW,North West,DC38,9999-12-31,1994-01-01,-25.88424,25.65794,,NW383
+Joe Morolong Memorial Hospital,Regional Hospital,RH,NW,North West,DC39,9999-12-31,1994-01-01,-26.95725,24.71612,,NW392
+Witrand Psychiatric Hospital,Specialised Psychiatric Hospital,Psych,NW,North West,DC40,9999-12-31,1994-01-01,-26.71392,27.09142,,NW405
+Bophelong Psychiatric Hospital,Specialised Psychiatric Hospital,Psych,NW,North West,DC38,9999-12-31,1994-01-01,-25.88377,25.65407,,NW383
+Wesfleur Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.56432,18.49541,,CPT_West
+Vredendal Hospital,District Hospital,DH,WC,Western Cape,DC1,9999-12-31,1994-01-01,-31.66944,18.50472,,WC011
+Vredenburg Hospital,District Hospital,DH,WC,Western Cape,DC1,9999-12-31,1994-01-01,-32.91361,17.99083,,WC014
+Victoria Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-34.01177,18.45925,"Tertiary classification - ""General""",CPT_South
+Uniondale Hospital,District Hospital,DH,WC,Western Cape,DC4,9999-12-31,1994-01-01,-33.65944,23.12556,,WC044
+Swellendam Hospital,District Hospital,DH,WC,Western Cape,DC3,9999-12-31,1994-01-01,-34.02377,20.44911,,WC034
+Swartland Hospital,District Hospital,DH,WC,Western Cape,DC1,9999-12-31,1994-01-01,-33.45444,18.72306,,WC015
+Stellenbosch Hospital,District Hospital,DH,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.93056,18.87028,,WC024
+Robertson Hospital,District Hospital,DH,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.80167,19.89133,,WC026
+Riversdale Hospital,District Hospital,DH,WC,Western Cape,DC4,9999-12-31,1994-01-01,-34.09361,21.25472,,WC042
+Radie Kotze Hospital,District Hospital,DH,WC,Western Cape,DC1,9999-12-31,1994-01-01,-32.90639,18.76222,,WC013
+Prince Albert Hospital,District Hospital,DH,WC,Western Cape,DC5,9999-12-31,1994-01-01,-33.21667,22.02583,,WC052
+Oudtshoorn Hospital,District Hospital,DH,WC,Western Cape,DC4,9999-12-31,1994-01-01,-33.58889,22.18889,No of beds reduced to 127 from 1 August 2003.,WC045
+Otto Du Plessis Hospital,District Hospital,DH,WC,Western Cape,DC3,9999-12-31,1994-01-01,-34.53633,20.03367,,WC033
+Murraysburg Hospital,District Hospital,DH,WC,Western Cape,DC5,9999-12-31,1994-01-01,-31.9625,23.76917,,WC053
+Mossel Bay Hospital,District Hospital,DH,WC,Western Cape,DC4,9999-12-31,1994-01-01,-34.18583,22.1275,,WC043
+Montagu Hospital,District Hospital,DH,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.79778,20.12333,,WC026
+Mitchells Plain Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,2010-04-01,-34.02623,18.6157,,CPT_Mitch
+LAPA Munnik Hospital,District Hospital,DH,WC,Western Cape,DC1,9999-12-31,1994-01-01,-33.01806,18.99444,,WC013
+Laingsburg Hospital,District Hospital,DH,WC,Western Cape,DC5,9999-12-31,1994-01-01,-33.19444,20.85028,,WC051
+Knysna Hospital,District Hospital,DH,WC,Western Cape,DC4,9999-12-31,1994-01-01,-34.03694,23.05806,,WC048
+Khayelitsha Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,2006-01-01,-34.05118,18.67434,Previously Khayelitsha Hospital,CPT_Khaye
+Karl Bremer Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.89482,18.60966,"Tertiary classification - ""General""",CPT_Tyger
+Hermanus Hospital,District Hospital,DH,WC,Western Cape,DC3,9999-12-31,1994-01-01,-34.42267,19.22833,,WC032
+Helderberg Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-34.07472,18.86583,"Previously Hottentots Holland Hospital. Tertiary classification - ""General""",CPT_East
+GF Jooste Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.98564,18.55914,"Tertiary classification - ""General""",CPT_Klip
+False Bay Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-34.13157,18.41529,,CPT_South
+Eerste River Hospital,District Hospital,DH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.99729,18.71907,Hospital bought from private sector in 2002. Opened 1 September 2002.,CPT_East
+Clanwilliam Hospital,District Hospital,DH,WC,Western Cape,DC1,9999-12-31,1994-01-01,-32.18361,18.89083,,WC012
+Citrusdal Hospital,District Hospital,DH,WC,Western Cape,DC1,9999-12-31,1994-01-01,-32.59889,19.0175,,WC012
+Ceres Hospital,District Hospital,DH,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.36306,19.30083,Stopped submitting PHC data in Feb-99,WC022
+Caledon Hospital,District Hospital,DH,WC,Western Cape,DC3,9999-12-31,1994-01-01,-34.22433,19.43317,,WC031
+Beaufort West Hospital CDC,District Hospital,DH,WC,Western Cape,DC5,9999-12-31,1994-01-01,-32.35278,22.6075,Previously Beaufort West Hospital CHC Previously Beaufort West Hospital PHC Clinic,WC053
+Alan Blyth Hospital,District Hospital,DH,WC,Western Cape,DC4,9999-12-31,1994-01-01,NA,NA,,WC041
+Tygerberg Hospital,National Central Hospital,CH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.90998,18.61304,"Previously Tygerberg Hospital Tertiary classification - ""Central""",CPT_Tyger
+Groote Schuur Hospital,National Central Hospital,CH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.94206,18.46244,"Previously Groote Schuur Hospital Tertiary classification - ""Central""",CPT_West
+Wesfleur Clinic Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.56499,18.49505,,CPT_West
+Shirnell Clinic Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.91578,18.44249,,CPT_West
+NHN Spescare Sub-Acute Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_East
+NHN M-Care Newlands Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_South
+NHN M-Care Cape View Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_North
+NHN Life Path Helderberg Clinic Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_East
+NHN Kango Clinic,Private Hospital,OtherHosp,WC,Western Cape,DC4,9999-12-31,2014-10-01,NA,NA,,WC045
+NHN Intercare Tyger Valley Sub-Acute Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_North
+NHN Intercare Century City Day Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_West
+Netcare UCT Private Academic Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_West
+Netcare Southern Cross Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-34.00479,18.46923,,CPT_South
+Netcare N1 City Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.89363,18.55897,,CPT_Tyger
+Netcare Kuils River Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2002-09-01,-33.91959,18.67525,Previously Kuils River Private Hospital,CPT_East
+Netcare Christiaan Barnard Memorial Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,-33.9219,18.41808,Formerly City Park Hospital,CPT_West
+Netcare Ceres Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.36074,19.3094,Previously Ceres Medi-Clinic Hospital Only perinatal data,WC022
+Netcare Blaauwberg Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2013-04-01,NA,NA,,CPT_West
+Meyer Zall Institute Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC4,9999-12-31,1994-01-01,NA,NA,,WC048
+Melomed Mitchells Plain Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2013-04-01,NA,NA,,CPT_Mitch
+Melomed Gatesville Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2013-08-01,NA,NA,,CPT_Klip
+Melomed Bellville Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2013-04-01,NA,NA,,CPT_Tyger
+Mediclinic Worcester Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.64431,19.45071,,WC025
+Mediclinic Vergelegen Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,-34.09161,18.85811,,CPT_East
+Mediclinic Stellenbosch Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.94491,18.84997,Previously Stellenbosch Medi-Clinic Hospital,WC024
+Mediclinic Panorama Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,-33.87629,18.5736,,CPT_North
+Mediclinic Paarl Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC2,9999-12-31,2000-01-01,-33.71875,18.96917,Previously Paarl Medi-Clinic Hospital,WC023
+Mediclinic Milnerton Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,-33.86549,18.5069,,CPT_West
+Mediclinic Louis Leipoldt Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,-33.90149,18.61273,Previously Louis Leipoldt Medi-Clinic Hospital,CPT_Tyger
+Mediclinic Klein Karoo Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC4,9999-12-31,1994-01-01,-33.58612,22.1857,Previously Klein Karoo Medi-Clinic Hospital,WC045
+Mediclinic Hermanus Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC3,9999-12-31,1994-01-01,-34.42299,19.22622,Previously Hermanus Medi-Clinic Hospital Only perinatal data,WC032
+Mediclinic George Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC4,9999-12-31,1994-01-01,-33.95735,22.45625,Previously George Medi-Clinic Hospital Previously Lamprecht Clinic Hospital,WC044
+Mediclinic Durbanville Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,-33.82603,18.6551,Previously Durbanville Medi-Clinic Hospital,CPT_North
+Mediclinic Constantiaberg Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,NA,NA,Previously Constantiaberg Medi-Clinic Hospital,CPT_South
+Mediclinic Cape Town Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2001-05-01,-33.93613,18.4103,,CPT_West
+Mediclinic Cape Gate Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2011-04-01,NA,NA,,CPT_North
+Life West Coast Private Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC1,9999-12-31,1998-01-01,NA,NA,,WC014
+Life Vincent Pallotti Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,-33.94364,18.49029,,CPT_West
+Life Knysna Private Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC4,9999-12-31,1994-01-01,NA,NA,,WC048
+Life Kingsbury/Claremont Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2013-04-01,NA,NA,,CPT_South
+Life Kingsbury Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2013-04-01,-33.98642,18.46852,,CPT_South
+Life Claremont Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.98644,18.46658,,CPT_South
+Life Bay View Private Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC4,9999-12-31,1994-01-01,NA,NA,FP & BCG data,WC043
+Libertas Clinic Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.91211,18.5418,,CPT_Tyger
+Jan S Marais Private Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1999-01-01,-33.90251,18.62955,Previously Jan S Marais Hospital,
+Drakenstein Hospital,Private Hospital,OtherHosp,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.71883,18.96904,,WC023
+Aevitas/Tygerberg Hospital,Private Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.94358,18.49029,,CPT_Tyger
+Red Cross War Memorial Children's Hospital,Provincial Tertiary Hospital,TH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.95319,18.48707,"Previously Red Cross Children's Hospital Tertiary classification - ""Central""",CPT_South
+Worcester Hospital,Regional Hospital,RH,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.64556,19.45806,Previously Eben Donges Hospital.,WC025
+Paarl Hospital,Regional Hospital,RH,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.72639,18.97028,"Tertiary classification - ""General""",WC023
+New Somerset Hospital,Regional Hospital,RH,WC,Western Cape,CPT,9999-12-31,1994-04-01,-33.90444,18.41683,,CPT_West
+Mowbray Maternity Hospital,Regional Hospital,RH,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.94822,18.47528,,CPT_South
+George Hospital,Regional Hospital,RH,WC,Western Cape,DC4,9999-12-31,1994-01-01,-33.95194,22.45028,,WC044
+Regina Centre,Specialised Chronic Hospital,OtherHosp,WC,Western Cape,DC2,9999-12-31,1994-01-01,NA,NA,Transferred to Dept of Welfare,WC025
+Life Sports Science Orthopaedic Surgical Day Centre,Specialised Orthopaedic Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_South
+Life Orthopaedic Hospital,Specialised Orthopaedic Hospital,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-10-01,NA,NA,,CPT_West
+Valkenberg Hospital,Specialised Psychiatric Hospital,Psych,WC,Western Cape,CPT,9999-12-31,2003-03-01,-33.93732,18.48024,,CPT_West
+Stikland Hospital,Specialised Psychiatric Hospital,Psych,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.89083,18.65498,,CPT_Tyger
+Lentegeur Hospital,Specialised Psychiatric Hospital,Psych,WC,Western Cape,CPT,9999-12-31,1994-01-01,-34.02487,18.61771,,CPT_Mitch
+Alexandra Hospital,Specialised Psychiatric Hospital,Psych,WC,Western Cape,CPT,9999-12-31,2000-01-01,-33.93008,18.48448,,CPT_West
+Sonstraal TB Hospital,Specialised TB Hospital,TB,WC,Western Cape,DC1,9999-12-31,1994-01-01,-33.71194,18.98694,check co-ords and district/LM,WC015
+Malmesbury Infectious Disease Hospital,Specialised TB Hospital,TB,WC,Western Cape,DC1,9999-12-31,1994-01-01,-33.46722,18.7175,Previously Malmesbury ID Hospital,WC015
+Harry Comay TB Hospital,Specialised TB Hospital,TB,WC,Western Cape,DC4,9999-12-31,1994-01-01,-33.98028,22.4725,Previously Harry Comay SANTA Hospital,WC044
+DP Marais TB Hospital,Specialised TB Hospital,TB,WC,Western Cape,CPT,9999-12-31,1994-01-01,-34.06195,18.46033,Previously DP Marais TB Hospital Previously DP Marais SANTA Hospital,CPT_South
+Brooklyn Chest Hospital,Specialised TB Hospital,TB,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.89994,18.4853,Metro TB Hospital Centre,CPT_West
+Brewelskloof TB Hospital,Specialised TB Hospital,TB,WC,Western Cape,DC2,9999-12-31,1994-01-01,-33.62111,19.45694,Previously Brewelskloof TB Hospital,WC025
+William Slater Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.951,18.48413,Not closed. Specialised OPD unit of Groote Schuur Hospital (Adolescent Unit).,CPT_West
+Vredendal Old Age Home Convalescent Unit,Step Down Facility,OtherHosp,WC,Western Cape,DC1,9999-12-31,2010-08-01,NA,NA,,WC011
+Tygerberg Trust Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,2010-10-01,NA,NA,,CPT_Tyger
+Themba Care Theewaterskloof Intermediate Care,Step Down Facility,OtherHosp,WC,Western Cape,DC3,9999-12-31,2007-10-01,NA,NA,,WC031
+Stepping Stones Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-34.16657,18.3453,,CPT_South
+Stellenbosch Hospice,Step Down Facility,OtherHosp,WC,Western Cape,DC2,9999-12-31,1994-01-01,NA,NA,,WC024
+St Joseph's Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.96389,18.57194,,CPT_Tyger
+Siyabonga Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC1,9999-12-31,2006-09-01,NA,NA,,WC014
+Sederhof/ACVV Clanwilliam Intermediate Care Service,Step Down Facility,OtherHosp,WC,Western Cape,DC1,9999-12-31,2013-06-01,NA,NA,,WC012
+Sarah Fox Step down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.96737,18.53405,,CPT_Klip
+Overstrand Care Centre Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC3,9999-12-31,2010-10-01,NA,NA,,WC032
+New Beginnings Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,2010-01-01,NA,NA,,CPT_Tyger
+Nelspoort Palliative Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC5,9999-12-31,2011-10-01,NA,NA,,WC053
+Maitland Cottage Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.97534,18.4556,,CPT_South
+Lizo Nobanda Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,2014-04-01,NA,NA,,CPT_Khaye
+Living Hope Trust Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,2009-04-01,NA,NA,,CPT_South
+Lentegeur Intermediate Care,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,2015-04-01,NA,NA,,CPT_Mitch
+LAPA Munnik Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC1,9999-12-31,2010-08-01,-33.018,18.99,,WC013
+Knysna Sub-acute Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC4,9999-12-31,2010-12-01,-34.04,23.05,,WC048
+Knysna Sedgefield Hospice,Step Down Facility,OtherHosp,WC,Western Cape,DC4,9999-12-31,1994-01-01,NA,NA,,WC048
+Helderberg Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,2009-04-01,NA,NA,,CPT_East
+Hampton House Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.99949,18.46808,,CPT_South
+Goue Aar Intermediate Care,Step Down Facility,OtherHosp,WC,Western Cape,DC1,9999-12-31,2013-07-01,NA,NA,Goue Aar Intermediate Care Service on Sinjani. Classified as a Intermediate Care. Facility name corrected to Goue Aar Intermediate Care on the August 2014,WC015
+Drakenstein Intermediate Care Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC2,9999-12-31,2006-05-01,-33.6426,18.99775,,WC023
+Cornerstone Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC5,9999-12-31,2010-07-01,NA,NA,,WC053
+Conradie Care Centre Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,2000-01-01,-33.93,18.49,"Tertiary classification - ""Chronic Medical"". Operates from the grounds of Conradie Hospital as a separate facility. Run under contract with PAWC.",CPT_Mitch
+Ceres Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC2,9999-12-31,2009-08-01,NA,NA,,WC022
+Bram Care Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC2,9999-12-31,2009-03-01,-33.83285,20.0664,Previously Bram Care Centre,WC026
+Booth Memorial Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,1994-01-01,-33.93806,18.41444,"Tertiary classification - ""Chronic Medical""",CPT_West
+Boland Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC2,9999-12-31,2010-08-01,NA,NA,,WC025
+Bethesda CMSR Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC4,9999-12-31,2007-01-01,NA,NA,,WC044
+Baphumelele Respite Care Centre Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,CPT,9999-12-31,2009-04-01,NA,NA,,CPT_Khaye
+@ Peace Palliative Step Down Facility,Step Down Facility,OtherHosp,WC,Western Cape,DC4,9999-12-31,2010-10-01,NA,NA,,WC043
+Helderberg Hospital (Private Ward),Ward,OtherHosp,WC,Western Cape,CPT,9999-12-31,2003-04-01,-34.07472,18.86583,Previously Hottentots Holland Hospital (Private Ward). Commencing April 2003. Private ward. No of beds +/- 10 & 2 cots.,CPT_East

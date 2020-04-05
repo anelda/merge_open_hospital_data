@@ -1,0 +1,13 @@
+"0","# Load hospital list data from DoH District Health Barometer file"
+"0","dhb_2016_tb %>%  head(.) %>% kableExtra::kable() %>% "
+"0","  kableExtra::kable_styling(bootstrap_options = c(""striped"", ""hover"", ""bordered""), full_width = F) %>% "
+"0","  kableExtra::scroll_box(width = ""100%"", height = ""200px"")"
+"1","<div style=""border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; ""><table class=""table table-striped table-hover table-bordered"" style=""width: auto !important; margin-left: auto; margin-right: auto;"">
+<tbody>
+  <tr>
+
+  </tr>
+</tbody>
+</table></div>"
+"1","
+"

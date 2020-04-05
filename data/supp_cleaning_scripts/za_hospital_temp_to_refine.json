@@ -1,0 +1,184 @@
+[
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Prov",
+    "description": "Fill down cells in column Prov"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Prov",
+          "expression": "value",
+          "columnName": "Prov",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "LP Result",
+                "l": "LP Result"
+              }
+            },
+            {
+              "v": {
+                "v": "FS Result",
+                "l": "FS Result"
+              }
+            },
+            {
+              "v": {
+                "v": "EC Result",
+                "l": "EC Result"
+              }
+            },
+            {
+              "v": {
+                "v": "GP Result",
+                "l": "GP Result"
+              }
+            },
+            {
+              "v": {
+                "v": "KZN Result",
+                "l": "KZN Result"
+              }
+            },
+            {
+              "v": {
+                "v": "MP Result",
+                "l": "MP Result"
+              }
+            },
+            {
+              "v": {
+                "v": "NC Result",
+                "l": "NC Result"
+              }
+            },
+            {
+              "v": {
+                "v": "WC Result",
+                "l": "WC Result"
+              }
+            },
+            {
+              "v": {
+                "v": "Total Result",
+                "l": "Total Result"
+              }
+            },
+            {
+              "v": {
+                "v": "NW Result",
+                "l": "NW Result"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "Prov",
+          "columnName": "Prov",
+          "query": "Result",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Dist_MDB",
+    "description": "Fill down cells in column Dist_MDB"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Dist_MDB",
+    "description": "Fill down cells in column Dist_MDB"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Dist_MDB",
+    "description": "Fill down cells in column Dist_MDB"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Dist_MDB",
+    "description": "Fill down cells in column Dist_MDB"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "OrgUnitType",
+    "description": "Fill down cells in column OrgUnitType"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Prov",
+    "newColumnName": "province",
+    "description": "Rename column Prov to province"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Dist_MDB",
+    "newColumnName": "district_mdb",
+    "description": "Rename column Dist_MDB to district_mdb"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "OrgUnitType",
+    "newColumnName": "org_unit_type",
+    "description": "Rename column OrgUnitType to org_unit_type"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "OrgUnit5",
+    "newColumnName": "facility_name",
+    "description": "Rename column OrgUnit5 to facility_name"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "facility_name",
+    "expression": "grel:value.replace(/^\\w\\w\\s/, \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column facility_name using expression grel:value.replace(/^\\w\\w\\s/, \"\")"
+  }
+]

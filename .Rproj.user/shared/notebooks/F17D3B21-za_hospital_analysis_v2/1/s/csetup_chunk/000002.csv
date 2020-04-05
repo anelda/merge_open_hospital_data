@@ -1,0 +1,6 @@
+"0","knitr::opts_chunk$set(echo = FALSE, message = FALSE)"
+"0","## Requires dplyr 1.0.0 to use relocate()"
+"0","req_packages <- c(""knitr"", ""DT"", ""filesstrings"", ""stringdist"", ""lubridate"", ""purrr"", ""readxlsb"", ""readxl"")"
+"0","library(""tidyverse"")"
+"0","lapply(req_packages, library, character.only = TRUE) %>%"
+"0","  invisible()"

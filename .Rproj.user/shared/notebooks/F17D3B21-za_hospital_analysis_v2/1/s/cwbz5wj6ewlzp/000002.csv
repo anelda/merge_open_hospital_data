@@ -1,0 +1,74 @@
+"0","kemri_who_tb %>%  head(.) %>% kableExtra::kable() %>% "
+"0","  kableExtra::kable_styling(bootstrap_options = c(""striped"", ""hover"", ""bordered""), full_width = F) %>% "
+"0","  kableExtra::scroll_box(width = ""100%"", height = ""200px"")"
+"1","<div style=""border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; ""><table class=""table table-striped table-hover table-bordered"" style=""width: auto !important; margin-left: auto; margin-right: auto;"">
+ <thead>
+  <tr>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> ou2name </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> fac_name </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> type </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> org_owner </th>
+   <th style=""text-align:right;position: sticky; top:0; background-color: #FFFFFF;""> lat </th>
+   <th style=""text-align:right;position: sticky; top:0; background-color: #FFFFFF;""> long </th>
+   <th style=""text-align:left;position: sticky; top:0; background-color: #FFFFFF;""> source </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> Aberdeen Hospital </td>
+   <td style=""text-align:left;""> District Hospital </td>
+   <td style=""text-align:left;""> MoH </td>
+   <td style=""text-align:right;""> -32.4862 </td>
+   <td style=""text-align:right;""> 24.06093 </td>
+   <td style=""text-align:left;""> GPS </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> Aberdeen Satellite Clinic </td>
+   <td style=""text-align:left;""> Satellite Clinic </td>
+   <td style=""text-align:left;""> MoH </td>
+   <td style=""text-align:right;""> -32.4750 </td>
+   <td style=""text-align:right;""> 24.05200 </td>
+   <td style=""text-align:left;""> GPS </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> AD Keet Clinic </td>
+   <td style=""text-align:left;""> Clinic </td>
+   <td style=""text-align:left;""> MoH </td>
+   <td style=""text-align:right;""> -34.0602 </td>
+   <td style=""text-align:right;""> 24.91831 </td>
+   <td style=""text-align:left;""> GPS </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> Addo Clinic </td>
+   <td style=""text-align:left;""> Clinic </td>
+   <td style=""text-align:left;""> MoH </td>
+   <td style=""text-align:right;""> -33.5422 </td>
+   <td style=""text-align:right;""> 25.69077 </td>
+   <td style=""text-align:left;""> GPS </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> Addo Enon Satellite Clinic </td>
+   <td style=""text-align:left;""> Satellite Clinic </td>
+   <td style=""text-align:left;""> MoH </td>
+   <td style=""text-align:right;""> -33.3946 </td>
+   <td style=""text-align:right;""> 25.54625 </td>
+   <td style=""text-align:left;""> GPS </td>
+  </tr>
+  <tr>
+   <td style=""text-align:left;""> Eastern Cape </td>
+   <td style=""text-align:left;""> Adelaide Clinic </td>
+   <td style=""text-align:left;""> Clinic </td>
+   <td style=""text-align:left;""> MoH </td>
+   <td style=""text-align:right;""> -32.7071 </td>
+   <td style=""text-align:right;""> 26.29461 </td>
+   <td style=""text-align:left;""> GPS </td>
+  </tr>
+</tbody>
+</table></div>"
+"1","
+"

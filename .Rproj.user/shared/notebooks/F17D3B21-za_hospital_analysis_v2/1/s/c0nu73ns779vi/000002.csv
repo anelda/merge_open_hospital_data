@@ -1,0 +1,6 @@
+"0","hosp_bed_tb <- hosp_bed_tb %>% 
+  mutate <- province = case_when(""KZN"" ~ ""KZ"")
+"
+"2","Error: LHS of case 1 (`""KZN""`) must be a logical vector, not a character vector
+Run `rlang::last_error()` to see where the error occurred.
+"
