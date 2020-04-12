@@ -1,544 +1,544 @@
-prov_abb,ou3short,type,fac_name,beds_usable,beds_approved,beds_surgical_usable,beds_surgical_approved,surgeons_qualified,sugeons_unqualified,theatres,hosp_contact,sector,last_update_day,last_updated_month,last_updated_year,source,source_name,source_surname,source_email,source_phone
-GP,Ekurhuleni MM,Independent,Actonville/Sunshine Hospital,200,NA,5,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Life,Life Bedford Gardens Private Hospital,140,NA,31,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Independent,Birchmed Surgical Centre,21,NA,21,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Clinix,Clinix Private Hospital Vosloorus/ Botshelong-Empilweni,104,NA,40,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Netcare,Clinton Clinic Netcare Hospital,165,NA,99,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Life,Life Dalview Clinic Hospital,75,NA,27,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Netcare,East Rand N17 Private netcare Hospital,171,NA,70,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Independent,Arwyp Medical Centre,343,NA,131,NA,NA,NA,11,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Independent,Lakeview Hospital,71,NA,34,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Life,Life Glynwood Hospital,292,NA,112,NA,NA,NA,10,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Netcare,Netcare Linmed Hospital,172,NA,51,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Life,Life Roseacres Clinic Hospital,124,NA,31,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Life,Life Springs Parkland Clinic Hospital,205,NA,81,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Life,Life St Mary's Women's Clinic Hospital,37,NA,6,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Independent,Sunshine Hospital,200,NA,61,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Independent,Mercidoc Day Clinic,20,NA,20,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Netcare,Netcare Sunward Park Hospital,214,NA,87,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Netcare,Netcare Union Hospital,222,NA,138,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Lenmed,Daxima Medical Clinic,64,NA,20,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Life,Life Brenthurst Clinic Hospital,233,NA,60,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Life,Life Carstenhof Clinic Hospital,153,NA,56,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Independent,Cure Day clinic Midstream,20,NA,20,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Clinix,Clinix Private Hospital Soweto,146,NA,28,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Clinix,Clinix Selby Park Hospital,642,NA,55,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Life,Life Fourways Hospital,194,NA,59,NA,NA,NA,10,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Life,Life Flora Clinic Hospital,316,NA,112,NA,NA,NA,10,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Independent,Fordsburg Clinic Hospital,30,NA,30,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Garden City Clinic Hospital,363,NA,104,NA,NA,NA,12,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Lenmed,Lenmed Clinic Hospital,192,NA,72,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Clinix,Clinix Lesedi Private Hospital,175,NA,26,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Life,Life Sandton Surgical Centre,20,NA,20,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Linksfield Park Netcare Hospital,283,NA,107,NA,NA,NA,10,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Independent,Mayo Hospital,20,NA,20,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Milpark Hospital,346,NA,155,NA,NA,NA,13,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Mediclinic,Morningside Mediclinic Hospital,230,NA,62,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Olivedale Hospital,265,NA,166,NA,NA,NA,10,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Mulbarton Hospital,216,NA,70,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Park Lane Clinic Hospital,204,NA,40,NA,NA,NA,11,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Rand Clinic Hospital,144,NA,50,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Rosebank Clinic Hospital,128,NA,55,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Mediclinic,Sandton Mediclinic Hospital,379,NA,114,NA,NA,NA,10,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Sunninghill Hospital,265,NA,90,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Netcare,Netcare Waterfall City Hospital,126,NA,36,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Independent,Wits Donald Gordon Medical Centre/kenridge hospital,190,NA,85,NA,NA,NA,9,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Clinix,Tshepo Themba Clinix Hospital,120,NA,28,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Life,Life Wilgeheuwel Hospital,220,NA,93,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Lenmed,Zamokuhle Private Hospital,36,NA,8,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,Independent,Cormed clinic,32,NA,8,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,Netcare,Netcare Vaalpark Hospital,68,NA,20,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,Clinix,Clinix Naledi - Nkanyezi Private Hospital,160,NA,50,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,Mediclinic,Emfuleni Mediclinic Hospital (Vanderbijlpark),155,NA,31,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,Independent,Midvaal Private Hospital,94,NA,53,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,Life,Life Suikerbosrand Clinic Hospital,80,NA,24,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,Mediclinic,Vereeniging Medicinic Hospital,267,NA,66,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Netcare,Netcare Akasia Clinic Hospital,162,NA,52,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Netcare,Netcare Bougainville Private Hospital,60,NA,36,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Mediclinic,Mediclinic Hospital/Thabazimbi,21,NA,5,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Life,Life Eugene Marais Hospital,364,NA,129,NA,NA,NA,13,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Life,Life Faerie Glen Hospital,87,NA,52,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Life,Life Brooklyn Hospital,27,NA,27,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Netcare,Netcare Femina Clinic Hospital,134,NA,25,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Netcare,Netcare Jakaranda Hospital,130,NA,30,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Mediclinic,Mediclinic Kloof Hospital,205,NA,56,NA,NA,NA,10,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Mediclinic,Mediclinic Medforum,204,NA,52,NA,NA,NA,14,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Mediclinic,Mediclinic Heart Hospital,90,NA,20,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Mediclinic,Mediclinic Legae Private Hospital,147,NA,38,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Life,Life Little Company of Mary Hospital,214,NA,85,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Independent,Louis Pasteur Private Hospital,240,NA,34,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Netcare,Netcare Montana Private Hospital,170,NA,60,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Netcare,Moot General Netcare Hospital,92,NA,30,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Mediclinic,Mediclinic Muelmed Hospital,222,NA,48,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Life,Life Pretoria North Surgical Centre,12,NA,12,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Netcare,Netcare Pretoria East Hospital,358,NA,92,NA,NA,NA,14,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Netcare,Netcare Unitas Hospital,469,NA,168,NA,NA,NA,16,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Life,Life Wilgers Hospital,360,NA,127,NA,NA,NA,15,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Independent,Wisani Medical Centre Hospital,12,NA,0,NA,NA,NA,0,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Independent,Zuid Afrikaans Hospital,139,NA,92,NA,NA,NA,9,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Independent,Leslie Williams Memorial Hospital,109,NA,52,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Netcare,Netcare Constantia Day clinic,24,NA,24,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Netcare,Netcare Protea Day Clinic,10,NA,10,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Netcare,Netcare Bell Street Hospital,50,NA,10,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Netcare,Netcare Krugersdorp Hospital,285,NA,135,NA,NA,NA,11,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Life,Life Robinson Private Hospital,109,NA,40,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Independent,Sir Albert Medical Centre,174,NA,65,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Mining,Anglogold Western Deep Levels Hospital,294,NA,93,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Amajuba DM,Mediclinic,Newcastle Mediclinic Private Hospital,138,NA,36,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Life,Life Chatsmed Garden Hospital,177,NA,54,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Independent,Ascot Park Medical Centre,74,NA,20,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Independent,City Hospital,158,NA,40,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Life,Life Crompton Hospital,163,NA,30,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Independent,Daymed Private Hospital,52,NA,20,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Independent,Durdoc Hospital,50,NA,12,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Life,Life Entabeni Hospital,286,NA,126,NA,NA,NA,13,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Independent,eThekwini Hospital and Heart Centre,246,NA,71,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Independent,Isipingo Hospital,168,NA,20,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Netcare,Netcare Kingsway Hospital,180,NA,52,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Life,Life Mount Edgecombe Hospital,173,NA,52,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Life,Life Nu-Shifa Hospital,133,NA,46,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Netcare,Netcare Parklands Hospital,212,NA,43,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Netcare,Netcare St Augustine's Hospital,418,NA,185,NA,NA,NA,15,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Netcare,Netcare Umhlanga Hospital,224,NA,82,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Mediclinic,Victoria Mediclinic Hospital,120,NA,25,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Life,Life Westville Hospital,270,NA,85,NA,NA,NA,11,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,iLembe DM,Netcare,Netcare Alberlito Hospital,119,NA,25,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Sisonke DM,Netcare,Netcare Kokstad hospital,36,NA,15,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Sisonke DM,Independent,Hibiscus Hospital,103,NA,22,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Ugu DM,Netcare,Netcare Margate Hospital,99,NA,22,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Ugu DM,Independent,Midlands Medical Centre Hospital,225,NA,61,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Ugu DM,Independent,Shelly Beach Day hospital,64,NA,0,NA,NA,NA,0,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,uMgungundlovu DM,Mediclinic,Pietermaritzburg Mediclinic Hospital,139,NA,42,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,uMgungundlovu DM,Mediclinic,Mediclinic Howick Private Hospital,26,NA,20,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,uMgungundlovu DM,Netcare,Netcare St Anne's Hospital,179,NA,72,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthukela DM,Lenmed,Verna Hospital,105,NA,34,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,Life,Life Empangeni Garden Clinic Hospital,174,NA,56,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,Netcare,Netcare The Bay Hospital,263,NA,78,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Zululand DM,Independent,Pongola Hospital,28,NA,3,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Independent,Broad Road Surgical clinic,27,NA,27,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Melomed,Melomed Bellville,123,NA,58,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Cape Gate Mediclinic Hospital,140,NA,45,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Cape Town Mediclinic Private Hospital,125,NA,37,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Netcare,Christiaan Barnard Memorial Private Hospital,248,NA,72,NA,NA,NA,14,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Life,Life Claremont Hospital,88,NA,33,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Constantiaberg Mediclinic Private Hospital,238,NA,36,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Durbanville Mediclinic Private Hospital,210,NA,89,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Melomed,Gatesville Medical Centre Private Hospital,133,NA,40,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Life,Life Kingsbury Private Hospital,138,NA,21,NA,NA,NA,11,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Netcare,Netcare Kuilsriver Private Hospital,182,NA,71,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Louis Leipoldt Mediclinic Private Hospital,190,NA,70,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Milnerton Mediclinic Private Hospital,139,NA,60,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Melomed,Melomed Mitchells Plain Private Hospital,132,NA,22,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Independent,Monte Vista Clinic Private Hospital,24,NA,24,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Netcare,Netcare N1 City Private Hospital,225,NA,104,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Panorama Mediclinic Private Hospital,400,NA,200,NA,NA,NA,12,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Strand Mediclinic Hospital,24,NA,14,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Vergelegen Mediclinic Private Hospital,237,NA,106,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Life,Life Vincent Pallotti Private Hospital,273,NA,64,NA,NA,NA,12,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Mediclinic,Ceres Mediclinic Private Hospital,28,NA,6,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,Independent,Groenleegte care cure Paarl,21,NA,11,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,Mediclinic,Paarl Mediclinic Private Hospital,143,NA,37,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,Mediclinic,Stellenbosch Mediclinic Private Hospital,114,NA,47,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,Mediclinic,Worcester Mediclinic Private Hospital,187,NA,65,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,Life,Life Bayview Private Hospital,108,NA,10,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,Independent,Cango Clinic Private Hospital,14,NA,14,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,Mediclinic,George Mediclinic Private Hospital,122,NA,65,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,Mediclinic,Klein Karoo Mediclinic Private Hospital,38,NA,10,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,Life,Life Knysna Private Hospital,49,NA,15,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,Mediclinic,Plettenberg Bay MediClinic Private Hospital,27,NA,12,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,Mediclinic,Hermanus Mediclinic Private Hospital,80,NA,37,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Overberg DM,Netcare,Netcare Blaauwberg hospital,104,NA,26,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,West Coast DM,Life,Life West Coast Private Hospital,60,NA,12,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,Mediclinic,Limpopo Mediclinic Hospital,247,NA,105,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Mopani DM,Mediclinic,Mediclinic Tzaneen Private Hospital,129,NA,35,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Vhembe DM,Independent,Zoutpansberg Private Hospital,22,NA,6,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,Life,Life St Vincent's Hospital,83,NA,24,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,Mediclinic,Mediclinic Marapong,12,NA,6,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,Mediclinic,Mediclinic Thabazimbi,21,NA,4,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,Clinix,Clinix Phalaborwa Private,62,NA,17,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Frances Baard DM,Mediclinic,Mediclinic Kimberley,252,NA,91,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,J T Gaetsewe DM,Mediclinic,Kathu Mediclinic Hospital,25,NA,8,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Namakwa DM,Independent,Kleinzee Hospital,34,NA,10,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Siyanda DM,Mediclinic,Upington Mediclinic Hospital,50,NA,17,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,Mining,Andrew Saffey Mine Hospital,56,NA,23,NA,NA,NA,0,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,Mediclinic,Mediclinic Brits,80,NA,21,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,Life,Life Le Femme hospital,40,NA,14,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,Netcare,Netcare Ferncrest Hospital,163,NA,60,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,Life,Life Peglerae Hospital,159,NA,103,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Life,Life Anncron Clinic Hospital,150,NA,56,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Independent,Fochville Hospital,37,NA,8,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Mediclinic,Potchefstroom Mediclinic Hospital,127,NA,41,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Independent,Sunningdale Hospital,62,NA,18,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Independent,Mooimed hospital,35,NA,13,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Mining,West Vaal Hospital,275,NA,94,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Independent,Wilmed Park Private Hospital,144,NA,72,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ngaka Modiri Molema DM,Clinix,Clinix Victoria Hospital,93,NA,45,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ruth Segomotsi Mompati DM,Independent,Vryburg Private Hospital,44,NA,8,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,Mediclnic,Medicilinic Barbeton,30,NA,5,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,Mediclnic,Nelspruit Mediclinic Hospital,314,NA,89,NA,NA,NA,9,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,Mediclnic,Ermelo Mediclinic Hospital,40,NA,11,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,Mining,Evander Gold Mining hospital,104,NA,40,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,Life,Life Piet Retief Hospital,45,NA,17,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,Mediclnic,Mediclinic Secunda Hospital,43,NA,24,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,Mediclnic,Trichardt Mediclinic Hospital,202,NA,64,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,Mining,Amcoal Highveld Hospital,134,NA,34,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,Life,Life Cosmos Hospital,205,NA,60,NA,NA,NA,7,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,Independent,Kriel medical clinic,6,NA,6,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,Life,Life Midmed Hospital,159,NA,34,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,Independent,Emalahleni private hospital,100,NA,22,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Alfred Nzo DM,Independent,Matatiele Private hospital,31,NA,10,NA,NA,NA,0,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,Life,Life Queenstown Private Hospital,70,NA,15,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,Life,Life Isivivana Private Hospital,33,NA,12,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,Netcare,Netcare Port Alfred Hospital,30,NA,14,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,Netcare,Netcare Setller's Hospital,32,NA,25,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,N Mandela MM,Life,Life St George's Hospital,216,NA,106,NA,NA,NA,14,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,N Mandela MM,Life,Life Mercantile Private Hospital,202,NA,59,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,N Mandela MM,Netcare,Netcare Greenacres Hospital,340,NA,157,NA,NA,NA,14,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,N Mandela MM,Netcare,Netcare Cuyler Hospital,120,NA,52,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,Life,Life St Mary's Private Hospital,131,NA,38,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,Life,Life East London Private Hospital,100,NA,0,NA,NA,NA,0,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,Life,Life St Dominic's Hospital,183,NA,76,NA,NA,NA,5,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,Life,Life St James Hospital,28,NA,28,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,Life,Life Beacon bay Hospital,168,NA,71,NA,NA,NA,6,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,Netcare,Netcare Kroon Hospital,80,NA,12,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,Independent,Riemland Hospital,10,NA,3,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,Independent,Sasol Infrachem Hospital,11,NA,7,NA,NA,NA,0,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,Netcare,Netcare Vaalpark Hospital,36,NA,18,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,Independent,Ernest Oppenheimer Hospital,695,NA,197,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,Mining,Harmony Goldmine Hospital,150,NA,54,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,Independent,Helena Hospital,131,NA,42,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,Mediclinic,Welkom Mediclinic Hospital,191,NA,60,NA,NA,NA,8,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Motheo DM,Life,Life Rosepark Hospital,235,NA,50,NA,NA,NA,10,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Motheo DM,Independent,Hospital Park Hospital,64,NA,30,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Motheo DM,Independent,Citymed day theatre,20,NA,20,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Motheo DM,Mediclinic,Bloemfontein Mediclinic Hospital,377,NA,148,NA,NA,NA,12,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Motheo DM,Netcare,Pelanomi hospital Netcare,87,NA,19,NA,NA,NA,2,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Motheo DM,Netcare,Universitas Hospital Netcare,127,NA,60,NA,NA,NA,4,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,Mediclinic,Hoogland Mediclinic Hospital,107,NA,40,NA,NA,NA,3,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,Independent,Bethlehem medical centre Day theatre,4,NA,4,NA,NA,NA,1,NA,private,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,District Hospital,Germiston Hospital,230,300,12,34,0,0,4,0110898500,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Regional Hospital,Far East Rand Hospital,345,218,89,89,1,8,6,0118128320,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Regional Hospital,Natalspruit Hospital,800,821,0,0,0,0,8,0113890500,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Regional Hospital,Pholosong Hospital,483,300,36,36,1,7,3,0118125000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Regional Hospital,Tambo Memorial Hospital,518,640,86,86,2,8,6,0118988000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Ekurhuleni MM,Regional Hospital,Tembisa Hospital,836,840,120,120,1,7,11,0119232000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,District Hospital,South Rand Hospital,275,280,53,53,0,1,2,0116812002,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,National Central Hospital,Charlotte Maxeke Hospital,1066,1066,72,65,16,34,34,0114883711,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,National Central Hospital,Chris Hani Baragwanath Hospital,2639,2888,547,547,72,127,30,0119338000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Regional Hospital,Edenvale Hospital,230,230,40,40,1,2,3,0113216000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Regional Hospital,Helen Joseph Hospital,576,485,120,120,8,9,9,0114891011,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Johannesburg MM,Regional Hospital,Raheema Moosa Hospital,310,353,0,0,0,0,5,0114709000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,District Hospital,Heidelberg Hospital,126,126,23,23,0,12,2,0163411203,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,District Hospital,Kopanong Hospital,248,248,24,24,0,8,2,0164287000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Sedibeng DM,Regional Hospital,Sebokeng Hospital,745,800,188,188,2,10,11,0169303000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,District Hospital,Jubilee Hospital,446,551,84,84,0,4,3,0127179300,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,District Hospital,Mamelodi Hospital,356,400,32,32,1,6,6,0128418300,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,District Hospital,Odi Hospital,216,227,60,60,0,9,3,0127252300,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,District Hospital,Pretoria West Hospital,153,178,30,30,1,14,2,0123801200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,District Hospital,Tshwane District Hospital,197,200,40,60,0,5,4,0123545793,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,National Central Hospital,George Mukhari Hospital,1236,1652,148,148,24,24,17,0125293691,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,National Central Hospital,Steve Biko Academic Hospital,780,832,81,87,17,27,18,0123541141,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,Tshwane MM,Regional Hospital,Kalafong Hospital,756,857,371,371,8,11,11,0123186102,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,District Hospital,Carletonville Hospital,230,230,50,50,0,1,2,0187881702,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,District Hospital,Yusuf Dadoo Hospital,245,245,20,20,0,2,1,0119516000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-GP,West Rand DM,Regional Hospital,Leratong Hospital,813,800,126,126,3,13,8,0114113526,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Amajuba DM,District Hospital,Niemeyer Memorial Hospital,52,52,8,8,0,0,1,0343313011,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Amajuba DM,Regional Hospital,Madadeni Hospital,822,822,160,160,2,6,5,0343288001,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Amajuba DM,Regional Hospital,Newcastle Hospital,272,340,0,0,0,0,4,0343280000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,District Hospital,Osindisweni Hospital,240,301,42,42,0,1,1,0325419200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,District Hospital,Mary's Hospital (Mariannhill),200,200,30,30,0,13,1,0317171186,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,District Hospital,Wentworth Hospital,266,267,32,32,0,0,1,0314605000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,National Central Hospital,Inkosi Albert Luthuli Central Hospital,852,846,194,194,12,2,19,0312401000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Regional Hospital,Addington Hospital,571,571,100,100,7,5,7,0313272000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Regional Hospital,King Edward VIII Hospital,833,922,194,194,10,5,11,0313603111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Regional Hospital,Mahatma Gandhi Hospital,388,408,70,70,0,0,2,0315021719,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Regional Hospital,Prince Mshiyeni Memorial Hospital,1160,1200,220,220,6,9,11,0319078111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Regional Hospital,Khan Hospital,543,585,101,101,6,13,5,0314596000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Regional Hospital,Aidans Hospital,157,157,75,75,0,0,3,0313142200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,eThekwini MM,Regional Hospital,King DinuzuluHospital,661,722,98,98,0,0,4,0312426000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,iLembe DM,District Hospital,Montebello Hospital,111,168,7,7,0,4,1,0335067000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,iLembe DM,District Hospital,Umphumulo Hospital,141,141,16,16,0,0,1,0324814100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,iLembe DM,District Hospital,Untunjambili Hospital,130,150,12,12,0,0,1,0334440818,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,iLembe DM,Regional Hospital,Stanger Hospital,500,449,134,134,2,7,4,0324376000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Harry Gwala,District Hospital,Christ the King Hospital,197,238,36,36,0,6,3,0398347500,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Harry Gwala,District Hospital,East Griqualand and Usher Memorial Hospital,185,205,32,32,0,1,2,0397978100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Harry Gwala,District Hospital,Rietvlei Hospital,188,205,68,68,0,0,2,0392605000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Harry Gwala,District Hospital,Apollinaris Hospital,146,155,18,18,0,0,2,0398338000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Ugu DM,District Hospital,Crooke's Hospital,297,288,66,66,0,4,2,0399787000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Ugu DM,District Hospital,Murchison Hospital,300,301,54,54,0,5,2,0396877311,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Ugu DM,District Hospital,Andrew's Hospital,210,223,20,20,0,2,2,0394331955,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Ugu DM,Regional Hospital,Port Shepstone Hospital,336,366,53,53,2,8,4,0396886000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,uMgungundlovu DM,District Hospital,Appelsbosch Hospital,140,159,23,23,0,2,1,0322948000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,uMgungundlovu DM,District Hospital,Northdale Hospital,431,385,76,76,0,10,5,0333879000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,uMgungundlovu DM,Provincial Tertiary Hospital,Grey's Hospital,507,530,160,160,10,13,13,0338973000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,uMgungundlovu DM,Regional Hospital,Edendale Hospital,879,900,160,160,7,12,12,0333954911,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umkhanyakude DM,District Hospital,Bethesda Hospital,222,230,31,31,0,5,2,0355951004,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umkhanyakude DM,District Hospital,Hlabisa Hospital,275,296,38,38,0,5,2,0358388600,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umkhanyakude DM,District Hospital,Manguzi Hospital,264,264,25,25,0,3,2,0355920150,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umkhanyakude DM,District Hospital,Mosvold Hospital,226,246,43,43,0,13,2,0355910122,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umkhanyakude DM,District Hospital,Mseleni Hospital,219,184,17,17,0,5,2,0355741004,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umzinyathi DM,District Hospital,Charles Johnson Memorial Hospital,190,349,30,30,0,3,2,0342716400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umzinyathi DM,District Hospital,Church of Scotland Hospital,347,347,50,50,0,15,2,0334931000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umzinyathi DM,District Hospital,Dundee Hospital,224,224,42,42,0,8,2,0342121111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Umzinyathi DM,District Hospital,Greytown Hospital,271,207,43,43,0,6,2,0334139400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthukela DM,District Hospital,Emmaus Hospital,156,156,19,19,0,10,2,0364881570,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthukela DM,District Hospital,Estcourt Hospital,325,325,75,75,0,2,3,0363427000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthukela DM,Regional Hospital,Ladysmith Hospital,448,452,76,76,1,2,4,0366372111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,District Hospital,Catherine Booth Hospital,167,172,20,20,0,0,1,0354748407,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,District Hospital,Ekhombe Hospital,120,210,4,4,0,0,1,0358348000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,District Hospital,Eshowe Hospital,408,460,95,95,0,8,3,0354734500,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,District Hospital,KwaMagwaza Hospital,147,141,14,14,0,5,1,0354508200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,District Hospital,Mbongolwane Hospital,162,196,19,19,0,2,1,0354766242,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,District Hospital,Nkandla Hospital,175,220,17,17,0,0,1,0358335000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,Regional Hospital,Lower Umfolozi War Memorial Hospital,270,283,36,36,0,0,3,0359077000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Uthungulu DM,Regional Hospital,Ngwelezana Hospital,489,550,45,50,3,6,6,0359017000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Zululand DM,District Hospital,Benedictine Hospital,385,430,47,47,0,2,2,0358317000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Zululand DM,District Hospital,Ceza Hospital,160,160,15,15,0,4,1,0358325000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Zululand DM,District Hospital,Itshelejuba Hospital,154,150,0,0,0,11,2,0344134011,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Zululand DM,District Hospital,Nkonjeni Hospital,230,265,35,35,0,6,2,0358730013,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-KZ,Zululand DM,District Hospital,Vryheid Hospital,338,105,97,97,0,0,0,0359822111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,District Hospital,Eerste River Hospital,130,124,32,32,1,3,3,0219028000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,District Hospital,False Bay Hospital,65,75,7,7,0,1,2,0217821121,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,District Hospital,Helderberg Hospital,169,169,34,34,0,2,1,0218504700,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,District Hospital,Karl Bremer Hospital,217,217,37,37,2,6,2,0219181911,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,District Hospital,Khayelitsha (Tygerberg) Hospital,240,240,45,45,0,5,2,0213604200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,District Hospital,Mitchell's Plain Hospital,270,270,60,60,2,6,4,0213774300,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,District Hospital,Victoria Hospital,193,185,52,52,1,3,3,0217991161,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,District Hospital,Wesfleur Hospital,31,31,5,5,0,1,1,0215718043,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,National Central Hospital,Groote Schuur Level 3 Hospital,945,946,97,97,42,57,26,0214043333,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,National Central Hospital,Red Cross War Memorial Children's Level 3 Hospital,270,290,60,60,0,2,11,0216585095,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,National Central Hospital,Tygerberg Level 3 Hospital,1280,1239,352,352,14,37,28,0214043333,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Town MM,Regional Hospital,Somerset Hospital,334,334,40,40,3,4,4,0214026911,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,District Hospital,Ceres Hospital,86,86,0,0,0,1,1,0233169600,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,District Hospital,Montagu Hospital,40,40,10,10,0,3,1,0236148102,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,District Hospital,Robertson Hospital,46,46,12,12,0,4,1,0236268547,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,District Hospital,Stellenbosch Hospital,85,85,14,14,0,8,2,0218086100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,Regional Hospital,Paarl Hospital,301,369,72,72,2,5,5,0218602500,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Cape Winelands DM,Regional Hospital,Worcester Hospital,269,322,48,48,3,6,6,0233481100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Central Karoo DM,District Hospital,Beaufort West Hospital,57,57,6,6,0,5,2,0234148200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Central Karoo DM,District Hospital,Laingsburg Hospital,20,20,1,1,0,1,1,0235511237,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Central Karoo DM,District Hospital,Murraysburg Hospital,14,14,1,1,0,1,0,0498440053,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Central Karoo DM,District Hospital,Prince Albert Hospital,29,29,3,3,0,0,1,0235411301,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,District Hospital,Knysna Hospital,90,90,10,10,1,9,2,0443028400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,District Hospital,Ladismith (Alan Blyth) Hospital,30,30,6,6,0,4,1,0285511010,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,District Hospital,Mossel Bay Hospital,90,90,8,8,1,14,2,0446912011,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,District Hospital,Oudtshoorn Hospital,123,123,20,20,0,14,3,0442037200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,District Hospital,Riversdale Hospital,50,61,8,10,1,6,1,0287132445,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,District Hospital,Uniondale Hospital,13,13,2,2,0,0,1,0447521068,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Eden DM,Regional Hospital,George Hospital,268,309,50,50,3,5,6,0448745122,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Overberg DM,District Hospital,Caledon Hospital,50,75,4,4,0,6,1,0282121070,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Overberg DM,District Hospital,Hermanus Hospital,71,71,0,0,0,12,2,0283135200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Overberg DM,District Hospital,Otto Du Plessis Hospital,30,30,6,6,0,2,1,0284241167,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,Overberg DM,District Hospital,Swellendam Hospital,51,51,13,13,0,5,1,0285141141,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,West Coast DM,District Hospital,Citrusdal Hospital,34,34,4,4,0,1,1,0229212153,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,West Coast DM,District Hospital,Clanwilliam Hospital,50,50,9,9,0,2,1,0274822166,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,West Coast DM,District Hospital,LAPA Munnik Hospital,10,10,1,1,0,1,1,0229312140,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,West Coast DM,District Hospital,Radie Kotze Hospital,31,31,7,7,1,4,1,0229131175,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,West Coast DM,District Hospital,Swartland Hospital,88,85,20,20,0,5,2,0224879203,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,West Coast DM,District Hospital,Vredenburg Hospital,81,81,8,8,0,3,1,0227097200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-WC,West Coast DM,District Hospital,Vredendal Hospital,75,75,10,10,0,2,1,0272132039,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,District Hospital,Botlokwa Hospital,88,88,12,12,0,6,2,0155278000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,District Hospital,Helene Franz Hospital,63,149,0,0,0,7,2,0155058500,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,District Hospital,Lebowakgomo Hospital,220,262,72,72,0,3,2,0156326900,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,District Hospital,Seshego Hospital,164,180,60,60,0,5,2,0152235141,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,District Hospital,Knobel Hospital,243,243,0,0,0,0,1,0152211500,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,District Hospital,Zebediela Hospital,74,108,10,10,0,0,0,0156620787,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,Provincial Tertiary Hospital,Mankweng Hospital complex,509,530,30,158,0,10,4,0152861000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Capricorn DM,Provincial Tertiary Hospital,Polokwane Hospital complex,490,701,100,100,3,20,6,0152875000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Gr Sekhukhune DM,District Hospital,Dilokong Hospital,186,324,46,72,0,0,2,0132147265,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Gr Sekhukhune DM,District Hospital,Groblersdal Hospital/HA Grove,10,25,10,10,0,4,0,0132623024,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Gr Sekhukhune DM,District Hospital,Jane Furse Hospital,200,252,36,36,0,16,1,0132659416,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Gr Sekhukhune DM,District Hospital,Matlala Hospital,60,128,26,65,0,7,1,0132675000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Gr Sekhukhune DM,District Hospital,Mecklenburg Hospital,124,145,12,12,0,7,2,0156150208,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Gr Sekhukhune DM,Regional Hospital,Philadelphia Hospital,278,538,28,28,0,2,2,0139830112,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Gr Sekhukhune DM,Regional Hospital,Rita's Hospital,331,400,44,40,0,0,0,0132981000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Mopani DM,District Hospital,Phatudi Hospital,62,62,20,20,0,1,1,0153558023,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Mopani DM,District Hospital,Kgapane Hospital,262,262,70,70,1,2,3,0153287800,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Mopani DM,District Hospital,Maphutha L Malatjie Hospital,104,100,0,0,0,0,1,0157691520,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Mopani DM,District Hospital,Nkhensani Hospital,250,250,36,36,0,6,3,0158117376,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Mopani DM,District Hospital,Sekororo Hospital,208,208,0,0,0,6,2,0153839400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Mopani DM,District Hospital,Van Velden Memorial (Tzaneen) Hospital,67,75,25,25,0,2,1,0153078800,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Mopani DM,Regional Hospital,Letaba Hospital,276,400,37,37,2,2,0,0153038200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Vhembe DM,District Hospital,Donald Fraser Hospital,300,300,28,28,0,13,2,0159631778,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Vhembe DM,District Hospital,Elim Hospital,375,375,40,40,0,5,4,0155563201,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Vhembe DM,District Hospital,Louis Trichardt /Mhkado Hospital,52,52,12,12,0,2,1,0155160148,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Vhembe DM,District Hospital,Malamulele Hospital,195,195,40,40,0,7,1,0158510026,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Vhembe DM,District Hospital,Messina Hospital,80,80,20,20,0,6,1,0159730004,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Vhembe DM,District Hospital,Siloam Hospital,350,350,35,35,0,10,2,0159730004,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Vhembe DM,Regional Hospital,Tshilidzini Hospital,434,538,60,60,0,6,0,0159641062,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,District Hospital,Ellisras Hospital,120,120,20,20,0,4,1,0147632227,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,District Hospital,Odendaal (Nylstroom) Hospital,100,100,8,8,0,0,2,0147175257,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,District Hospital,George Masebe Hospital,260,260,15,15,0,6,1,0154236000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,District Hospital,Thabazimbi Hospital,110,110,30,30,0,12,2,0147777000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,District Hospital,Voortrekker Memorial (Potgietersrus) Hospital,142,142,12,12,0,20,2,0154091700,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,District Hospital,Warmbaths Hospital,135,135,16,16,0,0,3,0147362121,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,District Hospital,Witpoort Hospital,59,70,4,4,0,4,1,0147690025,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-LP,Waterberg DM,Regional Hospital,Mokopane Hospital,260,273,66,66,0,4,2,0154834000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Frances Baard DM,District Hospital,Hartswater (Connie Vorster) Hospital,50,50,0,0,0,4,1,0534740148,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Frances Baard DM,District Hospital,Jan Kempdorp Hospital,16,16,0,0,0,0,0,0534560126,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Frances Baard DM,District Hospital,Prof ZK Matthews Hospital,45,45,12,12,0,8,1,0535319400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Frances Baard DM,District Hospital,Warrenton Hospital,28,30,0,0,0,0,0,0534973148,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Frances Baard DM,Regional Hospital,Kimberley Hospital,694,604,146,146,4,7,5,0538022147,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,J T Gaetsewe DM,District Hospital,Kuruman Hospital,69,69,10,15,0,7,1,0537128100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,J T Gaetsewe DM,District Hospital,Tshwaragano Hospital,214,250,40,40,0,5,1,0537741780,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Namakwa DM,District Hospital,Calvinia (Abraham Esau) Hospital,45,33,5,5,0,4,1,0273418020,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Namakwa DM,District Hospital,Springbok (Dr Van Niekerk) Hospital,57,40,6,6,0,5,2,0277122018,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Pixley ka Seme DM,District Hospital,Aar (Central Karoo) Hospital,51,51,0,0,1,5,2,0536312123,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Pixley ka Seme DM,District Hospital,Douglas (Hester Malan) Hospital,35,35,0,0,0,0,0,0532982812,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Pixley ka Seme DM,District Hospital,Manne Dipico (Colesberg) Hospital,32,32,0,0,0,0,0,0517539300,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Pixley ka Seme DM,District Hospital,Prieska (Bill Pickard) Hospital,30,30,2,2,0,2,1,0533532037,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Siyanda DM,District Hospital,Harry Surtie Hospital,186,326,45,46,0,3,2,0543329008,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Siyanda DM,District Hospital,Kakamas Hospital,30,30,4,4,0,2,0,0544310866,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Siyanda DM,District Hospital,Keimoes Hospital,30,30,2,2,0,0,0,0544611004,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NC,Siyanda DM,District Hospital,Postmasburg Hospital,42,42,20,20,0,0,0,0533130663,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,District Hospital,Brits Hospital,100,215,20,20,3,8,1,0123817000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,District Hospital,Moses Kotane Hospital,196,230,44,44,0,10,2,0145432027,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,District Hospital,Swartruggens/Koster Hospital,35,35,0,0,0,2,1,0145552302,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Bojanala Platinum DM,Regional Hospital,Job Shimankana Tabane Hospital,390,390,35,40,1,12,5,0145905100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,District Hospital,Nic Bodenstein Hospital,88,100,20,20,0,6,1,0145905100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,District Hospital,Ventersdorp Hospital,40,40,10,10,0,0,1,0185961100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Regional Hospital,Klerksdorp/Tshepong Hospital,803,1015,169,169,2,2,13,0182642081,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Dr K Kaunda DM,Regional Hospital,Potchefstroom Hospital,335,335,37,37,1,25,4,0184064600,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ngaka Modiri Molema DM,District Hospital,Gelukspan Hospital,184,350,36,36,0,0,2,0182934400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ngaka Modiri Molema DM,District Hospital,Thusong/General de la Rey Hospital,120,300,40,40,0,7,2,0183369200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ngaka Modiri Molema DM,District Hospital,Lehurutshe Hospital,97,105,0,0,0,6,1,0186323041,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ngaka Modiri Molema DM,District Hospital,Zeerust Hospital,76,84,0,0,0,4,0,0183633181,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ngaka Modiri Molema DM,Regional Hospital,Mafikeng Provincial Hospital,392,432,134,134,2,7,4,0183382231,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ruth Segomotsi Mompati DM,District Hospital,Christiana Hospital,42,42,0,0,1,0,0,0186429900,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ruth Segomotsi Mompati DM,District Hospital,Ganyesa Hospital,60,60,0,0,4,4,2,0183832005,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ruth Segomotsi Mompati DM,District Hospital,Schweizer-Reneke Hospital,68,68,0,0,0,4,2,0534412238,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ruth Segomotsi Mompati DM,District Hospital,Taung Hospital,290,434,50,50,0,6,2,0539989400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-NW,Ruth Segomotsi Mompati DM,Regional Hospital,Joe Maralong Memorial,96,120,32,32,0,4,3,0539631291,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,District Hospital,Barberton Hospital,151,250,46,46,0,5,3,0137123011,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,District Hospital,Lydenburg Hospital,119,100,30,30,0,1,2,0132352236,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,District Hospital,Matibidi Hospital,100,100,0,0,0,0,1,0137698092,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,District Hospital,Matikwana Hospital,300,280,30,30,0,0,2,0137086024,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,District Hospital,Sabie Hospital,99,99,20,20,0,1,2,0137641222,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,District Hospital,Shongwe Hospital,220,250,36,36,0,2,1,0137813000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,District Hospital,Tintswalo Hospital,240,240,30,30,0,2,2,0137958600,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,District Hospital,Tonga Hospital,160,250,50,50,0,5,2,0137809000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,Provincial Tertiary Hospital,Rob Ferreira Hospital,301,350,50,50,3,5,4,0137416100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,Regional Hospital,Mapulaneng Hospital,269,252,28,28,0,0,3,0137990214,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Ehlanzeni DM,Regional Hospital,Themba Hospital,426,623,40,40,1,6,3,0137969400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,District Hospital,Amajuba Memorial Hospital,95,105,12,12,0,7,2,0177351103,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,District Hospital,Bethal Hospital,178,233,41,41,0,0,1,0176476341,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,District Hospital,Carolina Hospital,80,75,20,20,0,6,2,0178431121,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,District Hospital,Elsie Ballot Hospital,22,22,0,0,0,0,0,0177531002,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,District Hospital,Embhuleni Hospital,189,220,60,60,0,2,3,0178830093,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,District Hospital,Evander Hospital,113,150,32,32,0,0,2,0823499415,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,District Hospital,Piet Retief Hospital,176,145,30,30,0,6,3,0178241200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,District Hospital,Standerton Hospital,219,195,24,24,0,8,3,0177122323,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,G Sibande DM,Regional Hospital,Ermelo Hospital,220,264,64,64,0,6,3,0178112031,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,District Hospital,Bernice Samuels Hospital,160,160,60,60,0,6,1,0136652086,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,District Hospital,Grove Hospital,19,12,0,0,0,0,1,0132531184,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,District Hospital,Impungwe Hospital (Wolwekrans),50,100,0,0,0,0,0,0136855121,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,District Hospital,KwaMhlanga Hospital,150,150,16,16,0,4,1,0139479100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,District Hospital,Middelburg Hospital,247,349,64,64,0,4,5,0132430999,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,District Hospital,Mmametlhake Hospital,60,80,4,4,0,8,2,0127212391,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,District Hospital,Waterval Boven Hospital,80,12,0,0,0,0,1,0132570015,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-MP,Nkangala DM,Provincial Tertiary Hospital,Witbank Hospital,349,350,57,57,1,5,5,0136532000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,A Nzo DM,District Hospital,Madzikane kaZulu Memorial Hospital,223,223,48,48,0,2,1,0392558200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,A Nzo DM,District Hospital,Mount Ayliff Hospital,99,99,20,20,0,0,1,0392540230,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,A Nzo DM,District Hospital,Tayler Bequest Hospital (Matatiele),166,166,26,26,0,3,2,0397373107,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Adelaide Hospital,60,60,15,15,0,3,1,0466840066,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Bedford Hospital,60,60,0,0,0,1,1,0466850043,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Butterworth Hospital,269,269,52,52,0,4,2,0474914164,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Cathcart Hospital,33,33,0,0,0,0,0,0458431029,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Fort Beaufort Hospital,70,70,15,15,0,2,1,0466451111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Komga Hospital,15,15,0,0,0,0,0,0438311013,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Nompumelelo (Peddie) Hospital,180,180,30,30,0,2,1,0406733321,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Gida Hospital,122,122,32,32,0,2,1,0788167598,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Stutterheim Hospital,70,70,0,0,0,0,0,0437263225,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Tafalofefe Hospital,161,280,0,0,0,0,0,0406733321,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Amathole DM,District Hospital,Victoria (Alice) Hospital,110,110,0,0,0,1,1,0406580043,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Buffalo city,District Hospital,Grey Hospital,67,67,18,18,0,4,1,0436433300,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Buffalo city,District Hospital,Bhisho Hospital,205,205,40,40,0,3,2,0406352848,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Buffalo city,District Hospital,Madwaleni Hospital,180,180,0,0,0,2,1,0632530958,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Buffalo city,District Hospital,Newhaven Hospital,45,45,0,0,0,0,0,NA,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Buffalo city,Provincial Tertiary Hospital,Cecilia Makiwane Hospital,737,1000,130,130,6,7,5,0437082111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Buffalo city,Provincial Tertiary Hospital,Frere Hospital,840,916,187,233,5,14,8,0437091111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,All Saints Hospital,244,300,48,48,0,7,2,0475481111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Cala Hospital,64,92,16,16,0,9,2,0478770129,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Cofimvaba Hospital,140,140,28,28,0,0,1,0478748000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Cradock Hospital,83,83,0,0,0,0,1,0488742123,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Dordrecht Hospital,35,35,0,0,0,0,0,0459431195,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Elliot Hospital,52,52,20,20,0,2,1,0459311321,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Glen Grey Hospital,151,224,0,0,0,0,1,0478780018,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Hewu Hospital,208,208,80,80,0,4,2,0408410133,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Indwe Hospital,31,31,0,0,0,0,0,0459660268,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Martje Venter (Tarkastad) Hospital,20,20,0,0,0,0,0,0458460053,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Mjanyana Hospital,100,100,22,22,0,2,1,0475471002,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Molteno Hospital,25,25,0,0,0,0,1,0459670089,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Sterkstroom Hospital,8,8,0,0,0,0,0,0459660268,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,District Hospital,Wilhelm Stahl (Middelburg) Hospital,32,32,10,10,0,5,2,0498421111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,C Hani DM,Regional Hospital,Frontier Hospital,283,450,72,72,0,4,5,0458084200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Aberdeen Hospital,18,18,0,0,0,0,0,0422431311,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Andries Vosloo Hospital,74,74,16,16,0,8,1,0422880210,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Vorster (Kareedouw) Hospital,42,47,0,0,0,0,0,0422951100,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Humansdorp (Kouga partnership) Hospital,80,80,0,0,0,5,1,0498922211,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Midland Hospital,80,80,0,0,0,3,1,0466044000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Port Alfred Hospital,31,31,15,15,0,5,2,0498360083,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,SAWAS Memorial (Jansenville) Hospital,38,38,6,6,0,0,0,0466222215,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Settlers Hospital,178,219,20,20,1,2,1,0466025000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Sundays Valley (Kirkwood) Hospital,37,37,8,8,0,0,0,0422300567,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Cacadu DM,District Hospital,Willowmore Hospital,25,25,0,0,0,0,0,0449231148,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Aliwal North Hospital,48,48,10,10,0,0,1,0516342381,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Burgersdorp Hospital,24,24,0,0,0,0,1,0516531881,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Cloete Joubert (Barkly East) Hospital,25,25,0,0,0,0,0,0459710091,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Empilisweni Hospital,93,98,15,15,0,2,2,0516110037,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Jamestown Hospital,10,10,0,0,0,0,0,0516410911,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Lady Grey Hospital,30,30,0,0,0,0,1,0516030093,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Maclear Hospital,38,38,12,12,0,0,0,0459321028,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Francis Hospital,26,26,0,0,0,0,0,0516332741,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Steynsburg Hospital,28,28,0,0,0,0,0,0488840241,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Taylor Bequest Hospital (Elundini),141,146,16,16,0,4,1,0392570043,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,Joe Gqabi DM,District Hospital,Umlamli Hospital,74,74,0,0,0,2,2,0416110079,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,N Mandela MM,District Hospital,Uitenhage Hospital,223,203,40,40,0,2,3,0419951111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,N Mandela MM,Provincial Tertiary Hospital,Dora Nginza Hospital,650,570,0,0,0,0,4,0414064111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,N Mandela MM,Provincial Tertiary Hospital,Livingstone Hospital,583,616,180,180,11,22,8,0413923911,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,N Mandela MM,Provincial Tertiary Hospital,Port Elizabeth Provincial Hospital,351,450,208,208,0,0,10,0392537803,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Bambisana Hospital,120,120,0,0,0,0,1,0392510232,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Canzibe Hospital,140,140,0,0,0,0,1,0475688111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Malizo Mpehle Memorial Hospital,155,155,30,30,0,0,1,0475426300,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Greenville Hospital,100,100,0,0,0,4,1,0392513009,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Holy Cross Hospital,224,224,0,0,0,1,1,0392523000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Isilimela Hospital,110,110,0,0,0,2,1,0475642811,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Nessie Knight Hospital,150,150,30,30,0,2,1,0475532000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Sipetu (Ntabankulu) Hospital,120,120,30,30,0,2,1,0392550077,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Barnabas Hospital,169,169,0,0,0,0,0,0475326259,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Lucy's Hospital,40,40,0,0,0,0,0,0392510232,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Patrick's Hospital,100,100,0,0,0,0,1,0475738935,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,District Hospital,Zitulele Hospital,130,180,25,25,0,13,1,0786526476,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,Provincial Tertiary Hospital,Mthatha General Hospital,348,973,60,60,4,10,7,0475024400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,Provincial Tertiary Hospital,Nelson Mandela Academic Hospital,520,507,180,180,2,16,11,0475024855,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-EC,O Tambo DM,Regional Hospital,Elizabeth's Hospital,272,425,80,80,0,2,3,0392535000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,District Hospital,Mafube Hospital,74,74,0,0,0,4,1,0588131391,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,District Hospital,Metsimaholo Hospital,82,100,30,30,0,5,1,0169709400,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,District Hospital,Parys Hospital,50,55,0,0,0,4,1,0568112155,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,District Hospital,Tokollo Hospital,78,78,10,10,0,3,1,0588523039,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Fezile Dabi DM,Regional Hospital,Boitumelo Hospital,312,340,60,60,2,3,6,0562165200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,District Hospital,Katleho/Winburg Hospital,78,196,4,4,0,6,2,0572213300,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,District Hospital,Mohau Hospital,28,58,0,0,0,1,1,0534441912,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,District Hospital,Nala Hospital,36,58,0,0,0,1,1,0565152071,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,District Hospital,Thusanong Hospital,86,86,0,0,0,5,1,0573542111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,District Hospital,Winburg Hospital,32,55,3,3,0,0,0,0518810046,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Lejweleputswa DM,Regional Hospital,Bongani Hospital,420,450,118,118,1,4,4,0579168183,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Manguang,District Hospital,Botshabelo Hospital,135,135,40,40,0,3,2,0515330111,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Manguang,District Hospital,Moroka Hospital,137,137,38,38,0,3,1,0518739800,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Manguang,District Hospital,Mantsopa Hospital,100,100,20,25,0,2,1,0519243268,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Manguang,District Hospital,National Hospital,76,76,25,25,0,3,3,0514039600,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Manguang,National Central Hospital,Universitas (C) Hospital,543,636,60,60,5,22,17,0514053557,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Manguang,Regional Hospital,Pelonomi Hospital,469,720,52,52,5,4,7,0514071500,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,District Hospital,Elizabeth Ross Hospital,110,90,24,24,0,6,1,0587184000,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,District Hospital,Itemoheng Hospital,25,55,0,0,0,0,1,0584812114,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,District Hospital,John Daniel Newberry Hospital,30,30,6,6,0,2,1,0519430434,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,District Hospital,Nketoana Hospital,45,65,0,0,0,0,1,0588632703,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,District Hospital,Phekolong Hospital,85,100,15,30,0,0,1,0583035123,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,District Hospital,Phumelela Hospital,81,81,0,0,0,0,1,0589131044,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,District Hospital,Phuthuloha Hospital,55,36,8,8,0,0,0,0519332284,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,District Hospital,Thebe Hospital,71,100,0,0,0,4,1,0586241800,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,Regional Hospital,Dihlabeng Hospital,135,150,38,40,1,1,3,0583035331,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,T Mofutsanyane DM,Regional Hospital,Mofumahadi Manapo Mopeli Hospital,270,300,68,68,0,4,4,0587183200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Xhariep DM,District Hospital,Diamond/Diamant Hospital,28,43,0,0,0,0,1,0517249315,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Xhariep DM,District Hospital,Embekweni Hospital,23,23,0,0,0,0,0,0516731200,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
-FS,Xhariep DM,District Hospital,Stoffel Coetzee Hospital,23,23,0,0,0,0,0,0516831120,public,NA,3,2016,https://figshare.com/articles/SURGICAL_RESOURCES_latestmarch2016_xlsx/12066711,Angela,Dell,angelajdell@gmail.com,NA
+admin1_abb,admin2_name,type,fac_name,num_beds_usable,num_beds_approved,num_surgical_beds_usable,num_surgical_beds_approved,num_surgeons_qual,num_surgeons_unqual,num_theatres,contact_phone,sector,admin1_name
+GP,Ekurhuleni,Independent,Actonville/Sunshine Hospital,200,NA,5,NA,NA,NA,5,NA,private,Gauteng
+GP,Ekurhuleni,Life,Life Bedford Gardens Private Hospital,140,NA,31,NA,NA,NA,6,NA,private,Gauteng
+GP,Ekurhuleni,Independent,Birchmed Surgical Centre,21,NA,21,NA,NA,NA,3,NA,private,Gauteng
+GP,Ekurhuleni,Clinix,Clinix Private Hospital Vosloorus/ Botshelong-Empilweni,104,NA,40,NA,NA,NA,3,NA,private,Gauteng
+GP,Ekurhuleni,Netcare,Clinton Clinic Netcare Hospital,165,NA,99,NA,NA,NA,5,NA,private,Gauteng
+GP,Ekurhuleni,Life,Life Dalview Clinic Hospital,75,NA,27,NA,NA,NA,4,NA,private,Gauteng
+GP,Ekurhuleni,Netcare,East Rand N17 Private netcare Hospital,171,NA,70,NA,NA,NA,5,NA,private,Gauteng
+GP,Ekurhuleni,Independent,Arwyp Medical Centre,343,NA,131,NA,NA,NA,11,NA,private,Gauteng
+GP,Ekurhuleni,Independent,Lakeview Hospital,71,NA,34,NA,NA,NA,7,NA,private,Gauteng
+GP,Ekurhuleni,Life,Life Glynwood Hospital,292,NA,112,NA,NA,NA,10,NA,private,Gauteng
+GP,Ekurhuleni,Netcare,Netcare Linmed Hospital,172,NA,51,NA,NA,NA,6,NA,private,Gauteng
+GP,Ekurhuleni,Life,Life Roseacres Clinic Hospital,124,NA,31,NA,NA,NA,4,NA,private,Gauteng
+GP,Ekurhuleni,Life,Life Springs Parkland Clinic Hospital,205,NA,81,NA,NA,NA,5,NA,private,Gauteng
+GP,Ekurhuleni,Life,Life St Mary's Women's Clinic Hospital,37,NA,6,NA,NA,NA,2,NA,private,Gauteng
+GP,Ekurhuleni,Independent,Sunshine Hospital,200,NA,61,NA,NA,NA,5,NA,private,Gauteng
+GP,Ekurhuleni,Independent,Mercidoc Day Clinic,20,NA,20,NA,NA,NA,2,NA,private,Gauteng
+GP,Ekurhuleni,Netcare,Netcare Sunward Park Hospital,214,NA,87,NA,NA,NA,7,NA,private,Gauteng
+GP,Ekurhuleni,Netcare,Netcare Union Hospital,222,NA,138,NA,NA,NA,7,NA,private,Gauteng
+GP,Johannesburg,Lenmed,Daxima Medical Clinic,64,NA,20,NA,NA,NA,2,NA,private,Gauteng
+GP,Johannesburg,Life,Life Brenthurst Clinic Hospital,233,NA,60,NA,NA,NA,8,NA,private,Gauteng
+GP,Johannesburg,Life,Life Carstenhof Clinic Hospital,153,NA,56,NA,NA,NA,6,NA,private,Gauteng
+GP,Johannesburg,Independent,Cure Day clinic Midstream,20,NA,20,NA,NA,NA,2,NA,private,Gauteng
+GP,Johannesburg,Clinix,Clinix Private Hospital Soweto,146,NA,28,NA,NA,NA,3,NA,private,Gauteng
+GP,Johannesburg,Clinix,Clinix Selby Park Hospital,642,NA,55,NA,NA,NA,5,NA,private,Gauteng
+GP,Johannesburg,Life,Life Fourways Hospital,194,NA,59,NA,NA,NA,10,NA,private,Gauteng
+GP,Johannesburg,Life,Life Flora Clinic Hospital,316,NA,112,NA,NA,NA,10,NA,private,Gauteng
+GP,Johannesburg,Independent,Fordsburg Clinic Hospital,30,NA,30,NA,NA,NA,4,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Garden City Clinic Hospital,363,NA,104,NA,NA,NA,12,NA,private,Gauteng
+GP,Johannesburg,Lenmed,Lenmed Clinic Hospital,192,NA,72,NA,NA,NA,5,NA,private,Gauteng
+GP,Johannesburg,Clinix,Clinix Lesedi Private Hospital,175,NA,26,NA,NA,NA,4,NA,private,Gauteng
+GP,Johannesburg,Life,Life Sandton Surgical Centre,20,NA,20,NA,NA,NA,3,NA,private,Gauteng
+GP,Johannesburg,Netcare,Linksfield Park Netcare Hospital,283,NA,107,NA,NA,NA,10,NA,private,Gauteng
+GP,Johannesburg,Independent,Mayo Hospital,20,NA,20,NA,NA,NA,2,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Milpark Hospital,346,NA,155,NA,NA,NA,13,NA,private,Gauteng
+GP,Johannesburg,Mediclinic,Morningside Mediclinic Hospital,230,NA,62,NA,NA,NA,8,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Olivedale Hospital,265,NA,166,NA,NA,NA,10,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Mulbarton Hospital,216,NA,70,NA,NA,NA,5,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Park Lane Clinic Hospital,204,NA,40,NA,NA,NA,11,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Rand Clinic Hospital,144,NA,50,NA,NA,NA,5,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Rosebank Clinic Hospital,128,NA,55,NA,NA,NA,6,NA,private,Gauteng
+GP,Johannesburg,Mediclinic,Sandton Mediclinic Hospital,379,NA,114,NA,NA,NA,10,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Sunninghill Hospital,265,NA,90,NA,NA,NA,6,NA,private,Gauteng
+GP,Johannesburg,Netcare,Netcare Waterfall City Hospital,126,NA,36,NA,NA,NA,1,NA,private,Gauteng
+GP,Johannesburg,Independent,Wits Donald Gordon Medical Centre/kenridge hospital,190,NA,85,NA,NA,NA,9,NA,private,Gauteng
+GP,Johannesburg,Clinix,Tshepo Themba Clinix Hospital,120,NA,28,NA,NA,NA,3,NA,private,Gauteng
+GP,Johannesburg,Life,Life Wilgeheuwel Hospital,220,NA,93,NA,NA,NA,7,NA,private,Gauteng
+GP,Johannesburg,Lenmed,Zamokuhle Private Hospital,36,NA,8,NA,NA,NA,2,NA,private,Gauteng
+GP,Sedibeng,Independent,Cormed clinic,32,NA,8,NA,NA,NA,2,NA,private,Gauteng
+GP,Sedibeng,Netcare,Netcare Vaalpark Hospital,68,NA,20,NA,NA,NA,3,NA,private,Gauteng
+GP,Sedibeng,Clinix,Clinix Naledi - Nkanyezi Private Hospital,160,NA,50,NA,NA,NA,3,NA,private,Gauteng
+GP,Sedibeng,Mediclinic,Emfuleni Mediclinic Hospital (Vanderbijlpark),155,NA,31,NA,NA,NA,4,NA,private,Gauteng
+GP,Sedibeng,Independent,Midvaal Private Hospital,94,NA,53,NA,NA,NA,5,NA,private,Gauteng
+GP,Sedibeng,Life,Life Suikerbosrand Clinic Hospital,80,NA,24,NA,NA,NA,2,NA,private,Gauteng
+GP,Sedibeng,Mediclinic,Vereeniging Medicinic Hospital,267,NA,66,NA,NA,NA,7,NA,private,Gauteng
+GP,Tshwane,Netcare,Netcare Akasia Clinic Hospital,162,NA,52,NA,NA,NA,5,NA,private,Gauteng
+GP,Tshwane,Netcare,Netcare Bougainville Private Hospital,60,NA,36,NA,NA,NA,3,NA,private,Gauteng
+GP,Tshwane,Mediclinic,Mediclinic Hospital/Thabazimbi,21,NA,5,NA,NA,NA,1,NA,private,Gauteng
+GP,Tshwane,Life,Life Eugene Marais Hospital,364,NA,129,NA,NA,NA,13,NA,private,Gauteng
+GP,Tshwane,Life,Life Faerie Glen Hospital,87,NA,52,NA,NA,NA,5,NA,private,Gauteng
+GP,Tshwane,Life,Life Brooklyn Hospital,27,NA,27,NA,NA,NA,4,NA,private,Gauteng
+GP,Tshwane,Netcare,Netcare Femina Clinic Hospital,134,NA,25,NA,NA,NA,5,NA,private,Gauteng
+GP,Tshwane,Netcare,Netcare Jakaranda Hospital,130,NA,30,NA,NA,NA,6,NA,private,Gauteng
+GP,Tshwane,Mediclinic,Mediclinic Kloof Hospital,205,NA,56,NA,NA,NA,10,NA,private,Gauteng
+GP,Tshwane,Mediclinic,Mediclinic Medforum,204,NA,52,NA,NA,NA,14,NA,private,Gauteng
+GP,Tshwane,Mediclinic,Mediclinic Heart Hospital,90,NA,20,NA,NA,NA,3,NA,private,Gauteng
+GP,Tshwane,Mediclinic,Mediclinic Legae Private Hospital,147,NA,38,NA,NA,NA,4,NA,private,Gauteng
+GP,Tshwane,Life,Life Little Company of Mary Hospital,214,NA,85,NA,NA,NA,8,NA,private,Gauteng
+GP,Tshwane,Independent,Louis Pasteur Private Hospital,240,NA,34,NA,NA,NA,5,NA,private,Gauteng
+GP,Tshwane,Netcare,Netcare Montana Private Hospital,170,NA,60,NA,NA,NA,6,NA,private,Gauteng
+GP,Tshwane,Netcare,Moot General Netcare Hospital,92,NA,30,NA,NA,NA,3,NA,private,Gauteng
+GP,Tshwane,Mediclinic,Mediclinic Muelmed Hospital,222,NA,48,NA,NA,NA,8,NA,private,Gauteng
+GP,Tshwane,Life,Life Pretoria North Surgical Centre,12,NA,12,NA,NA,NA,2,NA,private,Gauteng
+GP,Tshwane,Netcare,Netcare Pretoria East Hospital,358,NA,92,NA,NA,NA,14,NA,private,Gauteng
+GP,Tshwane,Netcare,Netcare Unitas Hospital,469,NA,168,NA,NA,NA,16,NA,private,Gauteng
+GP,Tshwane,Life,Life Wilgers Hospital,360,NA,127,NA,NA,NA,15,NA,private,Gauteng
+GP,Tshwane,Independent,Wisani Medical Centre Hospital,12,NA,0,NA,NA,NA,0,NA,private,Gauteng
+GP,Tshwane,Independent,Zuid Afrikaans Hospital,139,NA,92,NA,NA,NA,9,NA,private,Gauteng
+GP,West Rand,Independent,Leslie Williams Memorial Hospital,109,NA,52,NA,NA,NA,3,NA,private,Gauteng
+GP,West Rand,Netcare,Netcare Constantia Day clinic,24,NA,24,NA,NA,NA,3,NA,private,Gauteng
+GP,West Rand,Netcare,Netcare Protea Day Clinic,10,NA,10,NA,NA,NA,2,NA,private,Gauteng
+GP,West Rand,Netcare,Netcare Bell Street Hospital,50,NA,10,NA,NA,NA,4,NA,private,Gauteng
+GP,West Rand,Netcare,Netcare Krugersdorp Hospital,285,NA,135,NA,NA,NA,11,NA,private,Gauteng
+GP,West Rand,Life,Life Robinson Private Hospital,109,NA,40,NA,NA,NA,4,NA,private,Gauteng
+GP,West Rand,Independent,Sir Albert Medical Centre,174,NA,65,NA,NA,NA,5,NA,private,Gauteng
+GP,West Rand,Mining,Anglogold Western Deep Levels Hospital,294,NA,93,NA,NA,NA,4,NA,private,Gauteng
+KZ,Amajuba,Mediclinic,Newcastle Mediclinic Private Hospital,138,NA,36,NA,NA,NA,5,NA,private,KwaZulu Natal
+KZ,eThekwini,Life,Life Chatsmed Garden Hospital,177,NA,54,NA,NA,NA,7,NA,private,KwaZulu Natal
+KZ,eThekwini,Independent,Ascot Park Medical Centre,74,NA,20,NA,NA,NA,2,NA,private,KwaZulu Natal
+KZ,eThekwini,Independent,City Hospital,158,NA,40,NA,NA,NA,7,NA,private,KwaZulu Natal
+KZ,eThekwini,Life,Life Crompton Hospital,163,NA,30,NA,NA,NA,4,NA,private,KwaZulu Natal
+KZ,eThekwini,Independent,Daymed Private Hospital,52,NA,20,NA,NA,NA,2,NA,private,KwaZulu Natal
+KZ,eThekwini,Independent,Durdoc Hospital,50,NA,12,NA,NA,NA,4,NA,private,KwaZulu Natal
+KZ,eThekwini,Life,Life Entabeni Hospital,286,NA,126,NA,NA,NA,13,NA,private,KwaZulu Natal
+KZ,eThekwini,Independent,eThekwini Hospital and Heart Centre,246,NA,71,NA,NA,NA,7,NA,private,KwaZulu Natal
+KZ,eThekwini,Independent,Isipingo Hospital,168,NA,20,NA,NA,NA,4,NA,private,KwaZulu Natal
+KZ,eThekwini,Netcare,Netcare Kingsway Hospital,180,NA,52,NA,NA,NA,6,NA,private,KwaZulu Natal
+KZ,eThekwini,Life,Life Mount Edgecombe Hospital,173,NA,52,NA,NA,NA,4,NA,private,KwaZulu Natal
+KZ,eThekwini,Life,Life Nu-Shifa Hospital,133,NA,46,NA,NA,NA,3,NA,private,KwaZulu Natal
+KZ,eThekwini,Netcare,Netcare Parklands Hospital,212,NA,43,NA,NA,NA,8,NA,private,KwaZulu Natal
+KZ,eThekwini,Netcare,Netcare St Augustine's Hospital,418,NA,185,NA,NA,NA,15,NA,private,KwaZulu Natal
+KZ,eThekwini,Netcare,Netcare Umhlanga Hospital,224,NA,82,NA,NA,NA,8,NA,private,KwaZulu Natal
+KZ,eThekwini,Mediclinic,Victoria Mediclinic Hospital,120,NA,25,NA,NA,NA,4,NA,private,KwaZulu Natal
+KZ,eThekwini,Life,Life Westville Hospital,270,NA,85,NA,NA,NA,11,NA,private,KwaZulu Natal
+KZ,iLembe,Netcare,Netcare Alberlito Hospital,119,NA,25,NA,NA,NA,3,NA,private,KwaZulu Natal
+KZ,Sisonke,Netcare,Netcare Kokstad hospital,36,NA,15,NA,NA,NA,2,NA,private,KwaZulu Natal
+KZ,Sisonke,Independent,Hibiscus Hospital,103,NA,22,NA,NA,NA,2,NA,private,KwaZulu Natal
+KZ,Ugu,Netcare,Netcare Margate Hospital,99,NA,22,NA,NA,NA,4,NA,private,KwaZulu Natal
+KZ,Ugu,Independent,Midlands Medical Centre Hospital,225,NA,61,NA,NA,NA,5,NA,private,KwaZulu Natal
+KZ,Ugu,Independent,Shelly Beach Day hospital,64,NA,0,NA,NA,NA,0,NA,private,KwaZulu Natal
+KZ,uMgungundlovu,Mediclinic,Pietermaritzburg Mediclinic Hospital,139,NA,42,NA,NA,NA,6,NA,private,KwaZulu Natal
+KZ,uMgungundlovu,Mediclinic,Mediclinic Howick Private Hospital,26,NA,20,NA,NA,NA,2,NA,private,KwaZulu Natal
+KZ,uMgungundlovu,Netcare,Netcare St Anne's Hospital,179,NA,72,NA,NA,NA,8,NA,private,KwaZulu Natal
+KZ,Uthukela,Lenmed,Verna Hospital,105,NA,34,NA,NA,NA,3,NA,private,KwaZulu Natal
+KZ,Uthungulu,Life,Life Empangeni Garden Clinic Hospital,174,NA,56,NA,NA,NA,5,NA,private,KwaZulu Natal
+KZ,Uthungulu,Netcare,Netcare The Bay Hospital,263,NA,78,NA,NA,NA,7,NA,private,KwaZulu Natal
+KZ,Zululand,Independent,Pongola Hospital,28,NA,3,NA,NA,NA,1,NA,private,KwaZulu Natal
+WC,Cape Town,Independent,Broad Road Surgical clinic,27,NA,27,NA,NA,NA,4,NA,private,Western Cape
+WC,Cape Town,Melomed,Melomed Bellville,123,NA,58,NA,NA,NA,4,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Cape Gate Mediclinic Hospital,140,NA,45,NA,NA,NA,5,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Cape Town Mediclinic Private Hospital,125,NA,37,NA,NA,NA,5,NA,private,Western Cape
+WC,Cape Town,Netcare,Christiaan Barnard Memorial Private Hospital,248,NA,72,NA,NA,NA,14,NA,private,Western Cape
+WC,Cape Town,Life,Life Claremont Hospital,88,NA,33,NA,NA,NA,4,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Constantiaberg Mediclinic Private Hospital,238,NA,36,NA,NA,NA,8,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Durbanville Mediclinic Private Hospital,210,NA,89,NA,NA,NA,8,NA,private,Western Cape
+WC,Cape Town,Melomed,Gatesville Medical Centre Private Hospital,133,NA,40,NA,NA,NA,1,NA,private,Western Cape
+WC,Cape Town,Life,Life Kingsbury Private Hospital,138,NA,21,NA,NA,NA,11,NA,private,Western Cape
+WC,Cape Town,Netcare,Netcare Kuilsriver Private Hospital,182,NA,71,NA,NA,NA,5,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Louis Leipoldt Mediclinic Private Hospital,190,NA,70,NA,NA,NA,7,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Milnerton Mediclinic Private Hospital,139,NA,60,NA,NA,NA,5,NA,private,Western Cape
+WC,Cape Town,Melomed,Melomed Mitchells Plain Private Hospital,132,NA,22,NA,NA,NA,5,NA,private,Western Cape
+WC,Cape Town,Independent,Monte Vista Clinic Private Hospital,24,NA,24,NA,NA,NA,3,NA,private,Western Cape
+WC,Cape Town,Netcare,Netcare N1 City Private Hospital,225,NA,104,NA,NA,NA,7,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Panorama Mediclinic Private Hospital,400,NA,200,NA,NA,NA,12,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Strand Mediclinic Hospital,24,NA,14,NA,NA,NA,2,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Vergelegen Mediclinic Private Hospital,237,NA,106,NA,NA,NA,7,NA,private,Western Cape
+WC,Cape Town,Life,Life Vincent Pallotti Private Hospital,273,NA,64,NA,NA,NA,12,NA,private,Western Cape
+WC,Cape Town,Mediclinic,Ceres Mediclinic Private Hospital,28,NA,6,NA,NA,NA,1,NA,private,Western Cape
+WC,Cape Winelands,Independent,Groenleegte care cure Paarl,21,NA,11,NA,NA,NA,3,NA,private,Western Cape
+WC,Cape Winelands,Mediclinic,Paarl Mediclinic Private Hospital,143,NA,37,NA,NA,NA,5,NA,private,Western Cape
+WC,Cape Winelands,Mediclinic,Stellenbosch Mediclinic Private Hospital,114,NA,47,NA,NA,NA,4,NA,private,Western Cape
+WC,Cape Winelands,Mediclinic,Worcester Mediclinic Private Hospital,187,NA,65,NA,NA,NA,5,NA,private,Western Cape
+WC,Eden,Life,Life Bayview Private Hospital,108,NA,10,NA,NA,NA,2,NA,private,Western Cape
+WC,Eden,Independent,Cango Clinic Private Hospital,14,NA,14,NA,NA,NA,2,NA,private,Western Cape
+WC,Eden,Mediclinic,George Mediclinic Private Hospital,122,NA,65,NA,NA,NA,5,NA,private,Western Cape
+WC,Eden,Mediclinic,Klein Karoo Mediclinic Private Hospital,38,NA,10,NA,NA,NA,2,NA,private,Western Cape
+WC,Eden,Life,Life Knysna Private Hospital,49,NA,15,NA,NA,NA,2,NA,private,Western Cape
+WC,Eden,Mediclinic,Plettenberg Bay MediClinic Private Hospital,27,NA,12,NA,NA,NA,1,NA,private,Western Cape
+WC,Eden,Mediclinic,Hermanus Mediclinic Private Hospital,80,NA,37,NA,NA,NA,3,NA,private,Western Cape
+WC,Overberg,Netcare,Netcare Blaauwberg hospital,104,NA,26,NA,NA,NA,5,NA,private,Western Cape
+WC,West Coast,Life,Life West Coast Private Hospital,60,NA,12,NA,NA,NA,2,NA,private,Western Cape
+LP,Capricorn,Mediclinic,Limpopo Mediclinic Hospital,247,NA,105,NA,NA,NA,8,NA,private,Limpopo
+LP,Mopani,Mediclinic,Mediclinic Tzaneen Private Hospital,129,NA,35,NA,NA,NA,3,NA,private,Limpopo
+LP,Vhembe,Independent,Zoutpansberg Private Hospital,22,NA,6,NA,NA,NA,1,NA,private,Limpopo
+LP,Waterberg,Life,Life St Vincent's Hospital,83,NA,24,NA,NA,NA,2,NA,private,Limpopo
+LP,Waterberg,Mediclinic,Mediclinic Marapong,12,NA,6,NA,NA,NA,1,NA,private,Limpopo
+LP,Waterberg,Mediclinic,Mediclinic Thabazimbi,21,NA,4,NA,NA,NA,1,NA,private,Limpopo
+LP,Waterberg,Clinix,Clinix Phalaborwa Private,62,NA,17,NA,NA,NA,2,NA,private,Limpopo
+NC,Frances Baard,Mediclinic,Mediclinic Kimberley,252,NA,91,NA,NA,NA,8,NA,private,Northern Cape
+NC,J T Gaetsewe,Mediclinic,Kathu Mediclinic Hospital,25,NA,8,NA,NA,NA,1,NA,private,Northern Cape
+NC,Namakwa,Independent,Kleinzee Hospital,34,NA,10,NA,NA,NA,1,NA,private,Northern Cape
+NC,Siyanda,Mediclinic,Upington Mediclinic Hospital,50,NA,17,NA,NA,NA,2,NA,private,Northern Cape
+NW,Bojanala Platinum,Mining,Andrew Saffey Mine Hospital,56,NA,23,NA,NA,NA,0,NA,private,North West
+NW,Bojanala Platinum,Mediclinic,Mediclinic Brits,80,NA,21,NA,NA,NA,3,NA,private,North West
+NW,Bojanala Platinum,Life,Life Le Femme hospital,40,NA,14,NA,NA,NA,2,NA,private,North West
+NW,Bojanala Platinum,Netcare,Netcare Ferncrest Hospital,163,NA,60,NA,NA,NA,5,NA,private,North West
+NW,Bojanala Platinum,Life,Life Peglerae Hospital,159,NA,103,NA,NA,NA,6,NA,private,North West
+NW,Dr K Kaunda,Life,Life Anncron Clinic Hospital,150,NA,56,NA,NA,NA,6,NA,private,North West
+NW,Dr K Kaunda,Independent,Fochville Hospital,37,NA,8,NA,NA,NA,1,NA,private,North West
+NW,Dr K Kaunda,Mediclinic,Potchefstroom Mediclinic Hospital,127,NA,41,NA,NA,NA,4,NA,private,North West
+NW,Dr K Kaunda,Independent,Sunningdale Hospital,62,NA,18,NA,NA,NA,2,NA,private,North West
+NW,Dr K Kaunda,Independent,Mooimed hospital,35,NA,13,NA,NA,NA,2,NA,private,North West
+NW,Dr K Kaunda,Mining,West Vaal Hospital,275,NA,94,NA,NA,NA,3,NA,private,North West
+NW,Dr K Kaunda,Independent,Wilmed Park Private Hospital,144,NA,72,NA,NA,NA,6,NA,private,North West
+NW,Ngaka Modiri Molema,Clinix,Clinix Victoria Hospital,93,NA,45,NA,NA,NA,3,NA,private,North West
+NW,Ruth Segomotsi Mompati,Independent,Vryburg Private Hospital,44,NA,8,NA,NA,NA,2,NA,private,North West
+MP,Ehlanzeni,Mediclnic,Medicilinic Barbeton,30,NA,5,NA,NA,NA,1,NA,private,Mpumulanga
+MP,Ehlanzeni,Mediclnic,Nelspruit Mediclinic Hospital,314,NA,89,NA,NA,NA,9,NA,private,Mpumulanga
+MP,G Sibande,Mediclnic,Ermelo Mediclinic Hospital,40,NA,11,NA,NA,NA,2,NA,private,Mpumulanga
+MP,G Sibande,Mining,Evander Gold Mining hospital,104,NA,40,NA,NA,NA,1,NA,private,Mpumulanga
+MP,G Sibande,Life,Life Piet Retief Hospital,45,NA,17,NA,NA,NA,2,NA,private,Mpumulanga
+MP,G Sibande,Mediclnic,Mediclinic Secunda Hospital,43,NA,24,NA,NA,NA,3,NA,private,Mpumulanga
+MP,G Sibande,Mediclnic,Trichardt Mediclinic Hospital,202,NA,64,NA,NA,NA,4,NA,private,Mpumulanga
+MP,Nkangala,Mining,Amcoal Highveld Hospital,134,NA,34,NA,NA,NA,2,NA,private,Mpumulanga
+MP,Nkangala,Life,Life Cosmos Hospital,205,NA,60,NA,NA,NA,7,NA,private,Mpumulanga
+MP,Nkangala,Independent,Kriel medical clinic,6,NA,6,NA,NA,NA,1,NA,private,Mpumulanga
+MP,Nkangala,Life,Life Midmed Hospital,159,NA,34,NA,NA,NA,4,NA,private,Mpumulanga
+MP,Nkangala,Independent,Emalahleni private hospital,100,NA,22,NA,NA,NA,3,NA,private,Mpumulanga
+EC,Alfred Nzo,Independent,Matatiele Private hospital,31,NA,10,NA,NA,NA,0,NA,private,Eastern Cape
+EC,C Hani,Life,Life Queenstown Private Hospital,70,NA,15,NA,NA,NA,1,NA,private,Eastern Cape
+EC,Cacadu,Life,Life Isivivana Private Hospital,33,NA,12,NA,NA,NA,1,NA,private,Eastern Cape
+EC,Cacadu,Netcare,Netcare Port Alfred Hospital,30,NA,14,NA,NA,NA,2,NA,private,Eastern Cape
+EC,Cacadu,Netcare,Netcare Setller's Hospital,32,NA,25,NA,NA,NA,3,NA,private,Eastern Cape
+EC,N Mandela,Life,Life St George's Hospital,216,NA,106,NA,NA,NA,14,NA,private,Eastern Cape
+EC,N Mandela,Life,Life Mercantile Private Hospital,202,NA,59,NA,NA,NA,5,NA,private,Eastern Cape
+EC,N Mandela,Netcare,Netcare Greenacres Hospital,340,NA,157,NA,NA,NA,14,NA,private,Eastern Cape
+EC,N Mandela,Netcare,Netcare Cuyler Hospital,120,NA,52,NA,NA,NA,5,NA,private,Eastern Cape
+EC,O Tambo,Life,Life St Mary's Private Hospital,131,NA,38,NA,NA,NA,3,NA,private,Eastern Cape
+EC,O Tambo,Life,Life East London Private Hospital,100,NA,0,NA,NA,NA,0,NA,private,Eastern Cape
+EC,O Tambo,Life,Life St Dominic's Hospital,183,NA,76,NA,NA,NA,5,NA,private,Eastern Cape
+EC,O Tambo,Life,Life St James Hospital,28,NA,28,NA,NA,NA,4,NA,private,Eastern Cape
+EC,O Tambo,Life,Life Beacon bay Hospital,168,NA,71,NA,NA,NA,6,NA,private,Eastern Cape
+FS,Fezile Dabi,Netcare,Netcare Kroon Hospital,80,NA,12,NA,NA,NA,2,NA,private,Free State
+FS,Fezile Dabi,Independent,Riemland Hospital,10,NA,3,NA,NA,NA,1,NA,private,Free State
+FS,Fezile Dabi,Independent,Sasol Infrachem Hospital,11,NA,7,NA,NA,NA,0,NA,private,Free State
+FS,Fezile Dabi,Netcare,Netcare Vaalpark Hospital,36,NA,18,NA,NA,NA,3,NA,private,Free State
+FS,Lejweleputswa,Independent,Ernest Oppenheimer Hospital,695,NA,197,NA,NA,NA,4,NA,private,Free State
+FS,Lejweleputswa,Mining,Harmony Goldmine Hospital,150,NA,54,NA,NA,NA,3,NA,private,Free State
+FS,Lejweleputswa,Independent,Helena Hospital,131,NA,42,NA,NA,NA,2,NA,private,Free State
+FS,Lejweleputswa,Mediclinic,Welkom Mediclinic Hospital,191,NA,60,NA,NA,NA,8,NA,private,Free State
+FS,Motheo,Life,Life Rosepark Hospital,235,NA,50,NA,NA,NA,10,NA,private,Free State
+FS,Motheo,Independent,Hospital Park Hospital,64,NA,30,NA,NA,NA,3,NA,private,Free State
+FS,Motheo,Independent,Citymed day theatre,20,NA,20,NA,NA,NA,2,NA,private,Free State
+FS,Motheo,Mediclinic,Bloemfontein Mediclinic Hospital,377,NA,148,NA,NA,NA,12,NA,private,Free State
+FS,Motheo,Netcare,Pelanomi hospital Netcare,87,NA,19,NA,NA,NA,2,NA,private,Free State
+FS,Motheo,Netcare,Universitas Hospital Netcare,127,NA,60,NA,NA,NA,4,NA,private,Free State
+FS,T Mofutsanyane,Mediclinic,Hoogland Mediclinic Hospital,107,NA,40,NA,NA,NA,3,NA,private,Free State
+FS,T Mofutsanyane,Independent,Bethlehem medical centre Day theatre,4,NA,4,NA,NA,NA,1,NA,private,Free State
+GP,Ekurhuleni,District Hospital,Germiston Hospital,230,300,12,34,0,0,4,110898500,public,Gauteng
+GP,Ekurhuleni,Regional Hospital,Far East Rand Hospital,345,218,89,89,1,8,6,118128320,public,Gauteng
+GP,Ekurhuleni,Regional Hospital,Natalspruit Hospital,800,821,0,0,0,0,8,113890500,public,Gauteng
+GP,Ekurhuleni,Regional Hospital,Pholosong Hospital,483,300,36,36,1,7,3,118125000,public,Gauteng
+GP,Ekurhuleni,Regional Hospital,Tambo Memorial Hospital,518,640,86,86,2,8,6,118988000,public,Gauteng
+GP,Ekurhuleni,Regional Hospital,Tembisa Hospital,836,840,120,120,1,7,11,119232000,public,Gauteng
+GP,Johannesburg,District Hospital,South Rand Hospital,275,280,53,53,0,1,2,116812002,public,Gauteng
+GP,Johannesburg,National Central Hospital,Charlotte Maxeke Hospital,1066,1066,72,65,16,34,34,114883711,public,Gauteng
+GP,Johannesburg,National Central Hospital,Chris Hani Baragwanath Hospital,2639,2888,547,547,72,127,30,119338000,public,Gauteng
+GP,Johannesburg,Regional Hospital,Edenvale Hospital,230,230,40,40,1,2,3,113216000,public,Gauteng
+GP,Johannesburg,Regional Hospital,Helen Joseph Hospital,576,485,120,120,8,9,9,114891011,public,Gauteng
+GP,Johannesburg,Regional Hospital,Raheema Moosa Hospital,310,353,0,0,0,0,5,114709000,public,Gauteng
+GP,Sedibeng,District Hospital,Heidelberg Hospital,126,126,23,23,0,12,2,163411203,public,Gauteng
+GP,Sedibeng,District Hospital,Kopanong Hospital,248,248,24,24,0,8,2,164287000,public,Gauteng
+GP,Sedibeng,Regional Hospital,Sebokeng Hospital,745,800,188,188,2,10,11,169303000,public,Gauteng
+GP,Tshwane,District Hospital,Jubilee Hospital,446,551,84,84,0,4,3,127179300,public,Gauteng
+GP,Tshwane,District Hospital,Mamelodi Hospital,356,400,32,32,1,6,6,128418300,public,Gauteng
+GP,Tshwane,District Hospital,Odi Hospital,216,227,60,60,0,9,3,127252300,public,Gauteng
+GP,Tshwane,District Hospital,Pretoria West Hospital,153,178,30,30,1,14,2,123801200,public,Gauteng
+GP,Tshwane,District Hospital,Tshwane District Hospital,197,200,40,60,0,5,4,123545793,public,Gauteng
+GP,Tshwane,National Central Hospital,George Mukhari Hospital,1236,1652,148,148,24,24,17,125293691,public,Gauteng
+GP,Tshwane,National Central Hospital,Steve Biko Academic Hospital,780,832,81,87,17,27,18,123541141,public,Gauteng
+GP,Tshwane,Regional Hospital,Kalafong Hospital,756,857,371,371,8,11,11,123186102,public,Gauteng
+GP,West Rand,District Hospital,Carletonville Hospital,230,230,50,50,0,1,2,187881702,public,Gauteng
+GP,West Rand,District Hospital,Yusuf Dadoo Hospital,245,245,20,20,0,2,1,119516000,public,Gauteng
+GP,West Rand,Regional Hospital,Leratong Hospital,813,800,126,126,3,13,8,114113526,public,Gauteng
+KZ,Amajuba,District Hospital,Niemeyer Memorial Hospital,52,52,8,8,0,0,1,343313011,public,KwaZulu Natal
+KZ,Amajuba,Regional Hospital,Madadeni Hospital,822,822,160,160,2,6,5,343288001,public,KwaZulu Natal
+KZ,Amajuba,Regional Hospital,Newcastle Hospital,272,340,0,0,0,0,4,343280000,public,KwaZulu Natal
+KZ,eThekwini,District Hospital,Osindisweni Hospital,240,301,42,42,0,1,1,325419200,public,KwaZulu Natal
+KZ,eThekwini,District Hospital,Mary's Hospital (Mariannhill),200,200,30,30,0,13,1,317171186,public,KwaZulu Natal
+KZ,eThekwini,District Hospital,Wentworth Hospital,266,267,32,32,0,0,1,314605000,public,KwaZulu Natal
+KZ,eThekwini,National Central Hospital,Inkosi Albert Luthuli Central Hospital,852,846,194,194,12,2,19,312401000,public,KwaZulu Natal
+KZ,eThekwini,Regional Hospital,Addington Hospital,571,571,100,100,7,5,7,313272000,public,KwaZulu Natal
+KZ,eThekwini,Regional Hospital,King Edward VIII Hospital,833,922,194,194,10,5,11,313603111,public,KwaZulu Natal
+KZ,eThekwini,Regional Hospital,Mahatma Gandhi Hospital,388,408,70,70,0,0,2,315021719,public,KwaZulu Natal
+KZ,eThekwini,Regional Hospital,Prince Mshiyeni Memorial Hospital,1160,1200,220,220,6,9,11,319078111,public,KwaZulu Natal
+KZ,eThekwini,Regional Hospital,Khan Hospital,543,585,101,101,6,13,5,314596000,public,KwaZulu Natal
+KZ,eThekwini,Regional Hospital,Aidans Hospital,157,157,75,75,0,0,3,313142200,public,KwaZulu Natal
+KZ,eThekwini,Regional Hospital,King DinuzuluHospital,661,722,98,98,0,0,4,312426000,public,KwaZulu Natal
+KZ,iLembe,District Hospital,Montebello Hospital,111,168,7,7,0,4,1,335067000,public,KwaZulu Natal
+KZ,iLembe,District Hospital,Umphumulo Hospital,141,141,16,16,0,0,1,324814100,public,KwaZulu Natal
+KZ,iLembe,District Hospital,Untunjambili Hospital,130,150,12,12,0,0,1,334440818,public,KwaZulu Natal
+KZ,iLembe,Regional Hospital,Stanger Hospital,500,449,134,134,2,7,4,324376000,public,KwaZulu Natal
+KZ,Harry Gwala,District Hospital,Christ the King Hospital,197,238,36,36,0,6,3,398347500,public,KwaZulu Natal
+KZ,Harry Gwala,District Hospital,East Griqualand and Usher Memorial Hospital,185,205,32,32,0,1,2,397978100,public,KwaZulu Natal
+KZ,Harry Gwala,District Hospital,Rietvlei Hospital,188,205,68,68,0,0,2,392605000,public,KwaZulu Natal
+KZ,Harry Gwala,District Hospital,Apollinaris Hospital,146,155,18,18,0,0,2,398338000,public,KwaZulu Natal
+KZ,Ugu,District Hospital,Crooke's Hospital,297,288,66,66,0,4,2,399787000,public,KwaZulu Natal
+KZ,Ugu,District Hospital,Murchison Hospital,300,301,54,54,0,5,2,396877311,public,KwaZulu Natal
+KZ,Ugu,District Hospital,Andrew's Hospital,210,223,20,20,0,2,2,394331955,public,KwaZulu Natal
+KZ,Ugu,Regional Hospital,Port Shepstone Hospital,336,366,53,53,2,8,4,396886000,public,KwaZulu Natal
+KZ,uMgungundlovu,District Hospital,Appelsbosch Hospital,140,159,23,23,0,2,1,322948000,public,KwaZulu Natal
+KZ,uMgungundlovu,District Hospital,Northdale Hospital,431,385,76,76,0,10,5,333879000,public,KwaZulu Natal
+KZ,uMgungundlovu,Provincial Tertiary Hospital,Grey's Hospital,507,530,160,160,10,13,13,338973000,public,KwaZulu Natal
+KZ,uMgungundlovu,Regional Hospital,Edendale Hospital,879,900,160,160,7,12,12,333954911,public,KwaZulu Natal
+KZ,Umkhanyakude,District Hospital,Bethesda Hospital,222,230,31,31,0,5,2,355951004,public,KwaZulu Natal
+KZ,Umkhanyakude,District Hospital,Hlabisa Hospital,275,296,38,38,0,5,2,358388600,public,KwaZulu Natal
+KZ,Umkhanyakude,District Hospital,Manguzi Hospital,264,264,25,25,0,3,2,355920150,public,KwaZulu Natal
+KZ,Umkhanyakude,District Hospital,Mosvold Hospital,226,246,43,43,0,13,2,355910122,public,KwaZulu Natal
+KZ,Umkhanyakude,District Hospital,Mseleni Hospital,219,184,17,17,0,5,2,355741004,public,KwaZulu Natal
+KZ,Umzinyathi,District Hospital,Charles Johnson Memorial Hospital,190,349,30,30,0,3,2,342716400,public,KwaZulu Natal
+KZ,Umzinyathi,District Hospital,Church of Scotland Hospital,347,347,50,50,0,15,2,334931000,public,KwaZulu Natal
+KZ,Umzinyathi,District Hospital,Dundee Hospital,224,224,42,42,0,8,2,342121111,public,KwaZulu Natal
+KZ,Umzinyathi,District Hospital,Greytown Hospital,271,207,43,43,0,6,2,334139400,public,KwaZulu Natal
+KZ,Uthukela,District Hospital,Emmaus Hospital,156,156,19,19,0,10,2,364881570,public,KwaZulu Natal
+KZ,Uthukela,District Hospital,Estcourt Hospital,325,325,75,75,0,2,3,363427000,public,KwaZulu Natal
+KZ,Uthukela,Regional Hospital,Ladysmith Hospital,448,452,76,76,1,2,4,366372111,public,KwaZulu Natal
+KZ,Uthungulu,District Hospital,Catherine Booth Hospital,167,172,20,20,0,0,1,354748407,public,KwaZulu Natal
+KZ,Uthungulu,District Hospital,Ekhombe Hospital,120,210,4,4,0,0,1,358348000,public,KwaZulu Natal
+KZ,Uthungulu,District Hospital,Eshowe Hospital,408,460,95,95,0,8,3,354734500,public,KwaZulu Natal
+KZ,Uthungulu,District Hospital,KwaMagwaza Hospital,147,141,14,14,0,5,1,354508200,public,KwaZulu Natal
+KZ,Uthungulu,District Hospital,Mbongolwane Hospital,162,196,19,19,0,2,1,354766242,public,KwaZulu Natal
+KZ,Uthungulu,District Hospital,Nkandla Hospital,175,220,17,17,0,0,1,358335000,public,KwaZulu Natal
+KZ,Uthungulu,Regional Hospital,Lower Umfolozi War Memorial Hospital,270,283,36,36,0,0,3,359077000,public,KwaZulu Natal
+KZ,Uthungulu,Regional Hospital,Ngwelezana Hospital,489,550,45,50,3,6,6,359017000,public,KwaZulu Natal
+KZ,Zululand,District Hospital,Benedictine Hospital,385,430,47,47,0,2,2,358317000,public,KwaZulu Natal
+KZ,Zululand,District Hospital,Ceza Hospital,160,160,15,15,0,4,1,358325000,public,KwaZulu Natal
+KZ,Zululand,District Hospital,Itshelejuba Hospital,154,150,0,0,0,11,2,344134011,public,KwaZulu Natal
+KZ,Zululand,District Hospital,Nkonjeni Hospital,230,265,35,35,0,6,2,358730013,public,KwaZulu Natal
+KZ,Zululand,District Hospital,Vryheid Hospital,338,105,97,97,0,0,0,359822111,public,KwaZulu Natal
+WC,Cape Town,District Hospital,Eerste River Hospital,130,124,32,32,1,3,3,219028000,public,Western Cape
+WC,Cape Town,District Hospital,False Bay Hospital,65,75,7,7,0,1,2,217821121,public,Western Cape
+WC,Cape Town,District Hospital,Helderberg Hospital,169,169,34,34,0,2,1,218504700,public,Western Cape
+WC,Cape Town,District Hospital,Karl Bremer Hospital,217,217,37,37,2,6,2,219181911,public,Western Cape
+WC,Cape Town,District Hospital,Khayelitsha (Tygerberg) Hospital,240,240,45,45,0,5,2,213604200,public,Western Cape
+WC,Cape Town,District Hospital,Mitchell's Plain Hospital,270,270,60,60,2,6,4,213774300,public,Western Cape
+WC,Cape Town,District Hospital,Victoria Hospital,193,185,52,52,1,3,3,217991161,public,Western Cape
+WC,Cape Town,District Hospital,Wesfleur Hospital,31,31,5,5,0,1,1,215718043,public,Western Cape
+WC,Cape Town,National Central Hospital,Groote Schuur Level 3 Hospital,945,946,97,97,42,57,26,214043333,public,Western Cape
+WC,Cape Town,National Central Hospital,Red Cross War Memorial Children's Level 3 Hospital,270,290,60,60,0,2,11,216585095,public,Western Cape
+WC,Cape Town,National Central Hospital,Tygerberg Level 3 Hospital,1280,1239,352,352,14,37,28,214043333,public,Western Cape
+WC,Cape Town,Regional Hospital,Somerset Hospital,334,334,40,40,3,4,4,214026911,public,Western Cape
+WC,Cape Winelands,District Hospital,Ceres Hospital,86,86,0,0,0,1,1,233169600,public,Western Cape
+WC,Cape Winelands,District Hospital,Montagu Hospital,40,40,10,10,0,3,1,236148102,public,Western Cape
+WC,Cape Winelands,District Hospital,Robertson Hospital,46,46,12,12,0,4,1,236268547,public,Western Cape
+WC,Cape Winelands,District Hospital,Stellenbosch Hospital,85,85,14,14,0,8,2,218086100,public,Western Cape
+WC,Cape Winelands,Regional Hospital,Paarl Hospital,301,369,72,72,2,5,5,218602500,public,Western Cape
+WC,Cape Winelands,Regional Hospital,Worcester Hospital,269,322,48,48,3,6,6,233481100,public,Western Cape
+WC,Central Karoo,District Hospital,Beaufort West Hospital,57,57,6,6,0,5,2,234148200,public,Western Cape
+WC,Central Karoo,District Hospital,Laingsburg Hospital,20,20,1,1,0,1,1,235511237,public,Western Cape
+WC,Central Karoo,District Hospital,Murraysburg Hospital,14,14,1,1,0,1,0,498440053,public,Western Cape
+WC,Central Karoo,District Hospital,Prince Albert Hospital,29,29,3,3,0,0,1,235411301,public,Western Cape
+WC,Eden,District Hospital,Knysna Hospital,90,90,10,10,1,9,2,443028400,public,Western Cape
+WC,Eden,District Hospital,Ladismith (Alan Blyth) Hospital,30,30,6,6,0,4,1,285511010,public,Western Cape
+WC,Eden,District Hospital,Mossel Bay Hospital,90,90,8,8,1,14,2,446912011,public,Western Cape
+WC,Eden,District Hospital,Oudtshoorn Hospital,123,123,20,20,0,14,3,442037200,public,Western Cape
+WC,Eden,District Hospital,Riversdale Hospital,50,61,8,10,1,6,1,287132445,public,Western Cape
+WC,Eden,District Hospital,Uniondale Hospital,13,13,2,2,0,0,1,447521068,public,Western Cape
+WC,Eden,Regional Hospital,George Hospital,268,309,50,50,3,5,6,448745122,public,Western Cape
+WC,Overberg,District Hospital,Caledon Hospital,50,75,4,4,0,6,1,282121070,public,Western Cape
+WC,Overberg,District Hospital,Hermanus Hospital,71,71,0,0,0,12,2,283135200,public,Western Cape
+WC,Overberg,District Hospital,Otto Du Plessis Hospital,30,30,6,6,0,2,1,284241167,public,Western Cape
+WC,Overberg,District Hospital,Swellendam Hospital,51,51,13,13,0,5,1,285141141,public,Western Cape
+WC,West Coast,District Hospital,Citrusdal Hospital,34,34,4,4,0,1,1,229212153,public,Western Cape
+WC,West Coast,District Hospital,Clanwilliam Hospital,50,50,9,9,0,2,1,274822166,public,Western Cape
+WC,West Coast,District Hospital,LAPA Munnik Hospital,10,10,1,1,0,1,1,229312140,public,Western Cape
+WC,West Coast,District Hospital,Radie Kotze Hospital,31,31,7,7,1,4,1,229131175,public,Western Cape
+WC,West Coast,District Hospital,Swartland Hospital,88,85,20,20,0,5,2,224879203,public,Western Cape
+WC,West Coast,District Hospital,Vredenburg Hospital,81,81,8,8,0,3,1,227097200,public,Western Cape
+WC,West Coast,District Hospital,Vredendal Hospital,75,75,10,10,0,2,1,272132039,public,Western Cape
+LP,Capricorn,District Hospital,Botlokwa Hospital,88,88,12,12,0,6,2,155278000,public,Limpopo
+LP,Capricorn,District Hospital,Helene Franz Hospital,63,149,0,0,0,7,2,155058500,public,Limpopo
+LP,Capricorn,District Hospital,Lebowakgomo Hospital,220,262,72,72,0,3,2,156326900,public,Limpopo
+LP,Capricorn,District Hospital,Seshego Hospital,164,180,60,60,0,5,2,152235141,public,Limpopo
+LP,Capricorn,District Hospital,Knobel Hospital,243,243,0,0,0,0,1,152211500,public,Limpopo
+LP,Capricorn,District Hospital,Zebediela Hospital,74,108,10,10,0,0,0,156620787,public,Limpopo
+LP,Capricorn,Provincial Tertiary Hospital,Mankweng Hospital complex,509,530,30,158,0,10,4,152861000,public,Limpopo
+LP,Capricorn,Provincial Tertiary Hospital,Polokwane Hospital complex,490,701,100,100,3,20,6,152875000,public,Limpopo
+LP,Gr Sekhukhune,District Hospital,Dilokong Hospital,186,324,46,72,0,0,2,132147265,public,Limpopo
+LP,Gr Sekhukhune,District Hospital,Groblersdal Hospital/HA Grove,10,25,10,10,0,4,0,132623024,public,Limpopo
+LP,Gr Sekhukhune,District Hospital,Jane Furse Hospital,200,252,36,36,0,16,1,132659416,public,Limpopo
+LP,Gr Sekhukhune,District Hospital,Matlala Hospital,60,128,26,65,0,7,1,132675000,public,Limpopo
+LP,Gr Sekhukhune,District Hospital,Mecklenburg Hospital,124,145,12,12,0,7,2,156150208,public,Limpopo
+LP,Gr Sekhukhune,Regional Hospital,Philadelphia Hospital,278,538,28,28,0,2,2,139830112,public,Limpopo
+LP,Gr Sekhukhune,Regional Hospital,Rita's Hospital,331,400,44,40,0,0,0,132981000,public,Limpopo
+LP,Mopani,District Hospital,Phatudi Hospital,62,62,20,20,0,1,1,153558023,public,Limpopo
+LP,Mopani,District Hospital,Kgapane Hospital,262,262,70,70,1,2,3,153287800,public,Limpopo
+LP,Mopani,District Hospital,Maphutha L Malatjie Hospital,104,100,0,0,0,0,1,157691520,public,Limpopo
+LP,Mopani,District Hospital,Nkhensani Hospital,250,250,36,36,0,6,3,158117376,public,Limpopo
+LP,Mopani,District Hospital,Sekororo Hospital,208,208,0,0,0,6,2,153839400,public,Limpopo
+LP,Mopani,District Hospital,Van Velden Memorial (Tzaneen) Hospital,67,75,25,25,0,2,1,153078800,public,Limpopo
+LP,Mopani,Regional Hospital,Letaba Hospital,276,400,37,37,2,2,0,153038200,public,Limpopo
+LP,Vhembe,District Hospital,Donald Fraser Hospital,300,300,28,28,0,13,2,159631778,public,Limpopo
+LP,Vhembe,District Hospital,Elim Hospital,375,375,40,40,0,5,4,155563201,public,Limpopo
+LP,Vhembe,District Hospital,Louis Trichardt /Mhkado Hospital,52,52,12,12,0,2,1,155160148,public,Limpopo
+LP,Vhembe,District Hospital,Malamulele Hospital,195,195,40,40,0,7,1,158510026,public,Limpopo
+LP,Vhembe,District Hospital,Messina Hospital,80,80,20,20,0,6,1,159730004,public,Limpopo
+LP,Vhembe,District Hospital,Siloam Hospital,350,350,35,35,0,10,2,159730004,public,Limpopo
+LP,Vhembe,Regional Hospital,Tshilidzini Hospital,434,538,60,60,0,6,0,159641062,public,Limpopo
+LP,Waterberg,District Hospital,Ellisras Hospital,120,120,20,20,0,4,1,147632227,public,Limpopo
+LP,Waterberg,District Hospital,Odendaal (Nylstroom) Hospital,100,100,8,8,0,0,2,147175257,public,Limpopo
+LP,Waterberg,District Hospital,George Masebe Hospital,260,260,15,15,0,6,1,154236000,public,Limpopo
+LP,Waterberg,District Hospital,Thabazimbi Hospital,110,110,30,30,0,12,2,147777000,public,Limpopo
+LP,Waterberg,District Hospital,Voortrekker Memorial (Potgietersrus) Hospital,142,142,12,12,0,20,2,154091700,public,Limpopo
+LP,Waterberg,District Hospital,Warmbaths Hospital,135,135,16,16,0,0,3,147362121,public,Limpopo
+LP,Waterberg,District Hospital,Witpoort Hospital,59,70,4,4,0,4,1,147690025,public,Limpopo
+LP,Waterberg,Regional Hospital,Mokopane Hospital,260,273,66,66,0,4,2,154834000,public,Limpopo
+NC,Frances Baard,District Hospital,Hartswater (Connie Vorster) Hospital,50,50,0,0,0,4,1,534740148,public,Northern Cape
+NC,Frances Baard,District Hospital,Jan Kempdorp Hospital,16,16,0,0,0,0,0,534560126,public,Northern Cape
+NC,Frances Baard,District Hospital,Prof ZK Matthews Hospital,45,45,12,12,0,8,1,535319400,public,Northern Cape
+NC,Frances Baard,District Hospital,Warrenton Hospital,28,30,0,0,0,0,0,534973148,public,Northern Cape
+NC,Frances Baard,Regional Hospital,Kimberley Hospital,694,604,146,146,4,7,5,538022147,public,Northern Cape
+NC,J T Gaetsewe,District Hospital,Kuruman Hospital,69,69,10,15,0,7,1,537128100,public,Northern Cape
+NC,J T Gaetsewe,District Hospital,Tshwaragano Hospital,214,250,40,40,0,5,1,537741780,public,Northern Cape
+NC,Namakwa,District Hospital,Calvinia (Abraham Esau) Hospital,45,33,5,5,0,4,1,273418020,public,Northern Cape
+NC,Namakwa,District Hospital,Springbok (Dr Van Niekerk) Hospital,57,40,6,6,0,5,2,277122018,public,Northern Cape
+NC,Pixley ka Seme,District Hospital,Aar (Central Karoo) Hospital,51,51,0,0,1,5,2,536312123,public,Northern Cape
+NC,Pixley ka Seme,District Hospital,Douglas (Hester Malan) Hospital,35,35,0,0,0,0,0,532982812,public,Northern Cape
+NC,Pixley ka Seme,District Hospital,Manne Dipico (Colesberg) Hospital,32,32,0,0,0,0,0,517539300,public,Northern Cape
+NC,Pixley ka Seme,District Hospital,Prieska (Bill Pickard) Hospital,30,30,2,2,0,2,1,533532037,public,Northern Cape
+NC,Siyanda,District Hospital,Harry Surtie Hospital,186,326,45,46,0,3,2,543329008,public,Northern Cape
+NC,Siyanda,District Hospital,Kakamas Hospital,30,30,4,4,0,2,0,544310866,public,Northern Cape
+NC,Siyanda,District Hospital,Keimoes Hospital,30,30,2,2,0,0,0,544611004,public,Northern Cape
+NC,Siyanda,District Hospital,Postmasburg Hospital,42,42,20,20,0,0,0,533130663,public,Northern Cape
+NW,Bojanala Platinum,District Hospital,Brits Hospital,100,215,20,20,3,8,1,123817000,public,North West
+NW,Bojanala Platinum,District Hospital,Moses Kotane Hospital,196,230,44,44,0,10,2,145432027,public,North West
+NW,Bojanala Platinum,District Hospital,Swartruggens/Koster Hospital,35,35,0,0,0,2,1,145552302,public,North West
+NW,Bojanala Platinum,Regional Hospital,Job Shimankana Tabane Hospital,390,390,35,40,1,12,5,145905100,public,North West
+NW,Dr K Kaunda,District Hospital,Nic Bodenstein Hospital,88,100,20,20,0,6,1,145905100,public,North West
+NW,Dr K Kaunda,District Hospital,Ventersdorp Hospital,40,40,10,10,0,0,1,185961100,public,North West
+NW,Dr K Kaunda,Regional Hospital,Klerksdorp/Tshepong Hospital,803,1015,169,169,2,2,13,182642081,public,North West
+NW,Dr K Kaunda,Regional Hospital,Potchefstroom Hospital,335,335,37,37,1,25,4,184064600,public,North West
+NW,Ngaka Modiri Molema,District Hospital,Gelukspan Hospital,184,350,36,36,0,0,2,182934400,public,North West
+NW,Ngaka Modiri Molema,District Hospital,Thusong/General de la Rey Hospital,120,300,40,40,0,7,2,183369200,public,North West
+NW,Ngaka Modiri Molema,District Hospital,Lehurutshe Hospital,97,105,0,0,0,6,1,186323041,public,North West
+NW,Ngaka Modiri Molema,District Hospital,Zeerust Hospital,76,84,0,0,0,4,0,183633181,public,North West
+NW,Ngaka Modiri Molema,Regional Hospital,Mafikeng Provincial Hospital,392,432,134,134,2,7,4,183382231,public,North West
+NW,Ruth Segomotsi Mompati,District Hospital,Christiana Hospital,42,42,0,0,1,0,0,186429900,public,North West
+NW,Ruth Segomotsi Mompati,District Hospital,Ganyesa Hospital,60,60,0,0,4,4,2,183832005,public,North West
+NW,Ruth Segomotsi Mompati,District Hospital,Schweizer-Reneke Hospital,68,68,0,0,0,4,2,534412238,public,North West
+NW,Ruth Segomotsi Mompati,District Hospital,Taung Hospital,290,434,50,50,0,6,2,539989400,public,North West
+NW,Ruth Segomotsi Mompati,Regional Hospital,Joe Maralong Memorial,96,120,32,32,0,4,3,539631291,public,North West
+MP,Ehlanzeni,District Hospital,Barberton Hospital,151,250,46,46,0,5,3,137123011,public,Mpumulanga
+MP,Ehlanzeni,District Hospital,Lydenburg Hospital,119,100,30,30,0,1,2,132352236,public,Mpumulanga
+MP,Ehlanzeni,District Hospital,Matibidi Hospital,100,100,0,0,0,0,1,137698092,public,Mpumulanga
+MP,Ehlanzeni,District Hospital,Matikwana Hospital,300,280,30,30,0,0,2,137086024,public,Mpumulanga
+MP,Ehlanzeni,District Hospital,Sabie Hospital,99,99,20,20,0,1,2,137641222,public,Mpumulanga
+MP,Ehlanzeni,District Hospital,Shongwe Hospital,220,250,36,36,0,2,1,137813000,public,Mpumulanga
+MP,Ehlanzeni,District Hospital,Tintswalo Hospital,240,240,30,30,0,2,2,137958600,public,Mpumulanga
+MP,Ehlanzeni,District Hospital,Tonga Hospital,160,250,50,50,0,5,2,137809000,public,Mpumulanga
+MP,Ehlanzeni,Provincial Tertiary Hospital,Rob Ferreira Hospital,301,350,50,50,3,5,4,137416100,public,Mpumulanga
+MP,Ehlanzeni,Regional Hospital,Mapulaneng Hospital,269,252,28,28,0,0,3,137990214,public,Mpumulanga
+MP,Ehlanzeni,Regional Hospital,Themba Hospital,426,623,40,40,1,6,3,137969400,public,Mpumulanga
+MP,G Sibande,District Hospital,Amajuba Memorial Hospital,95,105,12,12,0,7,2,177351103,public,Mpumulanga
+MP,G Sibande,District Hospital,Bethal Hospital,178,233,41,41,0,0,1,176476341,public,Mpumulanga
+MP,G Sibande,District Hospital,Carolina Hospital,80,75,20,20,0,6,2,178431121,public,Mpumulanga
+MP,G Sibande,District Hospital,Elsie Ballot Hospital,22,22,0,0,0,0,0,177531002,public,Mpumulanga
+MP,G Sibande,District Hospital,Embhuleni Hospital,189,220,60,60,0,2,3,178830093,public,Mpumulanga
+MP,G Sibande,District Hospital,Evander Hospital,113,150,32,32,0,0,2,823499415,public,Mpumulanga
+MP,G Sibande,District Hospital,Piet Retief Hospital,176,145,30,30,0,6,3,178241200,public,Mpumulanga
+MP,G Sibande,District Hospital,Standerton Hospital,219,195,24,24,0,8,3,177122323,public,Mpumulanga
+MP,G Sibande,Regional Hospital,Ermelo Hospital,220,264,64,64,0,6,3,178112031,public,Mpumulanga
+MP,Nkangala,District Hospital,Bernice Samuels Hospital,160,160,60,60,0,6,1,136652086,public,Mpumulanga
+MP,Nkangala,District Hospital,Grove Hospital,19,12,0,0,0,0,1,132531184,public,Mpumulanga
+MP,Nkangala,District Hospital,Impungwe Hospital (Wolwekrans),50,100,0,0,0,0,0,136855121,public,Mpumulanga
+MP,Nkangala,District Hospital,KwaMhlanga Hospital,150,150,16,16,0,4,1,139479100,public,Mpumulanga
+MP,Nkangala,District Hospital,Middelburg Hospital,247,349,64,64,0,4,5,132430999,public,Mpumulanga
+MP,Nkangala,District Hospital,Mmametlhake Hospital,60,80,4,4,0,8,2,127212391,public,Mpumulanga
+MP,Nkangala,District Hospital,Waterval Boven Hospital,80,12,0,0,0,0,1,132570015,public,Mpumulanga
+MP,Nkangala,Provincial Tertiary Hospital,Witbank Hospital,349,350,57,57,1,5,5,136532000,public,Mpumulanga
+EC,A Nzo,District Hospital,Madzikane kaZulu Memorial Hospital,223,223,48,48,0,2,1,392558200,public,Eastern Cape
+EC,A Nzo,District Hospital,Mount Ayliff Hospital,99,99,20,20,0,0,1,392540230,public,Eastern Cape
+EC,A Nzo,District Hospital,Tayler Bequest Hospital (Matatiele),166,166,26,26,0,3,2,397373107,public,Eastern Cape
+EC,Amathole,District Hospital,Adelaide Hospital,60,60,15,15,0,3,1,466840066,public,Eastern Cape
+EC,Amathole,District Hospital,Bedford Hospital,60,60,0,0,0,1,1,466850043,public,Eastern Cape
+EC,Amathole,District Hospital,Butterworth Hospital,269,269,52,52,0,4,2,474914164,public,Eastern Cape
+EC,Amathole,District Hospital,Cathcart Hospital,33,33,0,0,0,0,0,458431029,public,Eastern Cape
+EC,Amathole,District Hospital,Fort Beaufort Hospital,70,70,15,15,0,2,1,466451111,public,Eastern Cape
+EC,Amathole,District Hospital,Komga Hospital,15,15,0,0,0,0,0,438311013,public,Eastern Cape
+EC,Amathole,District Hospital,Nompumelelo (Peddie) Hospital,180,180,30,30,0,2,1,406733321,public,Eastern Cape
+EC,Amathole,District Hospital,Gida Hospital,122,122,32,32,0,2,1,788167598,public,Eastern Cape
+EC,Amathole,District Hospital,Stutterheim Hospital,70,70,0,0,0,0,0,437263225,public,Eastern Cape
+EC,Amathole,District Hospital,Tafalofefe Hospital,161,280,0,0,0,0,0,406733321,public,Eastern Cape
+EC,Amathole,District Hospital,Victoria (Alice) Hospital,110,110,0,0,0,1,1,406580043,public,Eastern Cape
+EC,Buffalo city,District Hospital,Grey Hospital,67,67,18,18,0,4,1,436433300,public,Eastern Cape
+EC,Buffalo city,District Hospital,Bhisho Hospital,205,205,40,40,0,3,2,406352848,public,Eastern Cape
+EC,Buffalo city,District Hospital,Madwaleni Hospital,180,180,0,0,0,2,1,632530958,public,Eastern Cape
+EC,Buffalo city,District Hospital,Newhaven Hospital,45,45,0,0,0,0,0,NA,public,Eastern Cape
+EC,Buffalo city,Provincial Tertiary Hospital,Cecilia Makiwane Hospital,737,1000,130,130,6,7,5,437082111,public,Eastern Cape
+EC,Buffalo city,Provincial Tertiary Hospital,Frere Hospital,840,916,187,233,5,14,8,437091111,public,Eastern Cape
+EC,C Hani,District Hospital,All Saints Hospital,244,300,48,48,0,7,2,475481111,public,Eastern Cape
+EC,C Hani,District Hospital,Cala Hospital,64,92,16,16,0,9,2,478770129,public,Eastern Cape
+EC,C Hani,District Hospital,Cofimvaba Hospital,140,140,28,28,0,0,1,478748000,public,Eastern Cape
+EC,C Hani,District Hospital,Cradock Hospital,83,83,0,0,0,0,1,488742123,public,Eastern Cape
+EC,C Hani,District Hospital,Dordrecht Hospital,35,35,0,0,0,0,0,459431195,public,Eastern Cape
+EC,C Hani,District Hospital,Elliot Hospital,52,52,20,20,0,2,1,459311321,public,Eastern Cape
+EC,C Hani,District Hospital,Glen Grey Hospital,151,224,0,0,0,0,1,478780018,public,Eastern Cape
+EC,C Hani,District Hospital,Hewu Hospital,208,208,80,80,0,4,2,408410133,public,Eastern Cape
+EC,C Hani,District Hospital,Indwe Hospital,31,31,0,0,0,0,0,459660268,public,Eastern Cape
+EC,C Hani,District Hospital,Martje Venter (Tarkastad) Hospital,20,20,0,0,0,0,0,458460053,public,Eastern Cape
+EC,C Hani,District Hospital,Mjanyana Hospital,100,100,22,22,0,2,1,475471002,public,Eastern Cape
+EC,C Hani,District Hospital,Molteno Hospital,25,25,0,0,0,0,1,459670089,public,Eastern Cape
+EC,C Hani,District Hospital,Sterkstroom Hospital,8,8,0,0,0,0,0,459660268,public,Eastern Cape
+EC,C Hani,District Hospital,Wilhelm Stahl (Middelburg) Hospital,32,32,10,10,0,5,2,498421111,public,Eastern Cape
+EC,C Hani,Regional Hospital,Frontier Hospital,283,450,72,72,0,4,5,458084200,public,Eastern Cape
+EC,Cacadu,District Hospital,Aberdeen Hospital,18,18,0,0,0,0,0,422431311,public,Eastern Cape
+EC,Cacadu,District Hospital,Andries Vosloo Hospital,74,74,16,16,0,8,1,422880210,public,Eastern Cape
+EC,Cacadu,District Hospital,Vorster (Kareedouw) Hospital,42,47,0,0,0,0,0,422951100,public,Eastern Cape
+EC,Cacadu,District Hospital,Humansdorp (Kouga partnership) Hospital,80,80,0,0,0,5,1,498922211,public,Eastern Cape
+EC,Cacadu,District Hospital,Midland Hospital,80,80,0,0,0,3,1,466044000,public,Eastern Cape
+EC,Cacadu,District Hospital,Port Alfred Hospital,31,31,15,15,0,5,2,498360083,public,Eastern Cape
+EC,Cacadu,District Hospital,SAWAS Memorial (Jansenville) Hospital,38,38,6,6,0,0,0,466222215,public,Eastern Cape
+EC,Cacadu,District Hospital,Settlers Hospital,178,219,20,20,1,2,1,466025000,public,Eastern Cape
+EC,Cacadu,District Hospital,Sundays Valley (Kirkwood) Hospital,37,37,8,8,0,0,0,422300567,public,Eastern Cape
+EC,Cacadu,District Hospital,Willowmore Hospital,25,25,0,0,0,0,0,449231148,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Aliwal North Hospital,48,48,10,10,0,0,1,516342381,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Burgersdorp Hospital,24,24,0,0,0,0,1,516531881,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Cloete Joubert (Barkly East) Hospital,25,25,0,0,0,0,0,459710091,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Empilisweni Hospital,93,98,15,15,0,2,2,516110037,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Jamestown Hospital,10,10,0,0,0,0,0,516410911,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Lady Grey Hospital,30,30,0,0,0,0,1,516030093,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Maclear Hospital,38,38,12,12,0,0,0,459321028,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Francis Hospital,26,26,0,0,0,0,0,516332741,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Steynsburg Hospital,28,28,0,0,0,0,0,488840241,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Taylor Bequest Hospital (Elundini),141,146,16,16,0,4,1,392570043,public,Eastern Cape
+EC,Joe Gqabi,District Hospital,Umlamli Hospital,74,74,0,0,0,2,2,416110079,public,Eastern Cape
+EC,N Mandela,District Hospital,Uitenhage Hospital,223,203,40,40,0,2,3,419951111,public,Eastern Cape
+EC,N Mandela,Provincial Tertiary Hospital,Dora Nginza Hospital,650,570,0,0,0,0,4,414064111,public,Eastern Cape
+EC,N Mandela,Provincial Tertiary Hospital,Livingstone Hospital,583,616,180,180,11,22,8,413923911,public,Eastern Cape
+EC,N Mandela,Provincial Tertiary Hospital,Port Elizabeth Provincial Hospital,351,450,208,208,0,0,10,392537803,public,Eastern Cape
+EC,O Tambo,District Hospital,Bambisana Hospital,120,120,0,0,0,0,1,392510232,public,Eastern Cape
+EC,O Tambo,District Hospital,Canzibe Hospital,140,140,0,0,0,0,1,475688111,public,Eastern Cape
+EC,O Tambo,District Hospital,Malizo Mpehle Memorial Hospital,155,155,30,30,0,0,1,475426300,public,Eastern Cape
+EC,O Tambo,District Hospital,Greenville Hospital,100,100,0,0,0,4,1,392513009,public,Eastern Cape
+EC,O Tambo,District Hospital,Holy Cross Hospital,224,224,0,0,0,1,1,392523000,public,Eastern Cape
+EC,O Tambo,District Hospital,Isilimela Hospital,110,110,0,0,0,2,1,475642811,public,Eastern Cape
+EC,O Tambo,District Hospital,Nessie Knight Hospital,150,150,30,30,0,2,1,475532000,public,Eastern Cape
+EC,O Tambo,District Hospital,Sipetu (Ntabankulu) Hospital,120,120,30,30,0,2,1,392550077,public,Eastern Cape
+EC,O Tambo,District Hospital,Barnabas Hospital,169,169,0,0,0,0,0,475326259,public,Eastern Cape
+EC,O Tambo,District Hospital,Lucy's Hospital,40,40,0,0,0,0,0,392510232,public,Eastern Cape
+EC,O Tambo,District Hospital,Patrick's Hospital,100,100,0,0,0,0,1,475738935,public,Eastern Cape
+EC,O Tambo,District Hospital,Zitulele Hospital,130,180,25,25,0,13,1,786526476,public,Eastern Cape
+EC,O Tambo,Provincial Tertiary Hospital,Mthatha General Hospital,348,973,60,60,4,10,7,475024400,public,Eastern Cape
+EC,O Tambo,Provincial Tertiary Hospital,Nelson Mandela Academic Hospital,520,507,180,180,2,16,11,475024855,public,Eastern Cape
+EC,O Tambo,Regional Hospital,Elizabeth's Hospital,272,425,80,80,0,2,3,392535000,public,Eastern Cape
+FS,Fezile Dabi,District Hospital,Mafube Hospital,74,74,0,0,0,4,1,588131391,public,Free State
+FS,Fezile Dabi,District Hospital,Metsimaholo Hospital,82,100,30,30,0,5,1,169709400,public,Free State
+FS,Fezile Dabi,District Hospital,Parys Hospital,50,55,0,0,0,4,1,568112155,public,Free State
+FS,Fezile Dabi,District Hospital,Tokollo Hospital,78,78,10,10,0,3,1,588523039,public,Free State
+FS,Fezile Dabi,Regional Hospital,Boitumelo Hospital,312,340,60,60,2,3,6,562165200,public,Free State
+FS,Lejweleputswa,District Hospital,Katleho/Winburg Hospital,78,196,4,4,0,6,2,572213300,public,Free State
+FS,Lejweleputswa,District Hospital,Mohau Hospital,28,58,0,0,0,1,1,534441912,public,Free State
+FS,Lejweleputswa,District Hospital,Nala Hospital,36,58,0,0,0,1,1,565152071,public,Free State
+FS,Lejweleputswa,District Hospital,Thusanong Hospital,86,86,0,0,0,5,1,573542111,public,Free State
+FS,Lejweleputswa,District Hospital,Winburg Hospital,32,55,3,3,0,0,0,518810046,public,Free State
+FS,Lejweleputswa,Regional Hospital,Bongani Hospital,420,450,118,118,1,4,4,579168183,public,Free State
+FS,Manguang,District Hospital,Botshabelo Hospital,135,135,40,40,0,3,2,515330111,public,Free State
+FS,Manguang,District Hospital,Moroka Hospital,137,137,38,38,0,3,1,518739800,public,Free State
+FS,Manguang,District Hospital,Mantsopa Hospital,100,100,20,25,0,2,1,519243268,public,Free State
+FS,Manguang,District Hospital,National Hospital,76,76,25,25,0,3,3,514039600,public,Free State
+FS,Manguang,National Central Hospital,Universitas (C) Hospital,543,636,60,60,5,22,17,514053557,public,Free State
+FS,Manguang,Regional Hospital,Pelonomi Hospital,469,720,52,52,5,4,7,514071500,public,Free State
+FS,T Mofutsanyane,District Hospital,Elizabeth Ross Hospital,110,90,24,24,0,6,1,587184000,public,Free State
+FS,T Mofutsanyane,District Hospital,Itemoheng Hospital,25,55,0,0,0,0,1,584812114,public,Free State
+FS,T Mofutsanyane,District Hospital,John Daniel Newberry Hospital,30,30,6,6,0,2,1,519430434,public,Free State
+FS,T Mofutsanyane,District Hospital,Nketoana Hospital,45,65,0,0,0,0,1,588632703,public,Free State
+FS,T Mofutsanyane,District Hospital,Phekolong Hospital,85,100,15,30,0,0,1,583035123,public,Free State
+FS,T Mofutsanyane,District Hospital,Phumelela Hospital,81,81,0,0,0,0,1,589131044,public,Free State
+FS,T Mofutsanyane,District Hospital,Phuthuloha Hospital,55,36,8,8,0,0,0,519332284,public,Free State
+FS,T Mofutsanyane,District Hospital,Thebe Hospital,71,100,0,0,0,4,1,586241800,public,Free State
+FS,T Mofutsanyane,Regional Hospital,Dihlabeng Hospital,135,150,38,40,1,1,3,583035331,public,Free State
+FS,T Mofutsanyane,Regional Hospital,Mofumahadi Manapo Mopeli Hospital,270,300,68,68,0,4,4,587183200,public,Free State
+FS,Xhariep,District Hospital,Diamond/Diamant Hospital,28,43,0,0,0,0,1,517249315,public,Free State
+FS,Xhariep,District Hospital,Embekweni Hospital,23,23,0,0,0,0,0,516731200,public,Free State
+FS,Xhariep,District Hospital,Stoffel Coetzee Hospital,23,23,0,0,0,0,0,516831120,public,Free State

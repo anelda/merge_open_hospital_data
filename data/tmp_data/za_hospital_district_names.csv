@@ -1,53 +1,53 @@
-province,district_mdb,district_name
-EC, BUF,Buffalo City
-EC, DC10,Cape Town
-EC, DC12,West Coast
-EC, DC13,S Baartman
-EC, DC14,Amathole
-EC, DC15,C Hani
-EC, DC44,Joe Gqabi
-EC, NMA,OR Tambo
-FS, DC16,Xhariep
-FS, DC18,Lejweleputswa
-FS, DC19,T Mofutsanyana
-FS, DC20,Cape Winelands
-FS, MAN,Fezile Dabi
-GP, DC42,Ugu
-GP, DC48,uMgungundlovu
-GP, EKU,uThukela
-GP, JHB,uMzinyathi
-GP, TSH,Amajuba
-KZN, DC21,Zululand
-KZN, DC22,uMkhanyakude
-KZN, DC23,King Cetshwayo
-KZN, DC24,iLembe
-KZN, DC25,Overberg
-KZN, DC26,G Sibande
-KZN, DC27,Nkangala
-KZN, DC28,Ehlanzeni
-KZN, DC29,Mopani
-KZN, DC43,Vhembe
-KZN, ETH,Capricorn
-LP, DC33,Waterberg
-LP, DC34,Bojanala
-LP, DC35,NM Molema
-LP, DC36,RS Mompati
-LP, DC47,Eden
-MP, DC30,Dr K Kaunda
-MP, DC31,Sedibeng
-MP, DC32,Harry Gwala
-NC, DC45,A Nzo
-NC, DC6,JT Gaetsewe
-NC, DC7,Sekhukhune
-NC, DC8,West Rand
-NC, DC9,Central Karoo
-NW, DC37,Namakwa
-NW, DC38,Pixley ka Seme
-NW, DC39,ZF Mgcawu
-NW, DC40,Frances Baard
-WC, CPT,Ekurhuleni
-WC, DC1,eThekwini
-WC, DC2,Johannesburg
-WC, DC3,Mangaung
-WC, DC4,N Mandela Bay
-WC, DC5,Tshwane
+province,district_name,district_mdb
+EC,A Nzo, DC44
+EC,Amathole, DC12
+EC,Buffalo City, BUF
+EC,C Hani, DC13
+EC,Joe Gqabi, DC14
+EC,N Mandela Bay, NMA
+EC,OR Tambo, DC15
+EC,S Baartman, DC10
+FS,Fezile Dabi, DC20
+FS,Lejweleputswa, DC18
+FS,Mangaung, MAN
+FS,Xhariep, DC16
+FS,T Mofutsanyana, DC19
+GP,Ekurhuleni, EKU
+GP,Johannesburg, JHB
+GP,Sedibeng, DC42
+GP,Tshwane, TSH
+GP,West Rand, DC48
+KZN,Amajuba, DC25
+KZN,eThekwini, ETH
+KZN,iLembe, DC29
+KZN,Ugu, DC21
+KZN,uMgungundlovu, DC22
+KZN,uMkhanyakude, DC27
+KZN,uMzinyathi, DC24
+KZN,uThukela, DC23
+KZN,Zululand, DC26
+KZN,Harry Gwala, DC43
+KZN,King Cetshwayo, DC28
+LP,Capricorn, DC35
+LP,Mopani, DC33
+LP,Vhembe, DC34
+LP,Waterberg, DC36
+LP,Sekhukhune, DC47
+MP,Ehlanzeni, DC32
+MP,G Sibande, DC30
+MP,Nkangala, DC31
+NC,Frances Baard, DC9
+NC,JT Gaetsewe, DC45
+NC,Namakwa, DC6
+NC,Pixley ka Seme, DC7
+NC,ZF Mgcawu, DC8
+NW,Bojanala, DC37
+NW,Dr K Kaunda, DC40
+NW,NM Molema, DC38
+NW,RS Mompati, DC39
+WC,Cape Town, CPT
+WC,Cape Winelands, DC2
+WC,Central Karoo, DC5
+WC,Eden, DC4
+WC,Overberg, DC3
+WC,West Coast, DC1
