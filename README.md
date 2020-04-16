@@ -28,5 +28,5 @@ please visit our [Get Involved](https://afrimapr.github.io/afrimapr.website/get-
 
 Please cite this report as:
 
-Anelda van der Walt. (2020, April 16). anelda/merge_open_hospital_data: Merging Open Health Facility Data Sets: Part 1 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3754453
+Anelda van der Walt, & Andy South. (2020, April 16). Merging Open Health Facility Data Sets: Part 1 (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3754647
 
