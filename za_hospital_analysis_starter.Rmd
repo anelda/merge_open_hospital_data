@@ -1003,12 +1003,12 @@ singularity_level4 <- mfl_refined %>%
   group_by(Count) %>% 
   summarise(sum(n)) %>%
   rename(total = "sum(n)") %>% 
-  mutate("Percentage of total data set" = round(total/dim(mfl_refined)[1]*100, 2)) %>% 
-  rename("Number of observations across all datasets" = Count,
+  mutate("Percentage" = round(total/dim(mfl_refined)[1]*100, 2)) %>% 
+  rename("# observations" = Count,
          "Count" = total)
 
-singularity_level4 %>%  kableExtra::kable() %>% 
-  kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = F) 
+singularity_level4 %>%  kableExtra::kable(caption = "The number times a specific facility name shows up across all datasets when we group by facility name and up to admin level 4") %>% 
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover")) 
 
 ```
 
@@ -1022,11 +1022,11 @@ singularity_level1 <- mfl_refined %>%
   group_by(fac_name, admin1_abb) %>% 
   tally(name = "num_fac", sort = TRUE) %>% 
   rename("Facility name" = fac_name,
-         "Province (admin 1)" = admin1_abb,
-         "# observations across all data sets" = num_fac)
+         "Admin level 1" = admin1_abb,
+         "# observations" = num_fac)
 
-singularity_level1[1:15,] %>%  kableExtra::kable() %>% 
-  kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = F) 
+singularity_level1[1:15,] %>%  kableExtra::kable(caption = "The number times a specific facility type shows up across all datasets when we group by facility name up to admin level 1") %>% 
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover")) 
 
 ```
 
