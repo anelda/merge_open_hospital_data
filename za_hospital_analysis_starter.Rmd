@@ -1,13 +1,16 @@
 ---
-title: "South African Open Hospital Data Analysis"
+title: "Merging Open Health Facility Data Sets: Part 1"
 author: "Anelda van der Walt"
 contact: "anelda@talarify.co.za"
-date: "05 April 2020"
+date: "16 April 2020"
 output: html_document
 ---
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)<br>
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
+\*\* *Please observe individual dataset licensing if you would like to use the original datasets*
+
 
 ```{r setup, include=FALSE}
 
@@ -15,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 
 ## Requires dplyr 1.0.0 to use relocate()
 
-req_packages <- c("knitr", "DT", "filesstrings", "stringdist", "lubridate", "purrr", "readxlsb", "readxl", "viridis", "afrihealthsites", "forcats", "revgeo", "tmap", "tmaptools")
+req_packages <- c("knitr", "DT", "filesstrings", "stringdist", "lubridate", "purrr", "readxlsb", "readxl", "afrihealthsites", "forcats",  "tmap", "tmaptools")
 
 library("tidyverse")
 
@@ -27,71 +30,93 @@ lapply(req_packages, library, character.only = TRUE) %>%
 
 # Background
 
-During the 2020 COVID19 pandemic there was a call to help with the collation of information about hospital resources in South Africa to assist with the local response. For more information see [this issue](https://github.com/dsfsi/covid19za/issues/115) created by volunteers working on a COVID19-ZA dashboard with the [Data Science for Social Impact](https://dsfsi.github.io/) group at the University of Pretoria.
+## `afrimapr` and `afrihealthsites`
 
-My own interest in the question of health facilities is two-fold: 
+Early in March 2020 the [_afrimapr_ team](http://afrimapr.org) started looking into mapping, comparing, and combining open health facility data sets to enable better access for decision makers in Africa during and after the COVID-19 pandemic. The [`afrihealthsites` package](http://afrimapr.org/code) currently allows one to compare two existing continental open data sets - one developed by the Kenya Medical Research Institute (KEMRI) in collaboration with the WHO, the second a global crowd sourced open health facilities mapping project - [healthsites.io](https://healthsites.io). `afrihealthsites` is under active development and we aim to get it out to potential users very early in the development cycle to allow for continuous input that can shape its functionality.
 
-- finding a way to support the local COVID19 response given the data skills I have
-- working with my colleagues from the [afrimapr project](http://afrimapr.org) to develop reusable R building blocks to make Open Data in Africa more accessible to non-developers. This project is funded through the [Wellcome Open Research Fund](https://wellcome.ac.uk/grant-funding/schemes/open-research-fund) from January to December 2020.
+## South Africa: A case study
+
+In South Africa the [Data Science for Social Impact](https://dsfsi.github.io/) group created an open [COVID-19 dataset and dashboard](https://arxiv.org/abs/2004.04813) to assist with local efforts. The group recruited volunteers to assist with the the collation of information about hospital resources in South Africa and I thought this was a great practical use-case for the kind of tools we had in mind to build within _afrimapr_. For more information about the challenges associated with building a comprehensive list of health facilities for South Africa see [this Github issue](https://github.com/dsfsi/covid19za/issues/115). During our conversations about developing a list of hospitals with various attributes such as address, website, contact details, services available, and corona-readiness, we realised this wasn't going to be a trivial exercise.
+
+## Master Facility Lists
+
+These challenges are experienced in every country when health facility lists from various stakeholders are combined to create, what is called, a Master Facility List (MFL). According to the [Master Facility List (MFL) Resource Pack](https://www.who.int/healthinfo/MFL_Resource_Package_Jan2018.pdf?ua=1) developed in 2018 by the WHO/USAID, the MFL is a complete, up-to-date, authoritative listing of the health facilities in a particular country. The article by [Maina et al (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6658526/) describes their experience in collating a MFL for Kenya and subsequently assisting other countries to develop in-house MFLs and finally the continental health facility list.
+
+A MFL typically contains information about health facilities including:
+
+- data to accurately identify a facility (e.g. name, unique identifier, location, contact information);
+- administrative data (e.g. facility type, ownership, operational status) and
+- information about the service capacity (e.g. types of services offered, number of beds).
+
+According to the WHO, a MFL should be updated regularly (at least every two years), should be verified, and must be accessible to stakeholders. The [Master Facility List (MFL) Resource Pack](https://www.who.int/healthinfo/MFL_Resource_Package_Jan2018.pdf?ua=1) provides further guidance on the development or strengthening of a Master Facility List. 
+
+Countries can benefit tremendously from having a high quality, up-to-date MFL in the following ways:
+
+- it can create efficiencies by having to maintain a single list rather than maintaining several lists and continuously facing the challenge of integration;
+- it facilitates information exchange across different health data systems;
+- it provides metadata needed by other information systems;
+- it can facilitate planning and management and
+- it can support case management of patients.
+
+A quick Google search lead to openly available MFLs for at least the following African countries:
+
+- [Malawi](https://github.com/BaobabHealthTrust/master-facility-list)
+- [Kenya](http://kmhfl.health.go.ke/#/home)
+- [Namibia](https://mfl.mhss.gov.na/)
+- [Nigeria](https://hfr.health.gov.ng/download/facilities)
+- [Tanzania](http://hfrportal.moh.go.tz/)
+- [Uganda](https://health.go.ug/sites/default/files/Signed%20n%20final%20mfl.pdf) - in PDF format
 
 
 # Creating a master table which will be populated from the various datasets
 
-The ultimate aim of this project is to create one dataset that contains as much information about each health facility that is available openly on the Web. The [Master Facility List (MFL) Resource Pack](https://www.who.int/healthinfo/MFL_Resource_Package_Jan2018.pdf?ua=1) developed in 2018 by the WHO/USAID provides guidance on the development or strengthening of a Master Facility List. According to their guide, the MFL is a complete, up-to-date, authoritative listing of the health facilities in a particular country.
-
-The MFL typically contains information about health facilities including:
-
-- data to accurately identify a facility (e.g. name, unique identifier, location, contact information)
-- administrative data (e.g. facility type, ownership, operational status)
-- information about the service capacity (e.g. types of services offered, number of beds)
-
-According to the WHO, a Master Facility List should be updated regularly (at least every two years), should be verified, and must be accessible to stakeholders. The [aforementioned guide](https://www.who.int/healthinfo/MFL_Resource_Package_Jan2018.pdf?ua=1) provides additional guidelines for the development and implementation of a MFL.
+The ultimate aim of this project is to work through the process of collating the best possible facility list for South Africa by combining various openly available resources. We acknowledge that this cannot be called the Master Facility List as we will only work with openly available data sets and do not have access to all information available to the Department of Health (beyond what is published in the Data Dictionary). We want to understand the process and see where [_afrimapr_](http://afrimapr.org) can aid by developing building blocks to facilitate similar processes and complimentary data analysis workflows. 
 
 We'll create a master table that contains columns as follows:
 
+- *country_name*: The country name. In this case it will be South Africa
+- *country_iso3c*: The country [3-letter iso code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) 
+- *admin1_name***: Province name but can be state or other administrative division level 1 for other countries
+- *admin1_abb*: Abbreviation of the province/state name
+- *admin2_name*: Administrative division level 2 name - in SA that is the district municipality
+- *admin2_abb*: Abbreviation of the DM name
+- *admin3_name*: Administrative level 3 name - in SA that is the local municipality
+- *admin3_abb*: Administrative level 3 abbreviation
+- *admin4_name*: Administrative level 4 name - in SA that is the ward
+- *city_name*: Name of the city or town 
+- *lat*: The facility's latitude coordinates
+- *long*: The facility's longitude coordinates
+- *type*: The type of facility (e.g. clinic, hospital, etc)
+- *class*: Private or public
+- *fac_name*: Name of the facility
+- *fac_id*: Unique facility identifier
+- *osm_id*: A unique facility identifier in Open Streetmaps
+- *osm_type*: Open Streetmaps type of point 
+- *date_closed*: Date when the facility was closed
+- *date_opened*: Date when the facility was opened
+- *contact_person*: Contact person name for the facility
+- *phys_address*: The physical address of the facility
+- *post_address*: Postal address of the facility
+- *web*: The website URL for the facility
+- *contact_phone*: The contact number for the facility
+- *contact_email*: The general contact email for the facility
+- *org_owner*: The organisation that is responsible for the facility (e.g. Municipality, province, private, etc.)
+- *org_rural_urban*: Is this facility located in a rural or urban region
+- *services*: What services are available at the facility
+- *num_beds*: Number of beds if the facility is a hospital
+- *numb_surgical_beds*: Number of surgical beds if the facility is a hospital
+- *numb_surgeons*: Number of surgeons if the facility is a hospital
+- *numb_nurses*: Number of nurses
+- *open_hours*: The operating hours of the facility
+- *emergency*: Yes/No if the facility have an emergency department
+- *notes*: Any free text notes available about the facility
+- *wheelchair*: Is it wheelchair accessible
+- *electricity*: Source of electricity
+- *water*: Source of water
+- *dispensing*: Can medicine be dispensed
+- *completeness*: How many of these columns are populated for the facility
+
 ** _Note: Please visit the entry in Wikipedia to learn more about [different administrative  divisions](https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country) in different countries._
-
-- country_name: The country name. In this case it will be South Africa
-- country_iso3c: The country [3-letter iso code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) 
-- admin1_name: Province name but can be state or other administrative division level 1 for other countries
-- admin1_abb: Abbreviation of the province/state name
-- admin2_name: Administrative division level 2 name - in SA that is the district municipality
-- admin2_abb: Abbreviation of the DM name
-- admin3_name: Administrative level 3 name - in SA that is the local municipality
-- admin4_name: Administrative level 4 name - in SA that is the ward
-- city_name: Name of the city or town 
-- lat: The facility's latitude coordinates
-- long: The facility's longitude coordinates
-- type: The type of facility (e.g. clinic, hospital, etc)
-- class: Private or public
-- fac_name: Name of the facility
-- fac_id: Unique facility identifier
-- osm_id: A unique facility identifier in Open Streetmaps
-- osm_type: Open streetmaps type of point 
-- date_closed: Date when the facility was closed
-- date_opened: Date when the facility was opened
-- contact_person: Contact person name for the facility
-- phys_address: The physical address of the facility
-- post_address: Postal address of the facility
-- web: The website URL for the facility
-- contact_phone: The contact number for the facility
-- contact_email: The general contact email for the facility
-- org_owner: The organisation that is responsible for the facility (e.g. Municipality, province, private, etc.)
-- org_rural_urban: Is this facility located in a rural or urban region
-- services: What services are available at the facility
-- num_beds: Number of beds if the facility is a hospital
-- numb_surgical_beds: Number of surgical beds if the facility is a hospital
-- numb_surgeons: Number of surgeons if the facility is a hospital
-- numb_nurses: Number of nurses
-- open_hours: The operating hours of the facility
-- emergency: Yes/No if the facility have an emergency department
-- notes: Any free text notes available about the facility
-- wheelchair: Is it wheelchair accessible
-- electricity: Source of electricity
-- water: Source of water
-- dispensing: Can medicine be dispensed
-- completeness: How many of these columns are populated for the facility
-
 
 ```{r}
 
@@ -142,14 +167,13 @@ mfl_tb <- tibble(country_name = character() ,
 
 # Collecting open hospital data sets from the Web
 
-There is a wide variety of health facility web portals and datasets available online. Some access points do not allow for data download, for example the Department of Health's [Primary Health Care Facilities and Services](https://www.healthestablishments.org.za/Home/Facility) page. Wikidata, the central storage for structured data of its Wikimedia sister projects, hosts a project named [Medicine/Hospitals by country/South Africa](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Hospitals_by_country/South_Africa) which includes 208 facilities. Unfortunately the data for each facility is very sparsely populated.
+A wide variety of health facility web portals and data sets are available online. Some access points do not allow for data download, for example the Department of Health's [Primary Health Care Facilities and Services](https://www.healthestablishments.org.za/Home/Facility) page. Wikidata, the central storage for structured data of its Wikimedia sister projects, hosts a project named [Medicine/Hospitals by country/South Africa](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine/Hospitals_by_country/South_Africa) which includes 208 facilities. Unfortunately the data for each facility is very sparsely populated.
 
 The [District Health Barometer report data for 2017/2018](https://www.hst.org.za/publications/Pages/DHB20172018.aspx) was not considered for further analysis due to the inaccessible formatting of the tables in the spreadsheet.
 
-[Medpages](https://www.medpages.info/sf/index.php?page=homepage), a private company, claims to be "the largest, most accurate, most up to date and most complete healthcare database available for Africa". Their data is not available for download except with express written consent (and at a fee) as they operate on a subscription basis.At the time of writing this report Medpages had contact information for 188,024 health organisations and 239,931 healthcare professionals (and counting as this is an actively managed database).
+[Medpages](https://www.medpages.info/sf/index.php?page=homepage), a private company, claims to be "the largest, most accurate, most up to date and most complete healthcare database available for Africa". Their data is not available for download except with express written consent (and at a fee) as they operate on a subscription basis. At the time of writing this report Medpages had contact information for 188,024 health organisations and 239,931 healthcare professionals (and counting as this is an actively managed database).
 
 [South African Doctors](http://doctors-hospitals-medical-cape-town-south-africa.blaauwberg.net) is an online resource maintained by a private individual. The data is not available for download.
-
 
 The following potentially useful sources with downloadable data were identified.
 
@@ -221,12 +245,14 @@ sources_tbl %>%  kableExtra::kable() %>%
   kableExtra::column_spec(1:colmns, border_right = T, border_left = T) %>% 
   kableExtra::scroll_box(width = "100%", height = "700px") 
 
+remove(sources_tbl)
+
 ```
 
 
 # Data cleaning
 
-Most datasets required some cleaning up to be able to work with it in a programmatic way. 
+Most data sets required cleaning up to be able to work with in a programmatic way. 
 
 ## Hospital Bed Data
 
@@ -238,7 +264,7 @@ The data was made available in an Excel spreadsheet format with separate sheets 
 
 ### Raw data to tidy data
 
-The _readme_ file displayed below shows the steps taken to convert the raw Hospital Bed dataset to tidy data. The data was not extracted programmatically due to the variable format of the tables in each sheet.
+The _readme_ file displayed below shows the steps taken to convert the raw Hospital Bed data set to tidy data. The data was not extracted programmatically due to the variable format of the tables in each sheet.
 
 ```{r comment=''}
 
@@ -286,9 +312,7 @@ hosp_bed_tb <- hosp_bed_tb %>%
 
 hosp_bed_tb %>%  head(.) %>% kableExtra::kable() %>% 
   kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "bordered"), full_width = F) %>% 
-  kableExtra::scroll_box(width = "100%", height = "200px")
-
-write_csv(hosp_bed_tb, "data/tidy_data/hosp_bed_clean.csv")
+  kableExtra::scroll_box(width = "100%")
 
 ```
 
@@ -296,7 +320,7 @@ write_csv(hosp_bed_tb, "data/tidy_data/hosp_bed_clean.csv")
 
 ### Raw data format
 
-The data was made available in an Excel spreadsheet format with separate sheets for a variety of definitions, measurements, and summaries. The health facility list was stored in a sheet called 'Hospitals'. District codes is available in this sheet, but we need to get the full district (or municipality) name from a sheet called 'Seq'.
+The data was made available in Excel spreadsheet format with separate sheets for a variety of definitions, measurements, and summaries. The health facility list was stored in a sheet called 'Hospitals'. District codes is available in this sheet, but we need to get the full district (or municipality) name from a sheet called 'Seq'.
 
 ![Hospital Bed Data screenshot](img/dhb_2016_screenshot.png)
 
@@ -304,7 +328,7 @@ The data was made available in an Excel spreadsheet format with separate sheets 
 
 ### Raw data to tidy data
 
-The _readme_ file displayed below shows the steps taken to convert the raw DoH Health Barometer hospital dataset to tidy data. The data was not extracted programmatically due to the variable format of the tables in each sheet. Once data was in CSV format it was further cleaned up in [Openrefine](http://openrefine.org) with [this JSON script](https://github.com/anelda/za_open_hospital_data/blob/master/data/supp_cleaning_scripts/za_hospital_temp_to_refine.json). The CSV was then exported from Openrefine and imported into R for subsequent cleaning and analysis. The full steps for data cleaning are described below. The R code is available in [this file](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd). 
+The _readme_ file displayed below shows the steps taken to convert the raw DoH Health Barometer hospital data set to tidy data. The data was not extracted programmatically due to the variable format of the tables in each sheet. Once data was in CSV format it was further cleaned up in [Openrefine](http://openrefine.org) with [this JSON script](https://github.com/anelda/za_open_hospital_data/blob/master/scripts/za_hospital_temp_to_refine.json). The CSV was then exported from Openrefine and imported into R for subsequent cleaning and analysis. The full steps for data cleaning are described below. The R code is available in [this file](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd). 
 
 ```{r comment=''}
 
@@ -312,7 +336,7 @@ cat(readLines("readme/readme_za_hospital_list.txt"), sep = '\n')
 
 ```
 
-To clean the district names sheet for use in a join with the Hospitals data the following steps were followed:
+To clean the district names sheet for use in a join with the hospitals data the following steps were followed:
 
 ```{r comment=''}
 
@@ -320,7 +344,7 @@ cat(readLines("readme/readme_za_hospital_district_names.txt"), sep = '\n')
 
 ```
 
-To join the hospital data with the district names data, a short R script was written and is included in this file.
+To join the hospital data with the district names data, a short R script was written and is included in [this file](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd).
 
 ```{r}
 
@@ -359,8 +383,6 @@ dhb_2016_tb <- hospital_list %>%
                                  admin1_abb == 'WC' ~ 'Western Cape')) %>% 
   select(- c(copyright, source_name, source, date_updated_year, date_updated_month, date_updated_day))
 
-write_csv(dhb_2016_tb, "data/tidy_data/dhb_2016_clean.csv")
-
 remove(hospital_list, admin2_names)
 
 ```
@@ -389,7 +411,7 @@ The data was made available in  Excel Binary Workbook format (.xlsb)  with separ
 
 ### Tidy data
 
-Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd).
+Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd)).
 
 ```{r}
 
@@ -409,7 +431,7 @@ dhb_2018_tb <- dhb_2018_tb %>%
   # In the raw data 9999-12-31 is used as placeholder for facility closing dates that is not closed yet.
   # Lubridate can't use 9999 as valid year so can't convert this into a date format
   # Replace 9999-12-31 with NA
-  mutate(Date_closed = case_when(Date_Closed == "9999-12-31" ~ NA_character_,
+  mutate(Date_Closed = case_when(Date_Closed == "9999-12-31" ~ NA_character_,
                                  TRUE ~ as.character(Date_Closed))) %>% 
   # Clean up columns we'll use in analysis later on
   # Remove leading province abbreviation and space and convert date columns to date
@@ -423,15 +445,13 @@ dhb_2018_tb <- dhb_2018_tb %>%
          admin2_abb = dm2016,
          date_opened = Date_open,
          date_closed = Date_Closed,
-         ou3_abb = lm2016_sd,
+         admin3_abb = lm2016_sd,
          comment = OrgUnitComment,
          lat = Latitude,
          long = Longitude,
-         info = OrgUnitComment
+         notes = OrgUnitComment
   ) %>% 
   select(-c(OrgLevel, OU5UID, OrgUnit5_ID))
-
-write_csv(dhb_2018_tb, "data/tidy_data/dhb_2018_clean.csv")
 
 ```
 
@@ -451,12 +471,12 @@ dhb_2018_tb %>%  head(.) %>% kableExtra::kable() %>%
 
 The data was made available in CSV format.
 
-![Hospital Bed Data screenshot](img/doh_dd_screenshot.png)
+![DoH Data Dictionary screenshot](img/doh_dd_screenshot.png)
 
 
 ### Tidy data
 
-(Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd)).
+Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd).
 
 
 ```{r}
@@ -465,7 +485,7 @@ doh_dd_tb <- read_csv('data/raw_data/za_ou5_doh.csv')
 doh_dd_tb <- doh_dd_tb %>% 
   # Drop unused columns
   select(-c(OU2uid, OU2name, OU2code, OU3uid, OU3name, OU3code, OU4uid, OU4code,
-            OU4name, OU5short, OU5code, lastupdated, `STI Sentinel`)) %>% 
+            OU4name, OU5short, OU5code, lastupdated, `STI Sentinel`, coordinates, contactperson)) %>% 
   # Add abbreviations for provinces to be able to comparet o other datasets
   mutate(admin1_abb = case_when(OU2short == 'Eastern Cape' ~ 'EC',
                                 OU2short == 'Free State' ~ 'FS',
@@ -488,6 +508,7 @@ doh_dd_tb <- doh_dd_tb %>%
            fac_name = OU5name,
            date_opened = openingdate,
            fac_id = OU5uid,
+           phys_address = address,
            date_closed = closeddate,
            long = longitude,
            lat = latitude,
@@ -497,8 +518,6 @@ doh_dd_tb <- doh_dd_tb %>%
     ) %>% 
   mutate(date_opened = ymd(date_opened),
          date_closed = ymd(date_closed))
-
-write_csv(doh_dd_tb, "data/tidy_data/doh_dd_clean.csv")
 
 ```
 
@@ -514,11 +533,11 @@ doh_dd_tb %>%  head(.) %>% kableExtra::kable() %>%
 
 ### Raw data format
 
-The data was imported into R as a shapefile via the [afrihealthsites package](https://github.com/afrimapr/afrihealthsites) from [afrimapr](http://afrimapr.org).
+The data was imported into R as a shapefile via the [`afrihealthsites` package](https://github.com/afrimapr/afrihealthsites) from [_afrimapr_](http://afrimapr.org).
 
 ### Tidy data
 
-Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd).
+Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd)).
 
 ```{r}
 
@@ -532,7 +551,7 @@ healthsites_tb <-  as_tibble(healthsites_sf) %>%
   # Remove this column as it will cause trouble when we introduce the type column later
   select(-c(type, completeness, is_in_health_zone, changeset_id, insurance, 
             uuid, operational_status, source, is_in_health_area, changeset_version, 
-            changeset_timestamp, changeset_user, healthcare, geometry, addr_full)) %>% 
+            changeset_timestamp, changeset_user, healthcare, geometry, addr_full, speciality)) %>% 
   # Add coordinate columns to tibble
   bind_cols(coords_tb) %>% 
   # Numeric columns read in as character vector for some strange reason
@@ -554,7 +573,8 @@ healthsites_tb <-  as_tibble(healthsites_sf) %>%
          web = url,
          sector = operator_type,
          country_name = country,
-         country_iso3c = iso3c
+         country_iso3c = iso3c,
+         org_owner = operator
          )
 
 
@@ -562,13 +582,21 @@ remove(healthsites_sf, coords_tb)
 
 ```
 
-## Addresses in healthsites.io
+```{r}
 
-Very few of the health facilities have more information about where it is located i.e. province, district municipality, street address. We therefore used reverse geocoding to go from coordinates (which was available in healthsites.io data) to addresses.
+head(healthsites_tb) %>% kableExtra::kable() %>% 
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "bordered"), full_width = F) %>% 
+  kableExtra::scroll_box(width = "100%", height = "200px")
+
+```
+
+### Addresses in healthsites.io
+
+Very few of the health facilities have more information about where it is located i.e. province, district municipality, street address as can be seen in the table above. We therefore used reverse geocoding to go from coordinates (which was available in healthsites.io data) to addresses.
 
 Using the `tmaptools` package in R to reverse geocode the coordinates, we were able to access a rich treasure trove of information including up to admin level 4 data, facility name, physical address, and more. Running the code took about 12 hours as we have to respect the fair usage policy of OSM. The R code is available in [this file](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd).
 
-```{r}
+```{r warning=FALSE}
 
 # Create empty dataframe to capture addresses
 # entry_revcode <- data.frame()
@@ -601,7 +629,7 @@ entry_revcode <- read_csv("data/tmp_data/healthsites_revgeocoding.csv")
   
 # Clean up healthsites reverse coded information to merge with the original dataset
 entry_revcode <- entry_revcode %>% 
-  mutate(phys_addr = paste(house_number, road, town, postcode, sep = ", ")) %>% 
+  mutate(phys_address = paste(house_number, road, town, postcode, sep = ", ")) %>% 
   rename(fac_name_osm = ref,
          admin1_name = state,
          admin2_name = county,
@@ -628,7 +656,7 @@ entry_revcode <- entry_revcode %>%
                                             "Metropolitan Municipality") ~ str_remove(admin2_name, 
                                                                                      " Metropolitan Municipality"),
                                  TRUE ~ as.character(admin2_name))) %>% 
-  select(phys_addr, admin1_name, admin1_abb, admin2_name, admin3_name, admin4_name) 
+  select(phys_address, admin1_name, admin1_abb, admin2_name, admin3_name, admin4_name) 
 
 # Combine original healthsites data with OSM data
 healthsites_augmented_tb <- healthsites_tb %>% 
@@ -651,16 +679,16 @@ head(healthsites_augmented_tb) %>% kableExtra::kable() %>%
 
 ### Raw data
 
-The data for the whole of sub-Saharan Africa was made available in a Excel spreadsheet. Health facility data is available from the sheet named 'SSA MFL'. The data is also available from the [afrihealthsites package](http://afrimapr.org/code) that forms part of  [afrimapr](http://afrimapr.org). `afrihealthsites` offer two options for importing the data:
+The data for the whole of sub-Saharan Africa was made available in an Excel spreadsheet. Health facility data is available from the sheet named 'SSA MFL'. The data is also available from the [`afrihealthsites` package](http://afrimapr.org/code) that forms part of  _[afrimapr](http://afrimapr.org)_. `afrihealthsites` offer two options for importing the data:
 
-- sf format (Note that not all facilities listed in the raw dataset have coordinates associated with them. Facilities without coordinates will not be available in the sf data object)
-- dataframe format (Including all facilities listed in the raw data file including those without coordinates)
+- sf format (Note that not all facilities listed in the raw data set have coordinates associated with them. Facilities without coordinates will not be available in the sf data object) and
+- dataframe format (Including all facilities listed in the raw data file including those without coordinates).
 
 ![KEMRI/WHO Raw Data](img/kemri_screenshot.png)
 
 ### Tidy data
 
-Data cleaning was performed in R (the code is included in this document).
+Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd)).
 
 ```{r}
 
@@ -670,7 +698,7 @@ Data cleaning was performed in R (the code is included in this document).
 kemri_who_tb <- afrihealthsites("south africa", datasource = "who", plot = FALSE, returnclass = "dataframe")
 
 kemri_who_tb <- kemri_who_tb %>% 
-  rename(country = Country,
+  rename(country_name = Country,
          admin1_name = Admin1,
          fac_name = `Facility name`,
          type = `Facility type`,
@@ -691,8 +719,6 @@ kemri_who_tb <- kemri_who_tb %>%
     ) %>% 
   select(-`LL source`)
   
-
-write_csv(kemri_who_tb, "data/tidy_data/kemri_who_clean.csv")  
 ```
 
 ```{r}
@@ -739,15 +765,15 @@ mfl_tb_all_clean <- mfl_tb_all %>%
   # Some facilities do not have names (healthsites.io)
   mutate(fac_name = case_when(fac_name == "" ~ NA_character_,
                               TRUE ~ as.character(fac_name))) %>% 
-  # Count number of variables that is not missing in each row and calculate percentage completeness for each row (54 columns)
-  mutate(completeness = as.numeric(apply(., MARGIN = 1, function(x) sum(!is.na(x))/54*100))) %>% 
+  # Count number of variables that is not missing in each row and calculate percentage completeness for each row (46 columns)
+  mutate(completeness = as.numeric(apply(., MARGIN = 1, function(x) sum(!is.na(x))/dim(mfl_tb_all)[2]*100))) %>% 
   mutate(type = str_to_lower(type)) %>%
   mutate(type = str_replace(type, ("^wc "), ''))
 
 # Add column with higher level type of facility deducted from type column via visual inspection of values
 mfl_tb_all_clean <- mfl_tb_all_clean %>%   
   mutate(super_type = case_when(str_detect(type, "clinic") ~ "clinic",
-                                type == "clinix" ~ "clinic",
+                                type == "clinix" ~ "hospital",
                                 type == "community day centre" ~ "community health centre",
                                 str_detect(type, "community health centre") ~ "community health centre",
                                 str_detect(type, "hospital") ~ "hospital",
@@ -795,58 +821,130 @@ mfl_tb_all_clean <- mfl_tb_all_clean %>%
                                 )
   )
 
+# Export tibble as CSV for further cleaning in OpenRefine as described below
+
+write_csv(mfl_tb_all_clean, "data/tmp_data/mfl_tb_all_clean.csv")
+
+remove(dhb_2016_tb, dhb_2018_tb, doh_dd_tb, healthsites_augmented_tb, hosp_bed_tb, kemri_who_tb, mfl_tb_all, mfl_tb_all_clean)
+
 ```
+
+## Further text cleaning in OpenRefine
+
+There is a lot of weird things in the names of places, including municipality names, facility names, etc. OpenRefine is a great tool to look into what's going on with names - especially if you want to manually inspect things before "fixing" them, rather than applying brute force operations on all elements in a column. We did some further cleaning up of the data set using this [JSON script](https://github.com/anelda/za_open_hospital_data/blob/master/scripts/tidy_mfl.json) in OpenRefine 3.2.
 
 ## Some statistics about the datasets
 
 ```{r}
 ## Summary statistics on full dataframe ----
 
-# How many facilities for each dataset
-
-count_facilities <- mfl_tb_all_clean %>% group_by(dataset, admin1_abb) %>% 
-  tally(name = "facilities") %>%
-  mutate(dataset = fct_reorder(dataset, -facilities))
-
-count_facilities %>% 
-  ggplot(aes(x = dataset, y = facilities, fill = admin1_abb)) +
-  geom_bar(stat = "identity") +
-  theme_minimal() +
-  labs(y = "Number of facilities listed", x = "") +
-  ggtitle("Number of facilities listed in each dataset")
+# Read in cleaner data from OpenRefine
+# Have to specify each column type as read_csv guess type from first 1000 which leads to logical type if first 1000 is NA
+mfl_refined <- read_csv("data/tidy_data/mfl_refine.csv", col_names = TRUE,
+                        cols(dataset = col_character(),
+                             country_name = col_character(), 
+                             country_iso3c = col_character(),
+                             admin1_name = col_character(),
+                             admin1_abb = col_character(),
+                             admin2_name = col_character(),
+                             admin2_abb = col_character(),
+                             admin3_name = col_character(),
+                             admin4_name = col_character(),
+                             city_name = col_character(),
+                             lat = col_double(),
+                             long = col_double(),
+                             type = col_character(),
+                             sector = col_character(),
+                             fac_name = col_character(),
+                             osm_id = col_character(),
+                             osm_type = col_character(),
+                             date_closed = col_date(),
+                             date_opened = col_date(),
+                             contact_person = col_character(),
+                             phys_address = col_character(),
+                             post_address = col_character(),
+                             web = col_character(),
+                             contact_phone = col_character(),
+                             contact_email = col_character(),
+                             org_owner = col_character(),
+                             org_rural_urban = col_character(),
+                             services = col_character(),
+                             num_beds_usable = col_integer(),
+                             num_beds_approved = col_integer(),
+                             num_surgical_beds_usable = col_integer(),
+                             num_surgical_beds_approved = col_integer(),
+                             num_theatres = col_integer(),
+                             num_surgeons_qual = col_integer(),
+                             num_surgeons_unqual = col_integer(),
+                             num_nurses = col_integer(),
+                             dispensing = col_character(),
+                             open_hours = col_character(),
+                             emergency = col_character(),
+                             notes = col_character(),
+                             water = col_character(),
+                             electricity = col_character(),
+                             wheelchair = col_character(),
+                             completeness = col_double(),
+                             admin3_abb = col_character(),
+                             fac_id = col_character(),
+                             super_type = col_character()
+                             )
+)
 
 ```
 
 ```{r}
+# How many facilities for each dataset
+
+count_facilities <- mfl_refined %>% group_by(dataset) %>% 
+  tally(name = "facilities") %>%
+  mutate(dataset = fct_reorder(dataset, -facilities))
+
+count_facilities %>% 
+  ggplot(aes(x = dataset, y = facilities)) +
+  geom_bar(stat = "identity", fill = "#53868b", width = 0.6) +
+  theme_minimal() +
+  labs(y = "Number of facilities listed", x = "Dataset") +
+  ggtitle("Number of facilities listed in each dataset")
+
+remove(count_facilities)
+```
+
+```{r fig.height = 10, fig.width=10}
 # How many high level types of facilities per dataset
 
-mfl_tb_all_clean %>% 
+mfl_refined %>% 
   group_by(dataset, super_type) %>% 
   # Count number of super_types per datase
   tally() %>% 
-  # Extract only most common ones as the legend is very unwieldy otherwise (too many categories and not a nice way to facet)
-  filter(n >= mean(n)) %>%
-  ggplot(aes(x = dataset, y = n, fill = super_type)) +
+  filter(n > 10) %>% 
+  ggplot(aes(x = super_type, y = n, fill = super_type)) +
   geom_bar(stat = "identity", position = "stack") +
   theme_minimal() +
   theme(legend.position ="bottom") +
   labs(y = "Number of occurrences of facility type", x = "", fill = "Facility type") +
-  ggtitle("Most frequently occurring facility types in each dataset")
+  ggtitle("Most frequently occurring facility types in each dataset (n > 10)") +
+  coord_flip() +
+  facet_wrap(~ dataset) +
+  theme(legend.position = "none")
+  
 
 ```
 
 ## Looking at completeness of the datasets
 
-We counted the number of columns that are not empty (NA) and divided that total by the total number of columns(54) to calculate the percentage completeness per observation for each dataset.
+We counted the number of columns that are not empty (NA) and divided that total by the total number of columns(46) to calculate the percentage completeness per observation for each data set.
 
-Here is a table showing the mean completeness for all the datasets. The best dataset is healthsites.io, but we must point out that many of the table columns were taken directly from the healthsites.io raw data. It is clear that there is a *lot* of outstanding information. In the next step we'll see if it is possible to add data from the various datasets together to get a more complete picture of each health facility listed in the complete dataset.
+The table below shows the mean completeness for all the data sets. The most complete data set is healthsites.io, but we must point out that many of the master table columns were taken directly from the original healthsites.io column list and we have added information about various admin levels via reverse geocoding. It is clear that there is a *lot* of outstanding information in all datasets. 
+
+In the next step we'll see if it is possible to add data from the various data sets together to get a more complete single entry for each health facility listed in the complete data set.
 
 ```{r}
 
 # How complete is each dataset?
 # As measured by the percentage of columns with values (as opposed to NA) - see mfl_tb_all_clean$completeness
 
-completeness_tb <- mfl_tb_all_clean %>% 
+completeness_tb <- mfl_refined %>% 
   group_by(dataset) %>% 
   summarise("Average completeness (%)" = round(mean(completeness)))
 
@@ -854,37 +952,92 @@ completeness_tb <- mfl_tb_all_clean %>%
 completeness_tb %>%  kableExtra::kable() %>% 
   kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = F) 
 
+remove(completeness_tb)
+
 ```
 
 ## Combining information from different datasets
 
-As we stated earlier on in the document, the ultimate goal is to build a dataset that will contain information about each of the facilities listed in all of the datasets but with descriptive information about each facility combined into a single entry in the final table.
+As we stated earlier on in the document, the ultimate goal of this project is to work through the process of collating the best possible facility list for South Africa by combining various openly available resources. We're aiming to have a single entry for each facility from the total data set, with as much columns filled as possible.
 
-It appears as if some datasets (notably DOH DHB 2016 and 2018 as well as DOH DD) contains the same facility more than once with different types described.
+It appears as if some of the data sets contain duplicates that differ only very slightly (almost indiscriminable). One example is _Ben-Chem Pharmacy_ vs _Ben-Chem Dispensary Pharmacy_ that also has slightly different coordinates in the two entries in a single data set. Another is the occurrence of _Clicks Mahikeng Pharmacy_ vs _Clicks Mahikeng Mall Pharmacy_ vs _Clicks Mahikeng Crossing Pharmacy_ listed as three facilities in the DoH Data Dictionary even when two of these listings have exactly the same coordinates.  
 
-When we analyse facility names, it is important to note that some of the bigger chains (Dischem, Clicks) may have several branches in a single city, while more specific names may be used in more than one location in the country.
+When we analyse facility names, it is important to note that some of the bigger chains (Dis-Chem, Clicks) may have several branches in a single city. At the same time some seemingly unique names may appear in more than one province. We can't group by facility names only in trying to find the number of unique facilities in a data set.
+
+Other factors that increases the difficulty of combining the data sets include:
+
+- typos;
+- varying capitalisation;
+- different types of spelling (e.g. _KwaZulu Natal_ vs _Kwa-Zulu Natal_);
+- adding or dropping location information to facility names (when the location info isn't officially part of the facility name e.g. _Clicks Mahikeng Pharmacy_ which may be identified in one dataset as _Clicks_ with location information specified in other columns);
+- a single location being divided up into subsections (e.g. correctional health facility being divided up into maximum, medium or only showing correctional in different data sets);
+- incorrect coordinates assigned to places may lead to incorrect reverse geocoding and interpretation of the different admin levels (e.g. _Bokomoso Pharmacy_ vs _Bokamoso Health Pharmacy_ is indicated to be in two different provinces, but Bokamoso is a specific area occurring only in one of the two provinces so clearly incorrectly geocoded in one of the data sets);
+- incomplete names (e.g. _Boland (Touws River) Home Based Care_ vs _Boland Hospice (Touws River) Home Based Care_);
+- differences in naming conventions between data sets (e.g. _Booth Memorial Step Down Facility_ vs _Booth Memorial Intermediate Care_ and _Dora Nginza Dental Service_ vs _Dora Nginza Oral Health Service_);
+- name changes (e.g. _Sunshine Hospital_ used to be _Actonville Hospital_ also possibly _Gatesvill Medical Centre Private Hospital_ as _Melomed Gatesville Hospital_);
+- single facility occurring in the Healthsites data set with osm_type as both _way_ and _node_;
+- facilities may be listed as closed but may have undergone a name change or location change (e.g. _Cango Clinic Private Hospital_);
+- not using full name of facility (e.g. _Albert Luthuli Local Municipality - LG EHS_ vs _Chief Albert Luthuli Local Municipality - LG EHS_);
+- incorrect entries (e.g. _Clicks Westgate Pharmacy Swartland_ from DoH DD data set);
+- generic names (e.g. _clinic_ or _dental practice_);
+- including translations in names (e.g. _Delmas Apteek Pharmacy_ or having the name in non-English e.g. _Fouries Apteek_ vs _Fouries Pharmacy_) and
+- many more!
+
+Clearly we should not be relying on the facility name, neither the coordinates to automatically combine information about locations that may appear to be the same place. And because of the variability in terms of completeness of the data, neither should we be grouping on too many administrative levels. The table below shows the frequency for a facility name within an area (up to admin level 4). More than 90% of the facilities are only observed once across the six data sets when we narrow the filter down to admin level 4. Visual inspection of the data set clearly shows a large number of "unique" observations are in fact duplicates across data sets and could be merged in a subsequent step.
 
 ```{r}
 
-mfl_tb_all_clean %>% 
+singularity_level4 <- mfl_refined %>% 
   # Try to see how many times each facility name appears in the dataset without cleaning things up
   # Facility names are also grouped by admin levels as sometimes the same name appears in different regions
-  group_by(fac_name, admin1_abb, admin2_abb, admin3_name, admin4_name) %>% 
+  group_by(fac_name, admin1_abb, admin2_name, admin3_name, admin4_name) %>% 
   tally(name = "num_fac", sort = TRUE) %>% 
-  filter(num_fac > 1)
+  ungroup() %>%
+  select(num_fac) %>%
+  group_by(num_fac) %>%
+  tally() %>%
+  mutate(Count = case_when(num_fac ==1 ~ "1",
+                                              num_fac > 1 & num_fac <= 5 ~ "2 - 5",
+                                              num_fac > 5 & num_fac <= 100 ~ "6 - 10")) %>% 
+  ungroup() %>% 
+  group_by(Count) %>% 
+  summarise(sum(n)) %>%
+  rename(total = "sum(n)") %>% 
+  mutate("Percentage of total data set" = round(total/dim(mfl_refined)[1]*100, 2)) %>% 
+  rename("Number of observations across all datasets" = Count,
+         "Count" = total)
 
+singularity_level4 %>%  kableExtra::kable() %>% 
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = F) 
 
-# When we try to find names of places that only occur in 1 dataset however, we will only group by admin1 because
-# some of the datasets don't have information for the others which means if we group on finer admin levels we will identify 
-# names of facilities that did occur in more than one dataset as single occurrences depending on the level of details available in each dataset
+```
 
-mfl_tb_all_clean %>% 
+When we only group the data based on facility name and admin level 1 the picture changes somewhat. The table below shows that a number of facilities are listed in the data sets without names. The more generic names (larger chain groups for example) are listed many times across several data sets and can only be separated into unique entries for merging if we also look at lower administrative level and descriptive data.
+
+```{r}
+
+singularity_level1 <- mfl_refined %>% 
   # Try to see how many times each facility name appears in the dataset without cleaning things up
   # Facility names are also grouped by admin levels as sometimes the same name appears in different regions
   group_by(fac_name, admin1_abb) %>% 
   tally(name = "num_fac", sort = TRUE) %>% 
-  filter(num_fac == 1)
+  rename("Facility name" = fac_name,
+         "Province (admin 1)" = admin1_abb,
+         "# observations across all data sets" = num_fac)
 
-
+singularity_level1[1:15,] %>%  kableExtra::kable() %>% 
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = F) 
 
 ```
+
+
+# Next steps
+
+There is clearly a lot of work needed to clean up the data to get to a point where we can actually merge information related to individual facilities from different data sets.
+
+Part two of this report will look further into data cleaning and options for merging of the various data sets. We've already started to investigate the possibility of using R packages such as [`fuzzyjoin`](https://cran.r-project.org/web/packages/fuzzyjoin/index.html) which implements, amongst other, the [`stringdist`](https://cran.r-project.org/web/packages/stringdist/index.html) package. `stringdist` can calculate string distances (i.e. the amount by which two character strings e.g. facility names differ) using a wide variety of algorithms.
+
+We're also exploring existing open source tools that allows one to merge facility lists, such as [Facility Match](https://www.facilitymatch.net/). Facility Match is an online tool developed by IntraHealth International with funding from PEPFAR and Digtal Square, the Bill & Melinda Gates Foundation, and a consortium of other investors. The tool is available under the open Apache License 2.0 and can be installed locally or used online. 
+
+There is no escape from physically inspecting the data and validating as much as possible before an attempt is made to merge the data, but we'd like to identiy the steps that can be automated and see how that can be implemented. So far we've relied on R and OpenRefine to do most of the cleanup, merging, and analysis. This workflow, if it can be streamlined, will be accessible in low income settings as both tools are available for free, under active development, and have good communities around it who can facilitate training and provide support.
+
