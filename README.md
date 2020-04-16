@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/253125680.svg)](https://zenodo.org/badge/latestdoi/253125680)
+
 ## Background: `afrimapr` and `afrihealthsites`
 
 Early in March 2020 the [_afrimapr_ team](http://afrimapr.org) started looking into [mapping, comparing, 
