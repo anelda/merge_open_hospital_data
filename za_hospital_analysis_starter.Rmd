@@ -1004,7 +1004,7 @@ singularity_level4 <- mfl_refined %>%
   summarise(sum(n)) %>%
   rename(total = "sum(n)") %>% 
   mutate("Percentage" = round(total/dim(mfl_refined)[1]*100, 2)) %>% 
-  rename("# observations" = Count,
+  rename("# Observations" = Count,
          "Count" = total)
 
 singularity_level4 %>%  kableExtra::kable(caption = "The number times a specific facility name shows up across all datasets when we group by facility name and up to admin level 4") %>% 
@@ -1023,9 +1023,9 @@ singularity_level1 <- mfl_refined %>%
   tally(name = "num_fac", sort = TRUE) %>% 
   rename("Facility name" = fac_name,
          "Admin level 1" = admin1_abb,
-         "# observations" = num_fac)
+         "# Observations" = num_fac)
 
-singularity_level1[1:15,] %>%  kableExtra::kable(caption = "The number times a specific facility type shows up across all datasets when we group by facility name up to admin level 1") %>% 
+singularity_level1[1:10,] %>%  kableExtra::kable(caption = "The number times a specific facility type shows up across all datasets when we group by facility name up to admin level 1") %>% 
   kableExtra::kable_styling(bootstrap_options = c("striped", "hover")) 
 
 ```
@@ -1040,4 +1040,8 @@ Part two of this report will look further into data cleaning and options for mer
 We're also exploring existing open source tools that allows one to merge facility lists, such as [Facility Match](https://www.facilitymatch.net/). Facility Match is an online tool developed by IntraHealth International with funding from PEPFAR and Digtal Square, the Bill & Melinda Gates Foundation, and a consortium of other investors. The tool is available under the open Apache License 2.0 and can be installed locally or used online. 
 
 There is no escape from physically inspecting the data and validating as much as possible before an attempt is made to merge the data, but we'd like to identiy the steps that can be automated and see how that can be implemented. So far we've relied on R and OpenRefine to do most of the cleanup, merging, and analysis. This workflow, if it can be streamlined, will be accessible in low income settings as both tools are available for free, under active development, and have good communities around it who can facilitate training and provide support.
+
+# Acknowledgements
+
+Thanks to [Andy South](https://twitter.com/southmapr) for reviewing the post and making suggestions about how to improve it.
 

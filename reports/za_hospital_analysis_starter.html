@@ -3020,7 +3020,7 @@ The number times a specific facility name shows up across all datasets when we g
 <thead>
 <tr>
 <th style="text-align:left;">
-# observations
+# Observations
 </th>
 <th style="text-align:right;">
 Count
@@ -3080,7 +3080,7 @@ Facility name
 Admin level 1
 </th>
 <th style="text-align:right;">
-# observations
+# Observations
 </th>
 </tr>
 </thead>
@@ -3195,61 +3195,6 @@ KZ
 17
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-Link
-</td>
-<td style="text-align:left;">
-GP
-</td>
-<td style="text-align:right;">
-15
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-NA
-</td>
-<td style="text-align:left;">
-LP
-</td>
-<td style="text-align:right;">
-13
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-NA
-</td>
-<td style="text-align:left;">
-MP
-</td>
-<td style="text-align:right;">
-13
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-NA
-</td>
-<td style="text-align:left;">
-NW
-</td>
-<td style="text-align:right;">
-12
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Clicks
-</td>
-<td style="text-align:left;">
-LP
-</td>
-<td style="text-align:right;">
-10
-</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -3260,6 +3205,10 @@ LP
 <p>Part two of this report will look further into data cleaning and options for merging of the various data sets. We’ve already started to investigate the possibility of using R packages such as <a href="https://cran.r-project.org/web/packages/fuzzyjoin/index.html"><code>fuzzyjoin</code></a> which implements, amongst other, the <a href="https://cran.r-project.org/web/packages/stringdist/index.html"><code>stringdist</code></a> package. <code>stringdist</code> can calculate string distances (i.e. the amount by which two character strings e.g. facility names differ) using a wide variety of algorithms.</p>
 <p>We’re also exploring existing open source tools that allows one to merge facility lists, such as <a href="https://www.facilitymatch.net/">Facility Match</a>. Facility Match is an online tool developed by IntraHealth International with funding from PEPFAR and Digtal Square, the Bill &amp; Melinda Gates Foundation, and a consortium of other investors. The tool is available under the open Apache License 2.0 and can be installed locally or used online.</p>
 <p>There is no escape from physically inspecting the data and validating as much as possible before an attempt is made to merge the data, but we’d like to identiy the steps that can be automated and see how that can be implemented. So far we’ve relied on R and OpenRefine to do most of the cleanup, merging, and analysis. This workflow, if it can be streamlined, will be accessible in low income settings as both tools are available for free, under active development, and have good communities around it who can facilitate training and provide support.</p>
+</div>
+<div id="acknowledgements" class="section level1">
+<h1>Acknowledgements</h1>
+<p>Thanks to <a href="https://twitter.com/southmapr">Andy South</a> for reviewing the post and making suggestions about how to improve it.</p>
 </div>
 
 
