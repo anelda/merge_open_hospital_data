@@ -218,13 +218,13 @@ sources_tbl <- tibble(Name = c("Geographical maldistribution of surgical resourc
                      "No explicit license", 
                      "No explicit license",
                      "No explicit license",
-                     "CC-BY-4.0",
+                     "Open Database License*",
                      "CC-0"),
   `Origin/Owner` = c("Dr. Angela Dell", 
                      "South African National Department tof Health", 
                      "Health Systems Trust",
                      "South African National Department of Health",
-                     "Healthsites.io/Crowdsourcing",
+                     "Healthsites.io/OpenStreetMap*",
                      "Hosted by WHO Global Malaria Program/Collected by KEMRI"),
   `Last Updated` = c("Mar 2016", 
                      "Feb 2018",
@@ -236,6 +236,7 @@ sources_tbl <- tibble(Name = c("Geographical maldistribution of surgical resourc
 
 ```
 
+
 ```{r Print data sources table}
 
 colmns = dim(sources_tbl)[2]
@@ -243,7 +244,8 @@ colmns = dim(sources_tbl)[2]
 sources_tbl %>%  kableExtra::kable() %>% 
   kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = F) %>% 
   kableExtra::column_spec(1:colmns, border_right = T, border_left = T) %>% 
-  kableExtra::scroll_box(width = "100%", height = "700px") 
+  kableExtra::scroll_box(width = "100%", height = "700px") %>% 
+  kableExtra::footnote(general = "* A previous version of this report incorrectly stated that the healthsites.io data is licensed as CC-BY 4.0 and the owner/origin as Healthsites/Crowdsourcing")
 
 remove(sources_tbl)
 
@@ -904,7 +906,7 @@ count_facilities %>%
   ggplot(aes(x = dataset, y = facilities)) +
   geom_bar(stat = "identity", fill = "#53868b", width = 0.6) +
   theme_minimal() +
-  labs(y = "Number of facilities listed", x = "Dataset") +
+  labs(y = "Number of facilities listed", x = "dataset") +
   ggtitle("Number of facilities listed in each dataset")
 
 remove(count_facilities)
