@@ -36,7 +36,8 @@ Early in March 2020 the [_afrimapr_ team](http://afrimapr.org) started looking i
 
 ## South Africa: A case study
 
-In South Africa the [Data Science for Social Impact](https://dsfsi.github.io/) group created an open [COVID-19 dataset and dashboard](https://arxiv.org/abs/2004.04813) to assist with local efforts. The group recruited volunteers to assist with the the collation of information about hospital resources in South Africa and I thought this was a great practical use-case for the kind of tools we had in mind to build within _afrimapr_. For more information about the challenges associated with building a comprehensive list of health facilities for South Africa see [this Github issue](https://github.com/dsfsi/covid19za/issues/115). During our conversations about developing a list of hospitals with various attributes such as address, website, contact details, services available, and corona-readiness, we realised this wasn't going to be a trivial exercise.
+In South Africa the [Data Science for Social Impact](https://dsfsi.github.io/) group created an open [COVID-19 dataset and dashboard](https://arxiv.org/abs/2004.04813) to assist with local efforts. The group recruited volunteers to assist with the the collation of information about hospital resources in South Africa and I thought 
+was a great practical use-case for the kind of tools we had in mind to build within _afrimapr_. For more information about the challenges associated with building a comprehensive list of health facilities for South Africa see [this Github issue](https://github.com/dsfsi/covid19za/issues/115). During our conversations about developing a list of hospitals with various attributes such as address, website, contact details, services available, and corona-readiness, we realised this wasn't going to be a trivial exercise.
 
 ## Master Facility Lists
 
@@ -330,7 +331,7 @@ The data was made available in Excel spreadsheet format with separate sheets for
 
 ### Raw data to tidy data
 
-The _readme_ file displayed below shows the steps taken to convert the raw DoH Health Barometer hospital data set to tidy data. The data was not extracted programmatically due to the variable format of the tables in each sheet. Once data was in CSV format it was further cleaned up in [Openrefine](http://openrefine.org) with [this JSON script](https://github.com/anelda/za_open_hospital_data/blob/master/scripts/za_hospital_temp_to_refine.json). The CSV was then exported from Openrefine and imported into R for subsequent cleaning and analysis. The full steps for data cleaning are described below. The R code is available in [this file](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd). 
+The _readme_ file displayed below shows the steps taken to convert the raw DoH Health Barometer hospital data set to tidy data. The data was not extracted programmatically due to the variable format of the tables in each sheet. Once data was in CSV format it was further cleaned up in [Openrefine](http://openrefine.org) with [this JSON script](https://github.com/anelda/za_open_hospital_data/blob/master/scripts/za_hospital_temp_to_refine.json). The CSV was then exported from Openrefine and imported into R for subsequent cleaning and analysis. The full steps for data cleaning are described below. The R code is available in [this file](https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.Rmd). 
 
 ```{r comment=''}
 
@@ -346,7 +347,7 @@ cat(readLines("readme/readme_za_hospital_district_names.txt"), sep = '\n')
 
 ```
 
-To join the hospital data with the district names data, a short R script was written and is included in [this file](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd).
+To join the hospital data with the district names data, a short R script was written and is included in [this file](https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.Rmd).
 
 ```{r}
 
@@ -413,7 +414,7 @@ The data was made available in  Excel Binary Workbook format (.xlsb)  with separ
 
 ### Tidy data
 
-Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd)).
+Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.Rmd)).
 
 ```{r}
 
@@ -478,7 +479,7 @@ The data was made available in CSV format.
 
 ### Tidy data
 
-Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd).
+Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.Rmd)).
 
 
 ```{r}
@@ -539,7 +540,7 @@ The data was imported into R as a shapefile via the [`afrihealthsites` package](
 
 ### Tidy data
 
-Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd)).
+Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.Rmd)).
 
 ```{r}
 
@@ -596,7 +597,7 @@ head(healthsites_tb) %>% kableExtra::kable() %>%
 
 Very few of the health facilities have more information about where it is located i.e. province, district municipality, street address as can be seen in the table above. We therefore used reverse geocoding to go from coordinates (which was available in healthsites.io data) to addresses.
 
-Using the `tmaptools` package in R to reverse geocode the coordinates, we were able to access a rich treasure trove of information including up to admin level 4 data, facility name, physical address, and more. Running the code took about 12 hours as we have to respect the fair usage policy of OSM. The R code is available in [this file](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd).
+Using the `tmaptools` package in R to reverse geocode the coordinates, we were able to access a rich treasure trove of information including up to admin level 4 data, facility name, physical address, and more. Running the code took about 12 hours as we have to respect the fair usage policy of OSM. The R code is available in [this file](https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.Rmd).
 
 ```{r warning=FALSE}
 
@@ -690,7 +691,7 @@ The data for the whole of sub-Saharan Africa was made available in an Excel spre
 
 ### Tidy data
 
-Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/za_open_hospital_data/blob/master/za_hospital_analysis_starter.Rmd)).
+Data cleaning was performed in R (the code is included in [this document](https://github.com/anelda/merge_open_hospital_data/blob/master/reports/merge_open_hospital_data_part1.Rmd)).
 
 ```{r}
 
